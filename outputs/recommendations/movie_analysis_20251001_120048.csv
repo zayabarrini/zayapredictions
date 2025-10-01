@@ -1,0 +1,12 @@
+Rank,Title,Year,Predicted_Rating,Recommendation_Score,IMDb_Rating,Runtime_mins,Genres,Director,Runtime_Vs_Your_Avg,IMDb_Vs_Your_Avg,Predicted_Vs_Your_Avg,Good_Runtime_Match,Good_IMDb_Match,High_Confidence,Has_LGBT,Has_Cinematography,Has_Screenplay,Has_Plot_Twist
+1,American Sniper,2014,8.15,0.633,7.3,133,"Action, Biography, Drama",Clint Eastwood,26.799,-0.069,0.218,True,True,True,0,0,0,0
+2,Star Wars: Episode V - The Empire Strikes Back,1980,7.906,0.619,8.7,124,"Action, Adventure, Fantasy",Irvin Kershner,17.799,1.331,-0.026,True,False,True,0,0,0,0
+3,Terminator 2: Judgment Day,1991,7.881,0.616,8.6,137,"Action, Adventure, Sci-Fi",James Cameron,30.799,1.231,-0.051,False,False,True,0,0,0,0
+4,Skyfall,2012,8.044,0.608,7.8,143,"Action, Adventure, Thriller",Sam Mendes,36.799,0.431,0.113,False,True,True,0,0,0,0
+5,Jaws,1975,7.865,0.605,8.1,124,"Adventure, Horror, Thriller",Steven Spielberg,17.799,0.731,-0.066,True,True,True,0,0,0,0
+6,E.T. the Extra-Terrestrial,1982,7.863,0.601,7.9,115,"Adventure, Family, Sci-Fi",Steven Spielberg,8.799,0.531,-0.068,True,True,True,0,0,0,0
+7,Aladdin,1992,7.809,0.6,8.0,90,"Animation, Adventure, Comedy","Ron Clements, John Musker",-16.201,0.631,-0.123,True,True,True,0,0,0,0
+8,King Kong,2005,7.627,0.575,7.2,187,"Action, Adventure, Romance",Peter Jackson,80.799,-0.169,-0.305,False,True,False,0,0,0,0
+9,Tarzan,1999,7.522,0.572,7.3,88,"Animation, Adventure, Comedy","Chris Buck, Kevin Lima",-18.201,-0.069,-0.409,True,True,False,0,0,0,0
+10,Spectre,2015,7.7,0.561,6.8,148,"Action, Adventure, Thriller",Sam Mendes,41.799,-0.569,-0.232,False,True,False,0,0,0,0
+11,Suicide Squad,2016,6.858,0.501,5.9,123,"Action, Adventure, Fantasy",David Ayer,16.799,-1.469,-1.073,True,False,False,0,0,0,0

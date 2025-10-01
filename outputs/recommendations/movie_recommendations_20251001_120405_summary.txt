@@ -1,0 +1,16 @@
+MOVIE RECOMMENDATION SYSTEM - RESULTS SUMMARY
+==================================================
+Generated on: 2025-10-01 12:04:05
+Total movies analyzed: 121
+Model performance:
+  - Train R²: 0.797
+  - Test R²: 0.503
+  - MAE: 0.652
+  - Training samples: 1062
+
+TOP 5 RECOMMENDATIONS:
+97. Witness for the Prosecution (1957) - Predicted: 9.5/10 - Score: 0.749
+102. Hotel Rwanda (2004) - Predicted: 8.3/10 - Score: 0.681
+59. Hamilton (2020) - Predicted: 8.1/10 - Score: 0.677
+83. Downfall (2004) - Predicted: 8.2/10 - Score: 0.677
+90. Maharaja (2024) - Predicted: 8.3/10 - Score: 0.662

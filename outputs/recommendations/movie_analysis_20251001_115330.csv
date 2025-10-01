@@ -1,0 +1,4 @@
+Rank,Title,Year,Predicted_Rating,Recommendation_Score,IMDb_Rating,Runtime_mins,Genres,Director,Runtime_Vs_Your_Avg,IMDb_Vs_Your_Avg,Predicted_Vs_Your_Avg,Good_Runtime_Match,Good_IMDb_Match,High_Confidence,Has_LGBT,Has_Cinematography,Has_Screenplay,Has_Plot_Twist
+1,Terminator 2: Judgment Day,1991,7.881,0.616,8.6,137,"Action, Adventure, Sci-Fi",James Cameron,30.799,1.231,-0.051,False,False,True,0,0,0,0
+2,Jaws,1975,7.865,0.605,8.1,124,"Adventure, Horror, Thriller",Steven Spielberg,17.799,0.731,-0.066,True,True,True,0,0,0,0
+3,Suicide Squad,2016,6.858,0.501,5.9,123,"Action, Adventure, Fantasy",David Ayer,16.799,-1.469,-1.073,True,False,False,0,0,0,0
