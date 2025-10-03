@@ -291,19 +291,17 @@ def create_simple_plot_for_small_dataset(recommendations_df: pd.DataFrame,
 def export_recommendations_to_csv(recommendations_df: pd.DataFrame, 
                                  model_metrics: dict = None,
                                  filename: str = None):
-    """Export recommendations to a detailed CSV file in outputs folder"""
+    """Export comprehensive recommendations with original CSV data"""
     
     # Ensure recommendations directory exists
     recommendations_dir = 'outputs/recommendations'
     os.makedirs(recommendations_dir, exist_ok=True)
     
-    if filename is None:
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        filename = f"{recommendations_dir}/movie_recommendations_{timestamp}.csv"
-    else:
-        # Ensure filename is in outputs directory
-        if not filename.startswith('outputs/'):
-            filename = f"{recommendations_dir}/{filename}"
+    # Remove duplicates before exporting
+    initial_count = len(recommendations_df)
+    recommendations_df = recommendations_df.drop_duplicates(subset=['Title', 'Year'], keep='first')
+    if initial_count != len(recommendations_df):
+        print(f"🔄 Removed {initial_count - len(recommendations_df)} duplicates before export")
     
     # Create a copy for export
     export_df = recommendations_df.copy()
@@ -311,25 +309,60 @@ def export_recommendations_to_csv(recommendations_df: pd.DataFrame,
     # Add ranking
     export_df['Rank'] = range(1, len(export_df) + 1)
     
-    # Define desired columns in order of importance
-    desired_columns = [
+    # Define comprehensive column order for export - PRIORITIZE ORIGINAL CSV DATA
+    comprehensive_columns = [
+        # Ranking & Core Identification
         'Rank', 'Title', 'Year', 'Predicted_Rating', 'Recommendation_Score',
-        'IMDb_Rating', 'Runtime_mins', 'Genres', 'Director', 'Country',
-        'Plot', 'Has_LGBT', 'Has_Cinematography', 'Has_Screenplay', 
-        'Has_Plot_Twist', 'Has_Female_Strength', 'Has_Male_Gaze', 'Has_Oscar',
-        'Genre_Count', 'Is_Drama', 'Is_Comedy', 'Is_Crime', 'Is_History', 'Is_Romance'
+        
+        # ORIGINAL CSV DATA (high priority)
+        'Keywords_From_CSV', 'Female_Critiques_From_CSV', 'Hours_Themes_Alignment_From_CSV',
+        'Country_From_CSV', 'Awards_From_CSV', 'Narrative_Type_From_CSV',
+        'Director',  # From CSV
+        
+        # Basic Movie Info from OMDb
+        'Rated', 'Content_Warnings', 'Released', 'Runtime', 'Runtime_mins',
+        'Genre', 'Primary_Genre', 'Secondary_Genre',
+        
+        # Ratings & Recognition
+        'IMDb_Rating', 'imdbRating', 'imdbVotes', 'Metascore', 
+        'Has_Oscar', 'Award_Count', 'Awards',
+        
+        # Creative Team from OMDb
+        'Writer', 'Actors',
+        
+        # Plot & Context
+        'Plot', 'Language', 'Country',
+        
+        # Technical Details
+        'imdbID', 'Type', 'DVD', 'BoxOffice', 'Production',
+        
+        # Content Analysis
+        'Mood_Tags', 'Pacing', 'Style_Tags', 'Themes',
+        
+        # Character & Narrative
+        'Lead_Gender', 'Narrative_Structure', 'Ending_Type', 'Character_Arcs',
+        
+        # Technical & Production
+        'Is_Adaptation', 'Budget_Level', 'Special_Effects', 'Filming_Location_Diversity',
+        
+        # ML Features (for reference)
+        'Has_LGBT', 'Has_Cinematography', 'Has_Screenplay', 'Has_Plot_Twist',
+        'Genre_Count', 'Is_Drama', 'Is_Comedy', 'Is_Crime', 'Is_History', 
+        'Is_Romance', 'Is_Action', 'Is_Adventure', 'Is_Sci_Fi'
     ]
     
     # Only include columns that actually exist in the dataframe
-    available_columns = [col for col in desired_columns if col in export_df.columns]
+    available_columns = [col for col in comprehensive_columns if col in export_df.columns]
     
-    print(f"📊 Available columns for CSV export: {available_columns}")
+    print(f"📊 Exporting {len(available_columns)} columns to CSV")
+    print(f"📋 Including original CSV data: {any('From_CSV' in col for col in available_columns)}")
     
     # Reorder dataframe with only available columns
     export_df = export_df[available_columns]
     
     # Round numerical columns for cleaner output
-    numerical_columns = ['Predicted_Rating', 'Recommendation_Score', 'IMDb_Rating']
+    numerical_columns = ['Predicted_Rating', 'Recommendation_Score', 'IMDb_Rating', 
+                       'imdbRating', 'Metascore']
     for col in numerical_columns:
         if col in export_df.columns:
             export_df[col] = export_df[col].round(3)
@@ -341,24 +374,43 @@ def export_recommendations_to_csv(recommendations_df: pd.DataFrame,
     if model_metrics:
         summary_filename = filename.replace('.csv', '_summary.txt')
         with open(summary_filename, 'w') as f:
-            f.write("MOVIE RECOMMENDATION SYSTEM - RESULTS SUMMARY\n")
-            f.write("=" * 50 + "\n")
+            f.write("COMPREHENSIVE MOVIE RECOMMENDATION SYSTEM - RESULTS SUMMARY\n")
+            f.write("=" * 60 + "\n")
             f.write(f"Generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-            f.write(f"Total movies analyzed: {len(recommendations_df)}\n")
+            f.write(f"Total unique movies analyzed: {len(recommendations_df)}\n")
             f.write(f"Model performance:\n")
             f.write(f"  - Train R²: {model_metrics.get('train_score', 'N/A'):.3f}\n")
             f.write(f"  - Test R²: {model_metrics.get('test_score', 'N/A'):.3f}\n")
             f.write(f"  - MAE: {model_metrics.get('mae', 'N/A'):.3f}\n")
             f.write(f"  - Training samples: {model_metrics.get('training_samples', 'N/A')}\n")
             
-            # Top 5 recommendations
-            f.write("\nTOP 5 RECOMMENDATIONS:\n")
-            for idx, row in recommendations_df.head().iterrows():
-                f.write(f"{idx + 1}. {row['Title']} ({row.get('Year', 'N/A')}) - "
-                       f"Predicted: {row['Predicted_Rating']:.1f}/10 - "
-                       f"Score: {row['Recommendation_Score']:.3f}\n")
+            # Data quality summary
+            f.write(f"\nDATA QUALITY SUMMARY:\n")
+            if 'imdbRating' in recommendations_df.columns:
+                f.write(f"  - Average IMDb Rating: {recommendations_df['imdbRating'].mean():.2f}\n")
+            if 'Runtime_mins' in recommendations_df.columns:
+                f.write(f"  - Average Runtime: {recommendations_df['Runtime_mins'].mean():.0f} mins\n")
+            if 'Year' in recommendations_df.columns:
+                valid_years = recommendations_df[recommendations_df['Year'] > 0]['Year']
+                if len(valid_years) > 0:
+                    f.write(f"  - Year Range: {valid_years.min()} - {valid_years.max()}\n")
+            
+            # Top recommendations with enhanced info
+            f.write("\nTOP RECOMMENDATIONS:\n")
+            for idx, row in recommendations_df.iterrows():
+                f.write(f"\n{idx + 1}. {row['Title']} ({row.get('Year', 'N/A')})\n")
+                f.write(f"   Predicted: {row['Predicted_Rating']:.1f}/10 | Score: {row['Recommendation_Score']:.3f}\n")
+                if 'imdbRating' in row:
+                    f.write(f"   IMDb: {row['imdbRating']}\n")
+                if 'Director' in row:
+                    f.write(f"   Director: {row.get('Director', 'N/A')}\n")
+                # Include original CSV data in summary
+                if 'Keywords_From_CSV' in row and row['Keywords_From_CSV']:
+                    f.write(f"   Keywords: {row['Keywords_From_CSV']}\n")
+                if 'Hours_Themes_Alignment_From_CSV' in row and row['Hours_Themes_Alignment_From_CSV']:
+                    f.write(f"   Themes: {row['Hours_Themes_Alignment_From_CSV']}\n")
     
-    print(f"📊 Recommendations exported to: {filename}")
+    print(f"📊 Comprehensive recommendations exported to: {filename}")
     if model_metrics:
         print(f"📋 Summary exported to: {summary_filename}")
     

@@ -17,14 +17,23 @@ class MovieRecommender:
         self.feature_columns = [
             'IMDb_Rating', 'Runtime_mins', 'Year', 'Num_Votes',
             'Has_LGBT', 'Has_Cinematography', 'Has_Screenplay', 'Has_Plot_Twist',
-            'Genre_Count', 'Is_Drama', 'Is_Comedy', 'Is_Crime', 'Is_History', 'Is_Romance'
+            'Genre_Count', 'Is_Drama', 'Is_Comedy', 'Is_Crime', 'Is_History', 
+            'Is_Romance', 'Is_Action', 'Is_Adventure', 'Is_Sci_Fi'
         ]
+        self.actual_training_features = []  # Track features used in training
     
-    def train(self, X: np.ndarray, y: np.ndarray) -> Dict:
-        """Train the recommendation model"""
+    def train(self, X: np.ndarray, y: np.ndarray, feature_names: List[str] = None) -> Dict:
+        """Train the recommendation model with specific features"""
         if len(X) == 0:
             raise ValueError("No training data available")
             
+        # Store the actual features used for training
+        if feature_names:
+            self.actual_training_features = feature_names
+        else:
+            # If no feature names provided, use indices
+            self.actual_training_features = [f"feature_{i}" for i in range(X.shape[1])]
+        
         X_train, X_test, y_train, y_test = train_test_split(
             X, y, test_size=Config.TEST_SIZE, random_state=Config.RANDOM_STATE
         )
@@ -43,28 +52,42 @@ class MovieRecommender:
             'test_score': test_score,
             'mae': mae,
             'training_samples': len(X_train),
-            'test_samples': len(X_test)
+            'test_samples': len(X_test),
+            'feature_count': X.shape[1],
+            'features_used': self.actual_training_features
         }
     
     def predict_ratings(self, movies_df: pd.DataFrame) -> pd.DataFrame:
-        """Predict ratings for new movies"""
+        """Predict ratings for new movies with feature alignment"""
         if not self.is_trained:
             raise ValueError("Model must be trained before making predictions")
         
-        # Prepare features - handle missing columns
-        available_features = [col for col in self.feature_columns if col in movies_df.columns]
+        print(f"🔧 Model was trained with {len(self.actual_training_features)} features: {self.actual_training_features}")
         
-        print(f"Using features for prediction: {available_features}")
+        # Prepare features - only use the exact features that were used in training
+        available_features = [col for col in self.actual_training_features if col in movies_df.columns]
+        missing_features = [col for col in self.actual_training_features if col not in movies_df.columns]
         
-        # Fill missing values
-        for col in available_features:
-            if col in movies_df.columns:
-                if movies_df[col].dtype in ['int64', 'float64']:
-                    movies_df[col] = movies_df[col].fillna(0)
+        print(f"✅ Available features for prediction: {len(available_features)}")
+        if missing_features:
+            print(f"⚠️  Missing features: {missing_features}")
+            print("   These features will be set to 0")
+        
+        # Fill missing values and ensure all training features exist
+        for feature in self.actual_training_features:
+            if feature not in movies_df.columns:
+                movies_df[feature] = 0  # Default value for missing features
+            else:
+                # Fill NaN values
+                if movies_df[feature].dtype in ['int64', 'float64']:
+                    movies_df[feature] = movies_df[feature].fillna(0)
                 else:
-                    movies_df[col] = movies_df[col].fillna('')
+                    movies_df[feature] = movies_df[feature].fillna('')
         
-        X_new = movies_df[available_features].values
+        # Use exactly the same features as training, in the same order
+        X_new = movies_df[self.actual_training_features].values
+        
+        print(f"🎯 Making predictions with {X_new.shape[1]} features")
         
         # Make predictions
         predictions = self.model.predict(X_new)
@@ -124,13 +147,13 @@ class MovieRecommender:
         
         return combined_score
     
-    def get_feature_importance(self, feature_names: List[str]) -> pd.DataFrame:
+    def get_feature_importance(self) -> pd.DataFrame:
         """Get feature importance from the trained model"""
         if not self.is_trained:
             raise ValueError("Model must be trained first")
         
         importance_df = pd.DataFrame({
-            'feature': feature_names,
+            'feature': self.actual_training_features,
             'importance': self.model.feature_importances_
         })
         

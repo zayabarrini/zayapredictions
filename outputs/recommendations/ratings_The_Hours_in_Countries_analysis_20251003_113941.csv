@@ -1,0 +1,99 @@
+Rank,Title,Year,Predicted_Rating,Recommendation_Score,IMDb_Rating,Runtime_mins,Director,Runtime_Vs_Your_Avg,IMDb_Vs_Your_Avg,Predicted_Vs_Your_Avg,Good_Runtime_Match,Good_IMDb_Match,High_Confidence,Has_LGBT,Has_Cinematography,Has_Screenplay,Has_Plot_Twist
+1,200 Meters,2020,8.031,0.626,7.2,96.0,Ameen Nayfeh,-10.201,-0.169,0.099,True,True,True,0,0,0,0
+2,"4 Months, 3 Weeks and 2 Days",2007,8.254,0.651,7.9,113.0,Cristian Mungiu,6.799,0.531,0.323,True,True,True,0,0,0,0
+3,A Useful Life,2010,7.837,0.6,6.4,67.0,Federico Veiroj,-39.201,-0.969,-0.094,False,True,False,0,0,0,0
+4,Adam,2019,8.065,0.627,7.2,98.0,Maryam Touzani,-8.201,-0.169,0.133,True,True,True,0,0,0,0
+5,Alba,2016,7.997,0.614,6.7,98.0,Ana Cristina Barragán,-8.201,-0.669,0.065,True,True,True,0,0,0,0
+6,Alsino and the Condor,1982,7.456,0.577,6.2,89.0,Miguel Littin,-17.201,-1.169,-0.475,True,False,False,0,0,0,0
+7,Antes que cante el gallo,2016,8.047,0.628,7.3,98.0,Ari Maniel Cruz,-8.201,-0.069,0.115,True,True,True,0,0,0,0
+8,Beauty and the Dogs,2017,8.125,0.628,7.1,100.0,Kaouther Ben Hania,-6.201,-0.269,0.193,True,True,True,0,0,0,0
+9,Birds of Passage,2018,8.238,0.642,7.5,125.0,"Cristina Gallego, Ciro Guerra",18.799,0.131,0.306,True,True,True,0,0,0,0
+10,Black November,2012,7.374,0.555,5.3,95.0,Jeta Amata,-11.201,-2.069,-0.557,True,False,False,0,0,0,0
+11,Bread and Salt,2022,8.405,0.636,6.8,100.0,Damian Kocur,-6.201,-0.569,0.473,True,True,True,0,0,0,0
+12,Cairo 678,2010,8.181,0.637,7.4,100.0,Mohamed Diab,-6.201,0.031,0.249,True,True,True,0,0,0,0
+13,Children of Nature,1991,7.806,0.614,7.2,82.0,Friðrik Þór Friðriksson,-24.201,-0.169,-0.126,True,True,True,0,0,0,0
+14,Chilla,2014,8.103,0.609,6.2,88.0,Saodat Ismailova,-18.201,-1.169,0.171,True,False,True,0,0,0,0
+15,Clara Sola,2021,8.392,0.634,6.7,106.0,Nathalie Álvarez Mesén,-0.201,-0.669,0.461,True,True,True,0,0,0,0
+16,Cocote,2017,8.119,0.614,6.4,106.0,Nelson Carlo de Los Santos Arias,-0.201,-0.969,0.187,True,True,True,0,0,0,0
+17,Corn Island,2014,8.179,0.639,7.5,100.0,George Ovashvili,-6.201,0.131,0.247,True,True,True,0,0,0,0
+18,Daughters of the Dust,1991,7.841,0.628,6.6,113.0,Julie Dash,6.799,-0.769,-0.09,True,True,True,0,0,0,0
+19,Destiny,1997,7.776,0.637,7.2,135.0,Youssef Chahine,28.799,-0.169,-0.156,True,True,True,0,0,0,0
+20,Difret,2014,7.969,0.616,6.9,99.0,Zeresenay Mehari,-7.201,-0.469,0.038,True,True,True,0,0,0,0
+21,Dôlè,2000,7.572,0.589,6.5,79.0,Imunga Ivanga,-27.201,-0.869,-0.359,True,True,False,0,0,0,0
+22,Embrace of the Serpent,2015,8.33,0.652,7.8,125.0,Ciro Guerra,18.799,0.431,0.398,True,True,True,0,0,0,0
+23,Everybody Changes,2019,8.027,0.613,6.6,93.0,Arturo Montenegro,-13.201,-0.769,0.096,True,True,True,0,0,0,0
+24,Exiled,2016,8.001,0.634,6.5,100.0,Davis Simanis Jr.,-6.201,-0.869,0.07,True,True,True,0,0,0,0
+25,Fire,1996,7.887,0.616,7.1,104.0,Deepa Mehta,-2.201,-0.269,-0.045,True,True,True,0,0,0,0
+26,From Afar,2015,7.884,0.606,6.6,93.0,Lorenzo Vigas,-13.201,-0.769,-0.047,True,True,True,0,0,0,0
+27,Gloria,2013,8.057,0.621,6.9,110.0,Sebastián Lelio,3.799,-0.469,0.126,True,True,True,0,0,0,0
+28,GriGris,2013,8.013,0.609,6.4,101.0,Mahamat-Saleh Haroun,-5.201,-0.969,0.081,True,True,True,0,0,0,0
+29,Hand of Fate,2013,6.7,0.415,0.0,6.0,Dean G. Christakis,-100.201,-7.369,-1.231,False,False,False,0,0,0,0
+30,Harmony Lessons,2013,8.11,0.631,7.3,120.0,Emir Baigazin,13.799,-0.069,0.178,True,True,True,0,0,0,0
+31,Himalaya,1999,8.187,0.637,7.4,108.0,"Eric Valli, Michel Debats",1.799,0.031,0.255,True,True,True,0,0,0,0
+32,Honeyland,2019,8.06,0.643,8.0,89.0,"Tamara Kotevska, Ljubomir Stefanov",-17.201,0.631,0.128,True,True,True,0,0,0,0
+33,I Am Not a Witch,2017,7.995,0.618,6.9,93.0,Rungano Nyoni,-13.201,-0.469,0.063,True,True,True,0,0,0,0
+34,I Am You,2019,7.874,0.606,6.6,89.0,Sonia Nassery Cole,-17.201,-0.769,-0.057,True,True,True,0,0,0,0
+35,Impuros,2018,7.938,0.609,8.1,60.0,,-46.201,0.731,0.007,False,True,True,0,0,0,0
+36,Ixcanul,2015,8.059,0.625,7.1,93.0,Jayro Bustamante,-13.201,-0.269,0.128,True,True,True,0,0,0,0
+37,Jibun no ana no nakade,1955,8.111,0.634,7.4,125.0,Tomu Uchida,18.799,0.031,0.18,True,True,True,0,0,0,0
+38,José and Pilar,2010,7.979,0.613,8.2,117.0,Miguel Gonçalves Mendes,10.799,0.831,0.048,True,True,True,0,0,0,0
+39,Joyland,2022,8.172,0.641,7.6,126.0,Saim Sadiq,19.799,0.231,0.241,True,True,True,0,0,0,0
+40,Ju Dou,1990,8.159,0.64,7.6,95.0,"Yimou Zhang, Fengliang Yang",-11.201,0.231,0.227,True,True,True,0,0,0,0
+41,Killer,1998,7.116,0.54,6.7,80.0,Darezhan Omirbayev,-26.201,-0.669,-0.815,True,True,False,0,0,0,0
+42,La Yuma,2009,7.757,0.6,6.6,90.0,Florence Jaugey,-16.201,-0.769,-0.175,True,True,False,0,0,0,0
+43,La cathédrale,2006,6.963,0.532,5.2,78.0,Harrikrisna Anenden,-28.201,-2.169,-0.969,True,False,False,0,0,0,0
+44,La estrategia del caracol,1993,8.107,0.639,7.7,116.0,Sergio Cabrera,9.799,0.331,0.175,True,True,True,0,0,0,0
+45,Lionheart,2018,7.348,0.531,5.7,95.0,Genevieve Nnaji,-11.201,-1.669,-0.583,True,False,False,0,0,0,0
+46,Lunana: A Yak in the Classroom,2019,8.274,0.644,7.5,110.0,Pawo Choyning Dorji,3.799,0.131,0.343,True,True,True,0,0,0,0
+47,Maangamizi: The Ancient One,1999,7.552,0.57,7.1,110.0,"Martin Mhando, Ron Mulvihill",3.799,-0.269,-0.379,True,True,False,0,0,0,0
+48,Mama Colonel,2017,7.818,0.581,7.0,72.0,Dieudo Hamadi,-34.201,-0.369,-0.114,False,True,False,0,0,0,0
+49,Monster,2019,7.936,0.611,6.7,139.0,Nelson Venkatesan,32.799,-0.669,0.005,False,True,True,0,0,0,0
+50,Moolaadé,2003,8.168,0.64,7.6,124.0,Ousmane Sembene,17.799,0.231,0.237,True,True,True,0,0,0,0
+51,Mossane,1996,7.852,0.617,7.2,105.0,Safi Faye,-1.201,-0.169,-0.079,True,True,True,0,0,0,0
+52,Munyurangabo,2007,7.696,0.599,6.7,97.0,Lee Isaac Chung,-9.201,-0.669,-0.236,True,True,False,0,0,0,0
+53,My Heart Goes Boom!,2020,7.31,0.529,5.7,116.0,Nacho Álvarez,9.799,-1.669,-0.622,True,False,False,0,0,0,0
+54,Nowhere to Run,1993,6.907,0.539,5.7,94.0,Robert Harmon,-12.201,-1.669,-1.025,True,False,False,0,0,0,0
+55,Nuit du Kompa au Zénith de Paris: Djakout & Kreyol La,2012,5.99,0.35,0.0,0.0,,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+56,"Nzinga, Queen of Angola",2013,7.347,0.561,5.7,109.0,Sérgio Graciano,2.799,-1.669,-0.585,True,False,False,0,0,0,0
+57,Omar,2013,8.105,0.635,7.5,98.0,Hany Abu-Assad,-8.201,0.131,0.173,True,True,True,0,0,0,0
+58,Paradise Now,2005,8.133,0.635,7.4,91.0,Hany Abu-Assad,-15.201,0.031,0.201,True,True,True,0,0,0,0
+59,Pray the Devil Back to Hell,2008,7.071,0.554,7.5,72.0,Gini Reticker,-34.201,0.131,-0.861,False,True,False,0,0,0,0
+60,Rachida,2002,7.807,0.608,6.9,100.0,Yamina Bachir,-6.201,-0.469,-0.125,True,True,True,0,0,0,0
+61,Rafiki,2018,7.882,0.61,6.8,83.0,Wanuri Kahiu,-23.201,-0.569,-0.049,True,True,True,0,0,0,0
+62,Rouge,1987,7.873,0.62,7.3,93.0,Stanley Kwan,-13.201,-0.069,-0.058,True,True,True,0,0,0,0
+63,Run,2014,7.903,0.595,6.0,100.0,Philippe Lacôte,-6.201,-1.369,-0.029,True,False,False,0,0,0,0
+64,Shine,1996,8.163,0.64,7.6,105.0,Scott Hicks,-1.201,0.231,0.232,True,True,True,0,0,0,0
+65,Strawberry & Chocolate,1993,8.205,0.638,7.4,108.0,"Tomás Gutiérrez Alea, Juan Carlos Tabío",1.799,0.031,0.273,True,True,True,0,0,0,0
+66,Talking About Trees,2019,7.778,0.587,7.4,93.0,Suhaib Gasmelbari,-13.201,0.031,-0.153,True,True,False,0,0,0,0
+67,Tangerines,2013,8.245,0.654,8.1,87.0,Zaza Urushadze,-19.201,0.731,0.314,True,True,True,0,0,0,0
+68,The Apple,1998,7.706,0.609,7.2,86.0,Samira Makhmalbaf,-20.201,-0.169,-0.226,True,True,True,0,0,0,0
+69,The Crow's Egg,2014,8.257,0.659,8.3,109.0,M. Manikandan,2.799,0.931,0.325,True,True,True,0,0,0,0
+70,The Fisherman's Diary,2020,7.678,0.592,6.4,143.0,Enah Johnscott,36.799,-0.969,-0.254,False,True,False,0,0,0,0
+71,The Girl from Uruguay,2022,8.22,0.617,6.3,78.0,Ana García Blaya,-28.201,-1.069,0.288,True,False,True,0,0,0,0
+72,The Girl in the Yellow Jumper,2020,7.468,0.535,5.6,81.0,Loukman Ali,-25.201,-1.769,-0.464,True,False,False,0,0,0,0
+73,The Gravedigger's Wife,2021,8.025,0.609,6.4,82.0,Khadar Ayderus Ahmed,-24.201,-0.969,0.094,True,True,True,0,0,0,0
+74,The Headless Woman,2008,7.645,0.592,6.5,87.0,Lucrecia Martel,-19.201,-0.869,-0.286,True,True,False,0,0,0,0
+75,The Heiresses,2018,8.069,0.615,6.6,98.0,Marcelo Martinessi,-8.201,-0.769,0.138,True,True,True,0,0,0,0
+76,The Last Fishing Boat,2012,6.675,0.414,0.0,0.0,Shemu Joyah,-106.201,-7.369,-1.256,False,False,False,0,0,0,0
+77,The Lost King,2022,8.48,0.638,6.7,108.0,Stephen Frears,1.799,-0.669,0.548,True,True,True,0,0,0,0
+78,The Man Who Sold His Skin,2020,8.243,0.63,6.9,104.0,Kaouther Ben Hania,-2.201,-0.469,0.312,True,True,True,0,0,0,0
+79,The Man Without a Past,2002,8.088,0.636,7.6,97.0,Aki Kaurismäki,-9.201,0.231,0.157,True,True,True,0,0,0,0
+80,The Milk of Sorrow,2009,7.802,0.604,6.7,94.0,Claudia Llosa,-12.201,-0.669,-0.13,True,True,True,0,0,0,0
+81,The Missing Picture,2013,7.916,0.592,7.3,92.0,Rithy Panh,-14.201,-0.069,-0.015,True,True,False,0,0,0,0
+82,The Newspaper,2020,7.993,0.646,8.3,90.0,"Sarath Kothalawala, Kumara Thirimadura",-16.201,0.931,0.062,True,True,True,0,0,0,0
+83,The Night of Truth,2004,7.915,0.622,7.3,100.0,Fanta Régina Nacro,-6.201,-0.069,-0.016,True,True,True,0,0,0,0
+84,The No. 1 Ladies' Detective Agency,2008,7.938,0.611,8.2,60.0,,-46.201,0.831,0.007,False,True,True,0,0,0,0
+85,The Perfect Picture,2009,7.422,0.569,7.4,125.0,Shirley Frimpong-Manso,18.799,0.031,-0.51,True,True,False,0,0,0,0
+86,The Scent of Green Papaya,1993,7.919,0.622,7.3,104.0,Anh Hung Tran,-2.201,-0.069,-0.013,True,True,True,0,0,0,0
+87,The Sea,2002,7.849,0.608,6.8,109.0,Baltasar Kormákur,2.799,-0.569,-0.082,True,True,True,0,0,0,0
+88,The Silence of Swastika,2021,7.994,0.664,9.5,56.0,Anuj Bhardwaj,-50.201,2.131,0.062,False,False,True,0,0,0,0
+89,The Terrorizers,1986,8.195,0.644,7.7,109.0,Edward Yang,2.799,0.331,0.264,True,True,True,0,0,0,0
+90,The Train of Salt and Sugar,2016,7.668,0.561,6.4,93.0,Licínio Azevedo,-13.201,-0.969,-0.264,True,True,False,0,0,0,0
+91,The Unorthodox,2018,8.066,0.655,7.4,92.0,Eliran Malka,-14.201,0.031,0.135,True,True,True,0,0,0,0
+92,The Wedding Ring,2021,7.579,0.537,5.4,86.0,Graeme Campbell,-20.201,-1.969,-0.353,True,False,False,0,0,0,0
+93,The White Line,2019,8.115,0.658,7.4,100.0,Desiree Kahikopo-Meiffret,-6.201,0.031,0.183,True,True,True,0,0,0,0
+94,Timi Sanga,2018,8.229,0.621,8.0,0.0,Shishir S.J.B. Rana,-106.201,0.631,0.298,False,True,True,0,0,0,0
+95,What Happened to Santiago,1989,7.84,0.616,7.2,105.0,Jacobo Morales,-1.201,-0.169,-0.092,True,True,True,0,0,0,0
+96,Yeelen,1987,7.845,0.61,6.9,105.0,Souleymane Cissé,-1.201,-0.469,-0.086,True,True,True,0,0,0,0
+97,Yesterday,2004,8.121,0.636,7.5,90.0,Darrell Roodt,-16.201,0.131,0.189,True,True,True,0,0,0,0
+98,You Will Die at 20,2019,8.215,0.631,7.0,103.0,Amjad Abu Alala,-3.201,-0.369,0.283,True,True,True,0,0,0,0

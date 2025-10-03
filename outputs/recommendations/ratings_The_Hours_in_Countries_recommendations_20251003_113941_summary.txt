@@ -1,0 +1,629 @@
+COMPREHENSIVE MOVIE RECOMMENDATION SYSTEM - RESULTS SUMMARY
+============================================================
+Generated on: 2025-10-03 11:39:41
+Total unique movies analyzed: 98
+Model performance:
+  - Train R²: 0.799
+  - Test R²: 0.511
+  - MAE: 0.647
+  - Training samples: 1062
+
+DATA QUALITY SUMMARY:
+  - Average IMDb Rating: 6.81
+  - Average Runtime: 95 mins
+  - Year Range: 1955 - 2022
+
+TOP RECOMMENDATIONS:
+
+42. 200 Meters (2020)
+   Predicted: 8.0/10 | Score: 0.626
+   IMDb: 7.2
+   Director: Ameen Nayfeh
+
+10. 4 Months, 3 Weeks and 2 Days (2007)
+   Predicted: 8.3/10 | Score: 0.651
+   IMDb: 7.9
+   Director: Cristian Mungiu
+   Keywords: Communist Romania, Abortion, Friendship, Oppression
+   Themes: Complex Female Narrative: A harrowing, real-time look at female solidarity and the brutal realities of controlling female bodies. The narrative is entirely driven by the women's actions and suffering. Anguish: The core of the film is pure, visceral anguish—fear, pain, and moral compromise under oppression. Artistic Expression: Cristian Mungiu's unflinching long takes and minimalist style create an immersive, almost unbearable intimacy.
+
+81. A Useful Life (2010)
+   Predicted: 7.8/10 | Score: 0.600
+   IMDb: 6.4
+   Director: Federico Veiroj
+   Keywords: Cinematheque, Midlife Crisis, Cinema's Decline, Quiet
+   Themes: Limited Alignment: A charming, low-key character study of a male cinematheque programmer.
+
+38. Adam (2019)
+   Predicted: 8.1/10 | Score: 0.627
+   IMDb: 7.2
+   Director: Maryam Touzani
+
+67. Alba (2016)
+   Predicted: 8.0/10 | Score: 0.614
+   IMDb: 6.7
+   Director: Ana Cristina Barragán
+   Keywords: Adolescence, Shyness, Family Dysfunction, Coming-of-age
+   Themes: Alignment: Focuses on the complex interiority and emotional depth of a silent, observant adolescent girl.
+
+87. Alsino and the Condor (1982)
+   Predicted: 7.5/10 | Score: 0.577
+   IMDb: 6.2
+   Director: Miguel Littin
+   Keywords: Nicaraguan Revolution, Boy, War, Dreams, Flying
+   Themes: Limited Alignment: An allegorical war story seen through the eyes of a young boy.
+
+40. Antes que cante el gallo (2016)
+   Predicted: 8.0/10 | Score: 0.628
+   IMDb: 7.3
+   Director: Ari Maniel Cruz
+
+47. Beauty and the Dogs (2017)
+   Predicted: 8.1/10 | Score: 0.628
+   IMDb: 7.1
+   Director: Kaouther Ben Hania
+   Keywords: Sexual Assault, Police Corruption, One Night, Real-Time
+   Themes: Anguish & Female Narrative: A visceral, claustrophobic film about the aftermath of trauma. The protagonist's relentless fight to author her own story against a hostile system is profoundly aligned with The Hours.
+
+23. Birds of Passage (2018)
+   Predicted: 8.2/10 | Score: 0.642
+   IMDb: 7.5
+   Director: Cristina Gallego, Ciro Guerra
+   Keywords: Indigenous, Drug Trade, Tradition, Family, Greed
+
+95. Black November (2012)
+   Predicted: 7.4/10 | Score: 0.555
+   IMDb: 5.3
+   Director: Jeta Amata
+
+61. Bread and Salt (2022)
+   Predicted: 8.4/10 | Score: 0.636
+   IMDb: 6.8
+   Director: Damian Kocur
+   Keywords: Small Town, Pianist Brothers, Economic Anxiety, Violence
+   Themes: Limited Alignment: Focuses on male frustration and violence. Not centered on female interiority.
+
+25. Cairo 678 (2010)
+   Predicted: 8.2/10 | Score: 0.637
+   IMDb: 7.4
+   Director: Mohamed Diab
+   Keywords: Sexual Harassment, Cairo, Justice, Solidarity, Class
+   Themes: Complex Female Narrative: Follows three women from different social classes who are united by the shared experience of sexual harassment. It's about them authoring their own resistance and reclaiming power. Anguish: The film is fueled by the daily, grinding anguish of misogyny and the trauma of assault. Artistic Expression: A bold, direct, and emotionally charged social drama that gives voice to a collective female experience.
+
+43. Children of Nature (1991)
+   Predicted: 7.8/10 | Score: 0.614
+   IMDb: 7.2
+   Director: Friðrik Þór Friðriksson
+   Keywords: Elderly, Nursing Home Escape, Icelandic Landscape
+   Themes: Limited Alignment: A poignant film about aging and freedom, but not a deeply complex exploration of female interiority in the way The Hours achieves.
+
+86. Chilla (2014)
+   Predicted: 8.1/10 | Score: 0.609
+   IMDb: 6.2
+   Director: Saodat Ismailova
+
+66. Clara Sola (2021)
+   Predicted: 8.4/10 | Score: 0.634
+   IMDb: 6.7
+   Director: Nathalie Álvarez Mesén
+   Keywords: Sexual Awakening, Mystical, Repression, Rural Costa Rica
+   Themes: High Alignment: A stunning, sensual film about a woman's repressed sexuality and anguish, claiming authorship over her own body and mystical gifts.
+
+75. Cocote (2017)
+   Predicted: 8.1/10 | Score: 0.614
+   IMDb: 6.4
+   Director: Nelson Carlo de Los Santos Arias
+   Keywords: Magical Realism, Mourning, Religion, Class Conflict
+   Themes: Limited Alignment: An experimental film centered on a male protagonist's return home for his father's funeral.
+
+31. Corn Island (2014)
+   Predicted: 8.2/10 | Score: 0.639
+   IMDb: 7.5
+   Director: George Ovashvili
+
+69. Daughters of the Dust (1991)
+   Predicted: 7.8/10 | Score: 0.628
+   IMDb: 6.6
+   Director: Julie Dash
+   Keywords: Gullah Geechee, Matriarchy, Migration, Memory, 1902
+   Themes: High Alignment: A poetic, non-linear narrative about multiple generations of women on the brink of change. It is the ultimate film of female ancestry, memory, and authorship.
+
+83. Destiny (1997)
+   Predicted: 7.8/10 | Score: 0.637
+   IMDb: 7.2
+   Director: Youssef Chahine
+   Keywords: Historical Epic, Philosopher, Faith vs. Reason, Al-Andalus
+   Themes: Limited Alignment: A large-scale historical film centered on male philosophers and rulers.
+
+55. Difret (2014)
+   Predicted: 8.0/10 | Score: 0.616
+   IMDb: 6.9
+   Director: Zeresenay Mehari
+   Keywords: Telelaw, Child Marriage, Based on True Story, Courtroom
+   Themes: Complex Female Narrative: Tells a dual female story: a young girl who fights back against abduction and the lawyer who authors a new legal precedent for her. A narrative of female solidarity and courage.
+
+73. Dôlè (2000)
+   Predicted: 7.6/10 | Score: 0.589
+   IMDb: 6.5
+   Director: Imunga Ivanga
+   Keywords: Street Kids, Poverty, Dreams, Gang Violence
+   Themes: Limited Alignment: A neorealist-style film focused on a group of young boys.
+
+11. Embrace of the Serpent (2015)
+   Predicted: 8.3/10 | Score: 0.652
+   IMDb: 7.8
+   Director: Ciro Guerra
+   Keywords: Amazon, Colonialism, Shamanism, Nature, Journey
+
+71. Everybody Changes (2019)
+   Predicted: 8.0/10 | Score: 0.613
+   IMDb: 6.6
+   Director: Arturo Montenegro
+   Keywords: Family, Trans Child, Father's Journey, Acceptance
+   Themes: Limited Alignment: While about a trans child, the narrative lens is the father's emotional journey.
+
+82. Exiled (2016)
+   Predicted: 8.0/10 | Score: 0.634
+   IMDb: 6.5
+   Director: Davis Simanis Jr.
+   Keywords: Political Asylum, Trauma, Germany, Past Secrets
+   Themes: Limited Alignment: A psychological drama about a male Chechen war refugee.
+
+49. Fire (1996)
+   Predicted: 7.9/10 | Score: 0.616
+   IMDb: 7.1
+   Director: Deepa Mehta
+   Keywords: Lesbian Romance, Repressed Sisters-in-Law, Tradition
+   Themes: Sexuality & Anguish: Directly explores repressed female sexuality and the anguish of marital confinement. The women's relationship is an act of authorship against patriarchal tradition.
+
+76. From Afar (2015)
+   Predicted: 7.9/10 | Score: 0.606
+   IMDb: 6.6
+   Director: Lorenzo Vigas
+   Keywords: Gay Romance, Class, Caracas, Father Issues
+   Themes: Limited Alignment: A story of male desire, loneliness, and class tension between two men.
+
+58. Gloria (2013)
+   Predicted: 8.1/10 | Score: 0.621
+   IMDb: 6.9
+   Director: Sebastián Lelio
+   Keywords: Middle-aged Woman, Divorcee, Dance Clubs, Self-Discovery
+   Themes: Complex Female Narrative: A radiant portrait of a woman "of a certain age" authoring her own happiness and sexuality. It's filled with both loneliness (anguish) and joyous resilience.
+
+78. GriGris (2013)
+   Predicted: 8.0/10 | Score: 0.609
+   IMDb: 6.4
+   Director: Mahamat-Saleh Haroun
+   Keywords: Dancer, Disability, Crime, Dreams, N'Djamena
+   Themes: Limited Alignment: A character study of a male dancer with a paralyzed leg who turns to crime.
+
+96. Hand of Fate (2013)
+   Predicted: 6.7/10 | Score: 0.415
+   IMDb: 0.0
+   Director: Dean G. Christakis
+
+34. Harmony Lessons (2013)
+   Predicted: 8.1/10 | Score: 0.631
+   IMDb: 7.3
+   Director: Emir Baigazin
+
+32. Himalaya (1999)
+   Predicted: 8.2/10 | Score: 0.637
+   IMDb: 7.4
+   Director: Eric Valli, Michel Debats
+
+9. Honeyland (2019)
+   Predicted: 8.1/10 | Score: 0.643
+   IMDb: 8.0
+   Director: Tamara Kotevska, Ljubomir Stefanov
+   Keywords: Beekeeping, Nature, Exploitation, Mother-Daughter
+   Themes: Complex Female Narrative: A stunning portrait of female autonomy and resilience. Hatidze is the author of her own life, living by a code ("take half, leave half") in harmony with nature. Anguish: Her peaceful existence is shattered by patriarchal, capitalist forces, leading to profound loss. Artistic Expression: The cinematography itself is a form of poetic expression, framing her life with the beauty and harshness of her surroundings.
+
+57. I Am Not a Witch (2017)
+   Predicted: 8.0/10 | Score: 0.618
+   IMDb: 6.9
+   Director: Rungano Nyoni
+   Keywords: Witch Camp, Satire, Magical Realism, Girlhood
+   Themes: Complex Female Narrative & Anguish: A devastatingly quiet film about a girl labeled a witch. Her silent anguish and the systemic oppression she faces are the core of this sharp, artistic satire.
+
+52. I Am You (2019)
+   Predicted: 7.9/10 | Score: 0.606
+   IMDb: 6.6
+   Director: Sonia Nassery Cole
+
+7. Impuros (2018)
+   Predicted: 7.9/10 | Score: 0.609
+   IMDb: 8.1
+   Director: 
+
+48. Ixcanul (2015)
+   Predicted: 8.1/10 | Score: 0.625
+   IMDb: 7.1
+   Director: Jayro Bustamante
+   Keywords: Indigenous Girl, Volcano, Pregnancy, Tradition vs. Modern
+   Themes: Complex Female Narrative & Anguish: A potent, atmospheric film about a young woman whose desires and traumatic experience are silenced by multiple layers of oppression—patriarchal and colonial.
+
+27. Jibun no ana no nakade (1955)
+   Predicted: 8.1/10 | Score: 0.634
+   IMDb: 7.4
+   Director: Tomu Uchida
+
+6. José and Pilar (2010)
+   Predicted: 8.0/10 | Score: 0.613
+   IMDb: 8.2
+   Director: Miguel Gonçalves Mendes
+   Keywords: Author, Biography, Marriage, Legacy, Creativity
+
+16. Joyland (2022)
+   Predicted: 8.2/10 | Score: 0.641
+   IMDb: 7.6
+   Director: Saim Sadiq
+   Keywords: Transgender, Patriarchy, Desire, Family Secrets, Lahore
+   Themes: Complex Female Narrative: While centered on a male protagonist, the film's most powerful critiques and emotional depths belong to its female (and trans) characters. It explores the anguish of repressed female desire (Mumtaz) and the struggle for a trans woman (Biba) to exist authentically. Artistic Expression: A beautifully shot, quietly devastating critique of patriarchy that gives voice to the silenced.
+
+17. Ju Dou (1990)
+   Predicted: 8.2/10 | Score: 0.640
+   IMDb: 7.6
+   Director: Yimou Zhang, Fengliang Yang
+   Keywords: Adultery, Dye Mill, Patriarchy, Color, Tragedy
+   Themes: Complex Female Narrative: Ju Dou's entire life is a battle against the oppressive patriarchal structure of the dye mill. Her sexuality and desire for freedom are the engine of the plot. Anguish: Her anguish is relentless, as every attempt at escape or happiness is crushed. Artistic Expression: The film is an artistic tour de force, using vivid, suffocating colors and dramatic lighting to externalize her inner turmoil.
+
+63. Killer (1998)
+   Predicted: 7.1/10 | Score: 0.540
+   IMDb: 6.7
+   Director: Darezhan Omirbayev
+   Keywords: Crime, Dostoevsky Adaptation, Social Alienation
+   Themes: Limited Alignment: A minimalist crime film focused on a male protagonist's moral descent.
+
+70. La Yuma (2009)
+   Predicted: 7.8/10 | Score: 0.600
+   IMDb: 6.6
+   Director: Florence Jaugey
+   Keywords: Female Boxer, Slums, Ambition, Social Mobility
+   Themes: Alignment: A gritty, female-centric narrative about a woman authoring her own destiny through physical strength and determination.
+
+97. La cathédrale (2006)
+   Predicted: 7.0/10 | Score: 0.532
+   IMDb: 5.2
+   Director: Harrikrisna Anenden
+
+12. La estrategia del caracol (1993)
+   Predicted: 8.1/10 | Score: 0.639
+   IMDb: 7.7
+   Director: Sergio Cabrera
+   Keywords: Eviction, Community, Solidarity, Slum, Comedy
+
+90. Lionheart (2018)
+   Predicted: 7.3/10 | Score: 0.531
+   IMDb: 5.7
+   Director: Genevieve Nnaji
+   Keywords: Family Business, Female CEO, Patriarchy, Nigeria
+   Themes: Alignment: A clear narrative of female authorship as Adaeze fights to lead her father's company, exploring the anguish of patriarchal resistance.
+
+24. Lunana: A Yak in the Classroom (2019)
+   Predicted: 8.3/10 | Score: 0.644
+   IMDb: 7.5
+   Director: Pawo Choyning Dorji
+   Keywords: Bhutan, Teacher, Rural, Happiness, Culture Clash
+
+46. Maangamizi: The Ancient One (1999)
+   Predicted: 7.6/10 | Score: 0.570
+   IMDb: 7.1
+   Director: Martin Mhando, Ron Mulvihill
+   Keywords: Mental Hospital, Ancestral Healing, Spirituality, Women
+   Themes: High Alignment: A deeply spiritual and artistic film centered on the complex relationship between a patient, a doctor, and an ancestral figure. It's about women healing each other's anguish across time.
+
+44. Mama Colonel (2017)
+   Predicted: 7.8/10 | Score: 0.581
+   IMDb: 7.0
+   Director: Dieudo Hamadi
+
+53. Monster (2019)
+   Predicted: 7.9/10 | Score: 0.611
+   IMDb: 6.7
+   Director: Nelson Venkatesan
+   Keywords: Multiple Perspectives, Motherhood, School, Truth
+   Themes: High Alignment: A masterful exploration of subjective truth and maternal anguish. Its complex, Rashomon-like structure deeply aligns with The Hours' interest in the multifaceted nature of female experience and perception.
+
+14. Moolaadé (2003)
+   Predicted: 8.2/10 | Score: 0.640
+   IMDb: 7.6
+   Director: Ousmane Sembene
+   Keywords: Female Genital Mutilation, Village, Rebellion, Women
+   Themes: Complex Female Narrative: The ultimate film about female authorship and rebellion. The protagonist, Collé, uses an ancient spell of protection (moolaadé) to author a new reality for the girls in her village, defying male elders. Anguish: The film confronts the physical and psychological anguish of FGM directly. Artistic Expression: Ousmane Sembène uses vibrant colors, music, and powerful symbolism to tell a story of triumphant female resistance.
+
+39. Mossane (1996)
+   Predicted: 7.9/10 | Score: 0.617
+   IMDb: 7.2
+   Director: Safi Faye
+   Keywords: 14-year-old beauty, Forced Marriage, Spirituality, Tradition
+   Themes: Complex Female Narrative: The titular Mossane is desired by all, but the film is about her own desires and tragic struggle for autonomy. Anguish: The profound anguish of being a commodity and the spiritual weight of tradition.
+
+64. Munyurangabo (2007)
+   Predicted: 7.7/10 | Score: 0.599
+   IMDb: 6.7
+   Director: Lee Isaac Chung
+   Keywords: Hutu/Tutsi, Friendship, Journey, Post-Genocide
+   Themes: Limited Alignment: A poignant story of male friendship and reconciliation after genocide.
+
+92. My Heart Goes Boom! (2020)
+   Predicted: 7.3/10 | Score: 0.529
+   IMDb: 5.7
+   Director: Nacho Álvarez
+
+91. Nowhere to Run (1993)
+   Predicted: 6.9/10 | Score: 0.539
+   IMDb: 5.7
+   Director: Robert Harmon
+
+98. Nuit du Kompa au Zénith de Paris: Djakout & Kreyol La (2012)
+   Predicted: 6.0/10 | Score: 0.349
+   IMDb: 0.0
+   Director: 
+
+89. Nzinga, Queen of Angola (2013)
+   Predicted: 7.3/10 | Score: 0.561
+   IMDb: 5.7
+   Director: Sérgio Graciano
+   Keywords: Historical Epic, Queen, Warrior, Colonial Resistance, 17th C.
+   Themes: Alignment: A narrative of female authorship on a historical scale, about a queen fighting for her people's freedom against colonial powers.
+
+22. Omar (2013)
+   Predicted: 8.1/10 | Score: 0.635
+   IMDb: 7.5
+   Director: Hany Abu-Assad
+   Keywords: Occupation, Betrayal, Love, Trust, Thriller
+
+30. Paradise Now (2005)
+   Predicted: 8.1/10 | Score: 0.635
+   IMDb: 7.4
+   Director: Hany Abu-Assad
+
+20. Pray the Devil Back to Hell (2008)
+   Predicted: 7.1/10 | Score: 0.554
+   IMDb: 7.5
+   Director: Gini Reticker
+   Keywords: Liberia, Civil War, Women's Rights, Peace, Activism
+   Themes: Complex Female Narrative: The real-life, ultimate story of female authorship on a societal scale. The women of Liberia literally authored peace, forcing an end to a civil war. Anguish: The anguish of war, loss, and violence is the catalyst for their incredible action. Artistic Expression: A powerful documentary that bears witness to the strength of collective female action.
+
+54. Rachida (2002)
+   Predicted: 7.8/10 | Score: 0.608
+   IMDb: 6.9
+   Director: Yamina Bachir
+   Keywords: Algerian Civil War, Schoolteacher, Trauma, Resilience
+   Themes: Female Narrative & Anguish: Follows a woman reclaiming her life and vocation after a brutal attack. It's about the anguish of a nation embodied in a female struggle for normalcy and peace.
+
+60. Rafiki (2018)
+   Predicted: 7.9/10 | Score: 0.610
+   IMDb: 6.8
+   Director: Wanuri Kahiu
+   Keywords: Lesbian Romance, Forbidden Love, Political Families, Nairobi
+   Themes: Alignment: Explores female sexuality and the anguish of forbidden love. The two young women author their own secret world despite societal pressure.
+
+35. Rouge (1987)
+   Predicted: 7.9/10 | Score: 0.620
+   IMDb: 7.3
+   Director: Stanley Kwan
+
+88. Run (2014)
+   Predicted: 7.9/10 | Score: 0.595
+   IMDb: 6.0
+   Director: Philippe Lacôte
+   Keywords: Dystopia, Single Mother, Danger, Survival
+   Themes: Partial Alignment: Centers on a mother's anguish and fierce protection of her child, though within a genre thriller framework.
+
+19. Shine (1996)
+   Predicted: 8.2/10 | Score: 0.640
+   IMDb: 7.6
+   Director: Scott Hicks
+
+28. Strawberry & Chocolate (1993)
+   Predicted: 8.2/10 | Score: 0.638
+   IMDb: 7.4
+   Director: Tomás Gutiérrez Alea, Juan Carlos Tabío
+   Keywords: Gay Rights, Communism, Friendship, Intolerance, Havana
+
+26. Talking About Trees (2019)
+   Predicted: 7.8/10 | Score: 0.587
+   IMDb: 7.4
+   Director: Suhaib Gasmelbari
+   Keywords: Cinema, Friendship, Sudan, Nostalgia, Resistance
+
+8. Tangerines (2013)
+   Predicted: 8.2/10 | Score: 0.654
+   IMDb: 8.1
+   Director: Zaza Urushadze
+   Keywords: Estonia, Caucasus War, Truce, Humanity, Rural
+
+41. The Apple (1998)
+   Predicted: 7.7/10 | Score: 0.609
+   IMDb: 7.2
+   Director: Samira Makhmalbaf
+   Keywords: Confined Sisters, Social Experiment, Neorealism
+   Themes: Complex Female Narrative: A daring film about two girls discovering the world after being locked away. It's about female emergence and authorship of one's own life. Artistic Expression: Blurs line between documentary and fiction for raw impact.
+
+4. The Crow's Egg (2014)
+   Predicted: 8.3/10 | Score: 0.659
+   IMDb: 8.3
+   Director: M. Manikandan
+   Keywords: Poverty, Slum-life, Pizza, Capitalism, Innocence
+
+77. The Fisherman's Diary (2020)
+   Predicted: 7.7/10 | Score: 0.592
+   IMDb: 6.4
+   Director: Enah Johnscott
+   Keywords: Girl's Education, Fishing Village, Determination, Father
+   Themes: Alignment: A female narrative about a young girl authoring her own future against patriarchal tradition, focusing on education as liberation.
+
+84. The Girl from Uruguay (2022)
+   Predicted: 8.2/10 | Score: 0.617
+   IMDb: 6.3
+   Director: Ana García Blaya
+   Keywords: May-December Romance, Self-Discovery, Vacation
+   Themes: Partial Alignment: A female-centric narrative about self-discovery and sexuality, though lighter in tone and emotional depth.
+
+93. The Girl in the Yellow Jumper (2020)
+   Predicted: 7.5/10 | Score: 0.535
+   IMDb: 5.6
+   Director: Loukman Ali
+   Keywords: Kidnapping, Mystery, Survival, Thriller
+   Themes: Partial Alignment: The narrative revolves around a woman in peril, but the focus is on the male-led investigation. Limited exploration of female interiority.
+
+80. The Gravedigger's Wife (2021)
+   Predicted: 8.0/10 | Score: 0.609
+   IMDb: 6.4
+   Director: Khadar Ayderus Ahmed
+   Keywords: Illness, Love, Poverty, Duty, Husband's Sacrifice
+   Themes: Limited Alignment: A love story told from the husband's perspective as he tries to save his wife's life.
+
+74. The Headless Woman (2008)
+   Predicted: 7.6/10 | Score: 0.592
+   IMDb: 6.5
+   Director: Lucrecia Martel
+   Keywords: Upper-Class Guilt, Car Accident, Psychological, Ambiguity
+   Themes: High Alignment: A complex, unsettling film about a woman's psychological anguish and moral emptiness. Martel's unique style offers a profound, ambiguous female narrative.
+
+72. The Heiresses (2018)
+   Predicted: 8.1/10 | Score: 0.615
+   IMDb: 6.6
+   Director: Marcelo Martinessi
+   Keywords: Lesbian Romance, Financial Decline, Class, Older Women
+   Themes: High Alignment: A deeply internal film about female desire, class-based anguish, and a woman finding new authorship of her life after a long, confined relationship.
+
+2. The Last Fishing Boat (2012)
+   Predicted: 6.7/10 | Score: 0.414
+   IMDb: 0.0
+   Director: Shemu Joyah
+
+65. The Lost King (2022)
+   Predicted: 8.5/10 | Score: 0.638
+   IMDb: 6.7
+   Director: Stephen Frears
+   Keywords: Historical Rediscovery, Amateur Historian, Richard III
+   Themes: Alignment: A true story of female authorship and perseverance, exploring the anguish of being dismissed by male institutions.
+
+59. The Man Who Sold His Skin (2020)
+   Predicted: 8.2/10 | Score: 0.630
+   IMDb: 6.9
+   Director: Kaouther Ben Hania
+   Keywords: Syrian Refugee, Body Art, Schengen Visa, Satire
+   Themes: Limited Alignment: While artistically expressive and politically sharp, the central narrative of bodily autonomy and objectification is primarily from the male perspective.
+
+18. The Man Without a Past (2002)
+   Predicted: 8.1/10 | Score: 0.636
+   IMDb: 7.6
+   Director: Aki Kaurismäki
+   Keywords: Amnesia, Homelessness, Deadpan, Community, Love
+
+68. The Milk of Sorrow (2009)
+   Predicted: 7.8/10 | Score: 0.604
+   IMDb: 6.7
+   Director: Claudia Llosa
+   Keywords: Trauma, Inherited Fear, Indigenous Music, Lima
+   Themes: High Alignment: A unique, magical-realist tale of a woman's anguish rooted in her mother's trauma, and her journey to find her own voice and authorship.
+
+37. The Missing Picture (2013)
+   Predicted: 7.9/10 | Score: 0.592
+   IMDb: 7.3
+   Director: Rithy Panh
+   Keywords: Khmer Rouge, Genocide, Clay Figures, Documentary, Memory
+   Themes: Limited Alignment: A profound and artistic film about memory and anguish, but the narrative is the director's personal, male experience of the Killing Fields.
+
+3. The Newspaper (2020)
+   Predicted: 8.0/10 | Score: 0.646
+   IMDb: 8.3
+   Director: Sarath Kothalawala, Kumara Thirimadura
+
+33. The Night of Truth (2004)
+   Predicted: 7.9/10 | Score: 0.622
+   IMDb: 7.3
+   Director: Fanta Régina Nacro
+
+5. The No. 1 Ladies' Detective Agency (2008)
+   Predicted: 7.9/10 | Score: 0.611
+   IMDb: 8.2
+   Director: 
+
+15. The Perfect Picture (2009)
+   Predicted: 7.4/10 | Score: 0.569
+   IMDb: 7.4
+   Director: Shirley Frimpong-Manso
+   Keywords: Romance, Comedy, Accra, Friendship, Modern Women
+   Themes: Alignment: A lighter take, but aligns in its focus on female authorship. It's about three modern Ghanaian women actively writing the stories of their own love lives and careers, navigating the tension between tradition and independence. It explores the anguish of romantic disappointment and societal pressure with a comedic, but insightful, touch.
+
+36. The Scent of Green Papaya (1993)
+   Predicted: 7.9/10 | Score: 0.622
+   IMDb: 7.3
+   Director: Anh Hung Tran
+   Keywords: Servant's Life, Colonial Vietnam, Sensory, Coming-of-age
+   Themes: Artistic Expression: A visually poetic, sensory masterpiece where the camera lingers on details, externalizing the protagonist's inner world. Female Narrative: Follows a woman's entire life journey from servant to a complex emotional being, exploring her quiet interiority.
+
+62. The Sea (2002)
+   Predicted: 7.8/10 | Score: 0.608
+   IMDb: 6.8
+   Director: Baltasar Kormákur
+   Keywords: Family Saga, Rural Iceland, Feud, Past Secrets
+   Themes: Limited Alignment: A family drama driven by male conflicts and perspectives.
+
+1. The Silence of Swastika (2021)
+   Predicted: 8.0/10 | Score: 0.664
+   IMDb: 9.5
+   Director: Anuj Bhardwaj
+
+13. The Terrorizers (1986)
+   Predicted: 8.2/10 | Score: 0.644
+   IMDb: 7.7
+   Director: Edward Yang
+   Keywords: Urban Alienation, Chance, Photography, Fragmentation
+
+79. The Train of Salt and Sugar (2016)
+   Predicted: 7.7/10 | Score: 0.561
+   IMDb: 6.4
+   Director: Licínio Azevedo
+   Keywords: Civil War, Train Journey, Survival, Community
+   Themes: Partial Alignment: While an ensemble, it includes powerful narratives of female resilience and anguish during a dangerous journey.
+
+29. The Unorthodox (2018)
+   Predicted: 8.1/10 | Score: 0.655
+   IMDb: 7.4
+   Director: Eliran Malka
+   Keywords: Sephardic, Politics, Education, Discrimination, Family
+
+94. The Wedding Ring (2021)
+   Predicted: 7.6/10 | Score: 0.537
+   IMDb: 5.4
+   Director: Graeme Campbell
+
+45. The White Line (2019)
+   Predicted: 8.1/10 | Score: 0.658
+   IMDb: 7.4
+   Director: Desiree Kahikopo-Meiffret
+
+85. Timi Sanga (2018)
+   Predicted: 8.2/10 | Score: 0.621
+   IMDb: 8.0
+   Director: Shishir S.J.B. Rana
+
+50. What Happened to Santiago (1989)
+   Predicted: 7.8/10 | Score: 0.616
+   IMDb: 7.2
+   Director: Jacobo Morales
+
+56. Yeelen (1987)
+   Predicted: 7.8/10 | Score: 0.610
+   IMDb: 6.9
+   Director: Souleymane Cissé
+
+21. Yesterday (2004)
+   Predicted: 8.1/10 | Score: 0.636
+   IMDb: 7.5
+   Director: Darrell Roodt
+   Keywords: HIV/AIDS, Motherhood, Rural Village, Poverty
+   Themes: Complex Female Narrative & Anguish: The entire film is a portrait of a mother's anguish as she faces her own mortality from AIDS and fights to secure a future for her daughter. It's a deeply emotional story of maternal love and resilience in the face of overwhelming hardship.
+
+51. You Will Die at 20 (2019)
+   Predicted: 8.2/10 | Score: 0.631
+   IMDb: 7.0
+   Director: Amjad Abu Alala
+   Keywords: Prophecy, Fate, Coming-of-age, Sufism, Village Life
+   Themes: Limited Alignment: The mother's character embodies deep anguish, but the film's central narrative is the male protagonist's psychological and spiritual journey.
