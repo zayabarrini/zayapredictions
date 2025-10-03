@@ -19,3 +19,8 @@ seaborn = "*"
 
 [requires]
 python_version = "3.12"
+
+[scripts]
+start = "python main.py"
+auto-recommend = "python auto_recommend.py"
+recommend = "python auto_recommend.py && python main.py"
