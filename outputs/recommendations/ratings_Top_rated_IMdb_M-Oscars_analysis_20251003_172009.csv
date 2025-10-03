@@ -1,0 +1,14 @@
+Rank,Title,Year,Predicted_Rating,Recommendation_Score,IMDb_Rating,Runtime_mins,Director,Runtime_Vs_Your_Avg,IMDb_Vs_Your_Avg,Predicted_Vs_Your_Avg,Good_Runtime_Match,Good_IMDb_Match,High_Confidence,Has_LGBT,Has_Cinematography,Has_Screenplay,Has_Plot_Twist
+1,18225,0.0,5.31,0.315,0.0,0,Wong Kar-Wai,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+2,19525,0.0,5.31,0.315,0.0,0,Walter Salles,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+3,2003,2021.0,7.01,0.43,0.0,13,Harris Dickinson,-93.201,-7.369,-0.921,False,False,False,0,0,0,0
+4,20092,0.0,5.31,0.315,0.0,0,Haifaa Al-Mansour,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+5,26,2005.0,5.19,0.388,3.9,12,Stephanie Faust,-94.201,-3.469,-2.741,False,False,False,0,0,0,0
+6,29306,0.0,5.31,0.315,0.0,0,Ingmar Bergman,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+7,30188,0.0,5.31,0.315,0.0,0,Pedro Almodóvar,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+8,34034,0.0,5.31,0.315,0.0,0,Park Chan-wook,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+9,39154,0.0,5.31,0.315,0.0,0,Alfred Hitchcock,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+10,48830,0.0,5.31,0.315,0.0,0,Volker Schlöndorff,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+11,8640,0.0,5.31,0.315,0.0,0,"Alexey Chupov, Natasha Merkulova",-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+12,92502,0.0,5.31,0.315,0.0,0,Jean-Luc Godard,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+13,9384,0.0,5.31,0.315,0.0,0,Sabrina Chemloul,-106.201,-7.369,-2.621,False,False,False,0,0,0,0

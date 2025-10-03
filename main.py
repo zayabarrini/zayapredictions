@@ -209,6 +209,18 @@ def main():
         print(f"\n🎭 Loaded {len(movies_to_rate)} movies to get recommendations for")
         print(f"   Sample movies: {movies_to_rate['Title'].head(3).tolist()}")
         
+        # 🆕 REMOVE MOVIES THAT ARE ALREADY IN RATINGS
+        print("🔍 Checking for movies already in your ratings...")
+        initial_movie_count = len(movies_to_rate)
+        movies_to_rate = data_loader.remove_already_rated_movies(movies_to_rate, ratings_df)
+        
+        if len(movies_to_rate) == 0:
+            print("❌ All movies in the input file are already in your ratings.csv")
+            print("💡 Please add new movies to rate in your movies_to_rate.csv file")
+            return
+        elif len(movies_to_rate) < initial_movie_count:
+            print(f"✅ Filtered to {len(movies_to_rate)} new movies to rate")
+        
     except FileNotFoundError:
         print(f"❌ Error: {movies_file} not found")
         return

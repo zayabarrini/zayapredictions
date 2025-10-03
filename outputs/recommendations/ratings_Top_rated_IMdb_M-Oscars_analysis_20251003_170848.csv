@@ -1,0 +1,3 @@
+Rank,Title,Year,Predicted_Rating,Recommendation_Score,IMDb_Rating,Runtime_mins,Director,Runtime_Vs_Your_Avg,IMDb_Vs_Your_Avg,Predicted_Vs_Your_Avg,Good_Runtime_Match,Good_IMDb_Match,High_Confidence,Has_LGBT,Has_Cinematography,Has_Screenplay,Has_Plot_Twist
+1,Suicide Squad,2016,7.279,0.532,5.9,123,David Ayer,16.799,-1.469,-0.652,True,False,False,0,0,0,0
+2,Terminator 2: Judgment Day,1991,8.087,0.626,8.6,137,James Cameron,30.799,1.231,0.155,False,False,True,0,0,0,0

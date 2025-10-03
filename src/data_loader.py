@@ -144,56 +144,117 @@ class DataLoader:
         # Clean column names
         df.columns = [col.strip().replace(' ', '_') for col in df.columns]
         
-        # Map to standardized names - FIX: Use 'Directors' column for 'Director'
+        # Debug: show what columns we have and first few rows
+        print(f"🔍 Available columns: {df.columns.tolist()}")
+        print(f"🔍 First few rows data types:")
+        for col in df.columns:
+            print(f"   {col}: {df[col].dtype}")
+        
+        # Map to standardized names - FIXED: Use correct column mapping
         column_mapping = {
             'Title': 'Title',
+            'Original_Title': 'Original_Title',  # Add this
             'Year': 'Year',
-            'Directors': 'Director',  # FIX: Map 'Directors' to 'Director'
+            'Directors': 'Director',
             'Genres': 'Genres',
-            'IMDb_Rating': 'IMDb_Rating',  # Keep original IMDb rating
+            'IMDb_Rating': 'IMDb_Rating',
             'Runtime_(mins)': 'Runtime_mins',
             'Num_Votes': 'Num_Votes',
             'Release_Date': 'Release_Date',
             'URL': 'URL',
             'Title_Type': 'Title_Type',
-            'Description': 'Description'
+            'Description': 'Description',
+            'Const': 'Const',
+            'Your_Rating': 'Your_Rating'  # In case some are already rated
         }
         
-        # Apply mapping
+        # Apply mapping for existing columns
         df = df.rename(columns={k: v for k, v in column_mapping.items() if k in df.columns})
         
-        # Ensure required columns exist
-        if 'Title' not in df.columns:
-            raise ValueError("CSV must contain 'Title' column")
+        # Debug: Check what we have after renaming
+        print(f"🔍 After renaming - Title column sample: {df['Title'].head(3).tolist() if 'Title' in df.columns else 'NO TITLE COLUMN'}")
         
-        # Clean and convert data types
-        if 'Year' in df.columns:
-            df['Year'] = pd.to_numeric(df['Year'], errors='coerce')
-        if 'Runtime_mins' in df.columns:
-            df['Runtime_mins'] = pd.to_numeric(df['Runtime_mins'], errors='coerce')
-        if 'IMDb_Rating' in df.columns:
-            df['IMDb_Rating'] = pd.to_numeric(df['IMDb_Rating'], errors='coerce')
-        if 'Num_Votes' in df.columns:
-            df['Num_Votes'] = pd.to_numeric(df['Num_Votes'], errors='coerce')
+        # Ensure we have the Title column
+        if 'Title' not in df.columns:
+            print("❌ ERROR: No Title column found after mapping!")
+            print(f"   Available columns: {df.columns.tolist()}")
+            raise ValueError("CSV must contain a Title column")
+        
+        # Clean and convert data types with proper error handling
+        def safe_convert_to_string(series):
+            """Safely convert series to string, handling any values"""
+            return series.fillna('').astype(str).str.strip()
+        
+        def safe_convert_to_numeric(series, errors='coerce'):
+            """Safely convert series to numeric"""
+            return pd.to_numeric(series, errors=errors)
+        
+        # Clean title and other string columns
+        string_columns = ['Title', 'Original_Title', 'Director', 'Genres', 'Description']
+        for col in string_columns:
+            if col in df.columns:
+                df[col] = safe_convert_to_string(df[col])
+                print(f"📝 {col}: {df[col].head(2).tolist()}")
+        
+        # Convert numeric columns - be more careful about which columns to convert
+        numeric_mappings = [
+            ('Year', 'Year'),
+            ('Runtime_mins', 'Runtime_mins'),
+            ('IMDb_Rating', 'IMDb_Rating'), 
+            ('Num_Votes', 'Num_Votes'),
+            ('Your_Rating', 'Your_Rating')
+        ]
+        
+        for source_col, target_col in numeric_mappings:
+            if source_col in df.columns:
+                # First check if the column contains mostly numeric data
+                sample_values = df[source_col].head(3).tolist()
+                print(f"🔢 Converting {source_col} - sample values: {sample_values}")
+                
+                df[target_col] = safe_convert_to_numeric(df[source_col])
+                valid_count = df[target_col].notna().sum()
+                print(f"   Converted {source_col} to numeric: {valid_count}/{len(df)} valid values")
         
         # Set default values for missing columns
         if 'Director' not in df.columns:
             df['Director'] = 'Unknown'
+            print("⚠️  Director column not found, setting to 'Unknown'")
+        
         if 'Country' not in df.columns:
             df['Country'] = 'Unknown'
+        
         if 'Genres' not in df.columns:
             df['Genres'] = 'Unknown'
+            print("⚠️  Genres column not found, setting to 'Unknown'")
         
         # Extract additional features
         df['Keywords'] = df.get('Genres', 'Unknown')
         
         # Add feature detection columns with default values
-        df['Has_Female_Strength'] = 0
-        df['Has_Male_Gaze'] = 0
-        df['Has_Oscar'] = 0
+        feature_columns = ['Has_Female_Strength', 'Has_Male_Gaze', 'Has_Oscar']
+        for col in feature_columns:
+            if col not in df.columns:
+                df[col] = 0
+        
+        # Remove any rows with invalid titles
+        initial_count = len(df)
+        df = df[
+            df['Title'].notna() & 
+            (df['Title'] != '') & 
+            (df['Title'] != 'nan') &
+            (~df['Title'].str.isnumeric())  # Remove titles that are just numbers
+        ]
+        final_count = len(df)
+        
+        if initial_count != final_count:
+            print(f"🔄 Removed {initial_count - final_count} rows with invalid titles")
         
         print(f"✅ Processed {len(df)} movies from IMDb format")
-        print(f"📝 Sample titles: {df['Title'].head(3).tolist()}")
+        print(f"📝 Final sample titles: {df['Title'].head(5).tolist()}")
+        print(f"📊 Final data types:")
+        for col in ['Title', 'Year', 'Runtime_mins', 'IMDb_Rating', 'Director']:
+            if col in df.columns:
+                print(f"   {col}: {df[col].dtype}")
         
         return df
     
@@ -429,3 +490,57 @@ class DataLoader:
             enhanced_df.at[idx, 'Has_Plot_Twist'] = 1 if any(keyword in combined_text for keyword in twist_keywords) else 0
         
         return enhanced_df
+    
+    def remove_already_rated_movies(self, movies_to_rate: pd.DataFrame, ratings_df: pd.DataFrame) -> pd.DataFrame:
+        """Remove movies from movies_to_rate that are already in ratings.csv"""
+        if movies_to_rate.empty or ratings_df.empty:
+            return movies_to_rate
+        
+        initial_count = len(movies_to_rate)
+        
+        # Create clean title columns for matching
+        movies_to_rate['Clean_Title'] = movies_to_rate['Title'].str.lower().str.strip()
+        ratings_df['Clean_Title'] = ratings_df['Title'].str.lower().str.strip()
+        
+        # Remove common suffixes and punctuation for better matching
+        movies_to_rate['Clean_Title'] = movies_to_rate['Clean_Title'].str.replace(r'[^\w\s]', '', regex=True)
+        ratings_df['Clean_Title'] = ratings_df['Clean_Title'].str.replace(r'[^\w\s]', '', regex=True)
+        
+        # Get list of already rated movie titles
+        rated_titles = set(ratings_df['Clean_Title'].dropna().tolist())
+        
+        # Filter out movies that are already rated
+        filtered_movies = movies_to_rate[~movies_to_rate['Clean_Title'].isin(rated_titles)].copy()
+        
+        # Also check by year for more precise matching (if year is available)
+        if 'Year' in movies_to_rate.columns and 'Year' in ratings_df.columns:
+            rated_movies_with_year = ratings_df[['Clean_Title', 'Year']].dropna().drop_duplicates()
+            rated_movies_with_year = rated_movies_with_year[rated_movies_with_year['Year'] > 0]
+            
+            # Create a set of (title, year) tuples for exact matching
+            rated_titles_with_year = set(zip(rated_movies_with_year['Clean_Title'], rated_movies_with_year['Year']))
+            
+            # Remove movies with exact title and year match
+            movies_to_rate_clean = filtered_movies.dropna(subset=['Year'])
+            movies_to_rate_clean = movies_to_rate_clean[movies_to_rate_clean['Year'] > 0]
+            
+            exact_matches_mask = movies_to_rate_clean.apply(
+                lambda row: (row['Clean_Title'], row['Year']) in rated_titles_with_year, axis=1
+            )
+            
+            exact_match_indices = movies_to_rate_clean[exact_matches_mask].index
+            filtered_movies = filtered_movies.drop(exact_match_indices)
+        
+        # Remove temporary column
+        filtered_movies = filtered_movies.drop('Clean_Title', axis=1)
+        
+        final_count = len(filtered_movies)
+        
+        if initial_count != final_count:
+            removed_count = initial_count - final_count
+            print(f"🔄 Removed {removed_count} movies that are already in your ratings")
+            if removed_count > 0:
+                removed_titles = movies_to_rate[movies_to_rate['Clean_Title'].isin(rated_titles)]['Title'].tolist()
+                print(f"📋 Removed titles: {removed_titles[:5]}{'...' if len(removed_titles) > 5 else ''}")
+        
+        return filtered_movies
