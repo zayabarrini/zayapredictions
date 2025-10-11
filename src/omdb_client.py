@@ -10,47 +10,88 @@ class OMDbClient:
         self.base_url = Config.OMDB_BASE_URL
     
     def search_movie(self, title: str, year: Optional[int] = None, fallback_data: Dict = None) -> Optional[Dict]:
-        """Search for movie details by title with enhanced data and fallbacks"""
+        """Search for movie by title and year with language support"""
+        if fallback_data is None:
+            fallback_data = {}
+        
+        # Extract language from fallback data if available
+        language = fallback_data.get('Language_Code', '')
+        
+        # Try multiple search strategies
+        strategies = [
+            self._search_by_title_year,
+            self._search_by_title, 
+            self._search_with_fallback
+        ]
+        
+        for strategy in strategies:
+            try:
+                if strategy == self._search_with_fallback:
+                    movie_data = strategy(title, year, fallback_data)
+                else:
+                    movie_data = strategy(title, year)
+                    
+                if movie_data and movie_data.get('Response') != 'False':
+                    # Add language information to the result
+                    if language:
+                        movie_data['Language_From_CSV'] = language
+                        movie_data['Primary_Language'] = language
+                    # Enhance with fallback data
+                    movie_data = self._enhance_with_fallback_data(movie_data, fallback_data)
+                    return movie_data
+            except Exception as e:
+                continue
+        
+        # If all strategies fail, use fallback data
+        print(f"🔄 Using fallback data for: {title}")
+        return self._create_fallback_movie_data(title, year, fallback_data)
+
+    def _search_by_title_year(self, title: str, year: Optional[int] = None) -> Optional[Dict]:
+        """Search by title and year"""
         params = {
-            'apikey': self.api_key,
             't': title,
+            'apikey': self.api_key,
             'type': 'movie',
             'plot': 'full'
         }
         
-        if year and year > 0:
-            params['y'] = year
+        if year and year > 1900:
+            params['y'] = int(year)
         
         try:
-            response = requests.get(self.base_url, params=params)
-            data = response.json()
-            
-            if data.get('Response') == 'True':
-                movie_data = self._parse_enhanced_movie_data(data)
-                
-                # Enhance with fallback data if provided
-                if fallback_data:
-                    movie_data = self._enhance_with_fallback_data(movie_data, fallback_data)
-                    
-                return movie_data
-            else:
-                print(f"❌ OMDb: Movie not found: {title} ({year}) - {data.get('Error', 'Unknown error')}")
-                # Return fallback data if OMDb fails
-                if fallback_data:
-                    print(f"🔄 Using fallback data for: {title}")
-                    return self._create_fallback_movie_data(title, year, fallback_data)
-                return None
-                    
+            response = requests.get(self.base_url, params=params, timeout=10)
+            if response.status_code == 200:
+                data = response.json()
+                if data.get('Response') == 'True':
+                    return self._parse_enhanced_movie_data(data)
         except Exception as e:
-            print(f"❌ Error fetching OMDb data for {title}: {e}")
-            # Return fallback data if API call fails
-            if fallback_data:
-                print(f"🔄 Using fallback data due to error for: {title}")
-                return self._create_fallback_movie_data(title, year, fallback_data)
-            return None
+            print(f"❌ Error in _search_by_title_year for {title}: {e}")
+        
+        return None
+
+    def _search_by_title(self, title: str) -> Optional[Dict]:
+        """Search by title only"""
+        return self._search_by_title_year(title, None)
+
+    def _search_with_fallback(self, title: str, year: Optional[int], fallback_data: Dict) -> Optional[Dict]:
+        """Search with fallback data enhancement"""
+        # Try the standard search first
+        movie_data = self._search_by_title_year(title, year)
+        
+        if movie_data:
+            # Enhance with fallback data
+            movie_data = self._enhance_with_fallback_data(movie_data, fallback_data)
+            return movie_data
+        
+        return None
     
     def _enhance_with_fallback_data(self, movie_data: Dict, fallback_data: Dict) -> Dict:
         """Enhance OMDb data with fallback data from CSV"""
+        # Preserve language information
+        if 'Language_Code' in fallback_data:
+            movie_data['Language_From_CSV'] = fallback_data['Language_Code']
+            movie_data['Primary_Language'] = fallback_data['Language_Code']
+        
         # Use CSV data to fill gaps in OMDb data
         if not movie_data.get('Director') and fallback_data.get('Director'):
             movie_data['Director'] = fallback_data['Director']
@@ -61,11 +102,22 @@ class OMDbClient:
         if not movie_data.get('Plot') and fallback_data.get('Description'):
             movie_data['Plot'] = fallback_data['Description']
         
-        return movie_data    
+        # Preserve other CSV data
+        csv_fields = [
+            'Keywords_From_CSV', 'Female_Critiques_From_CSV', 
+            'Hours_Themes_Alignment_From_CSV', 'Awards_From_CSV',
+            'Narrative_Type_From_CSV', 'Has_Oscar_From_CSV'
+        ]
+        
+        for field in csv_fields:
+            if field in fallback_data:
+                movie_data[field] = fallback_data[field]
+        
+        return movie_data
     
     def _create_fallback_movie_data(self, title: str, year: Optional[int], fallback_data: Dict) -> Dict:
         """Create basic movie data using fallback information"""
-        return {
+        fallback_movie = {
             'Title': title,
             'Year': year if year else 0,
             'Rated': 'N/A',
@@ -77,15 +129,24 @@ class OMDbClient:
             'Writer': '',
             'Actors': '',
             'Plot': fallback_data.get('Description', ''),
-            'Language': '',
+            'Language': fallback_data.get('Language_Code', ''),  # Add language
             'Country': fallback_data.get('Country_From_CSV', ''),
             'imdbID': fallback_data.get('Const', ''),
             'IMDb_Rating': fallback_data.get('IMDb_Rating_From_CSV', 0),
             'imdbRating': fallback_data.get('IMDb_Rating_From_CSV', 0),
             'imdbVotes': fallback_data.get('Num_Votes_From_CSV', 0),
             'Type': 'movie',
-            # Add other necessary fields with defaults
+            # Add language fields
+            'Language_From_CSV': fallback_data.get('Language_Code', ''),
+            'Primary_Language': fallback_data.get('Language_Code', ''),
         }
+        
+        # Add other fallback CSV data
+        for field in ['Keywords_From_CSV', 'Awards_From_CSV', 'Has_Oscar_From_CSV']:
+            if field in fallback_data:
+                fallback_movie[field] = fallback_data[field]
+        
+        return fallback_movie
     
     def _parse_enhanced_movie_data(self, data: Dict) -> Dict:
         """Parse OMDb response into comprehensive standardized format"""

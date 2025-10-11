@@ -1,0 +1,6 @@
+Rank,Title,Year,Predicted_Rating,Recommendation_Score,IMDb_Rating,Runtime_mins,Director,Runtime_Vs_Your_Avg,IMDb_Vs_Your_Avg,Predicted_Vs_Your_Avg,Good_Runtime_Match,Good_IMDb_Match,High_Confidence,Has_LGBT,Has_Cinematography,Has_Screenplay,Has_Plot_Twist
+1,Fall for Me,2025,7.252,0.509,4.8,103,Sherry Hormann,-3.201,-2.569,-0.679,True,False,False,0,0,0,0
+2,Freud,1962,7.851,0.617,7.2,140,John Huston,33.799,-0.169,-0.08,False,True,True,0,0,0,0
+3,Kaulitz & Kaulitz,0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+4,The Dark Knight,2008,8.303,0.677,9.1,152,Christopher Nolan,45.799,1.731,0.372,False,False,True,0,0,0,0
+5,Too Hot to Handle: Germany,0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0

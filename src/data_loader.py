@@ -9,6 +9,29 @@ class DataLoader:
             'IMDb_Rating', 'Runtime_mins', 'Year', 'Num_Votes'
         ]
         
+        # Language code mapping
+        self.language_mapping = {
+            'german': 'de', 'deutsch': 'de', 'de': 'de',
+            'french': 'fr', 'français': 'fr', 'fr': 'fr', 
+            'arabic': 'ar', 'ar': 'ar',
+            'japanese': 'ja', 'ja': 'ja',
+            'korean': 'ko', 'ko': 'ko',
+            'hindi': 'hi', 'hi': 'hi',
+            'chinese': 'zh', 'zh': 'zh',
+            'indonesian': 'id', 'id': 'id',
+            'italian': 'it', 'it': 'it',
+            'hebrew': 'he', 'he': 'he',
+            'polish': 'pl', 'pl': 'pl',
+            'turkish': 'tr', 'tr': 'tr',
+            'spanish': 'es', 'es': 'es',
+            'portuguese': 'pt', 'pt': 'pt',
+            'russian': 'ru', 'ru': 'ru',
+            'finnish': 'fi', 'philippine': 'fi', 'fi': 'fi',
+            'thai': 'th', 'th': 'th',
+            'telugu': 'te', 'te': 'te',
+            'english': 'en', 'en': 'en'
+        }
+        
     def load_ratings(self, filepath: str) -> pd.DataFrame:
         """Load and preprocess ratings CSV with IMDb export format"""
         df = pd.read_csv(filepath)
@@ -125,18 +148,160 @@ class DataLoader:
     
     def load_movies_to_rate(self, filepath: str) -> pd.DataFrame:
         """Load movies that need predictions - supports multiple formats"""
-        df = pd.read_csv(filepath)
-        
-        print(f"📋 Columns in movies file: {df.columns.tolist()}")
+        try:
+            df = pd.read_csv(filepath)
+            print(f"📋 Columns in movies file: {df.columns.tolist()}")
+            print(f"📊 First row sample: {df.iloc[0].tolist() if len(df) > 0 else 'EMPTY'}")
+            
+        except Exception as e:
+            print(f"❌ Error reading CSV: {e}")
+            raise
         
         # Handle different file formats
         if 'Film (Year)' in df.columns:
             return self._load_custom_format(df)
+        elif 'Title' in df.columns and 'Const' in df.columns and 'Directors' in df.columns:
+            # This is a detailed IMDb export
+            return self._load_imdb_export_detailed(df)
+        elif 'Title' in df.columns and 'Language' in df.columns:
+            # New format: Title and Language columns
+            return self._load_simple_language_format(df)
         elif 'Title' in df.columns:
             return self._load_imdb_format(df)
         else:
-            raise ValueError("Unsupported CSV format. Expected 'Title' column or 'Film (Year)' column")
+            print(f"❌ Unsupported CSV format. Available columns: {df.columns.tolist()}")
+            raise ValueError(f"Unsupported CSV format. Available columns: {df.columns.tolist()}")
     
+    def _load_simple_language_format(self, df: pd.DataFrame) -> pd.DataFrame:
+        """Load movies from simple format with Title and Language columns"""
+        print("📁 Detected simple format with Title and Language")
+        
+        # Clean column names
+        df.columns = [col.strip().replace(' ', '_') for col in df.columns]
+        
+        print(f"🔍 Available columns: {df.columns.tolist()}")
+        print(f"📝 Sample titles: {df['Title'].head(3).tolist()}")
+        print(f"🌐 Sample languages: {df['Language'].head(3).tolist()}")
+        
+        # Ensure required columns exist
+        required_columns = ['Title', 'Language']
+        for col in required_columns:
+            if col not in df.columns:
+                raise ValueError(f"CSV must contain '{col}' column")
+        
+        # Clean and convert data types
+        df['Title'] = df['Title'].fillna('').astype(str).str.strip()
+        df['Language'] = df['Language'].fillna('').astype(str).str.strip().str.lower()
+        
+        # Standardize language codes
+        df['Language_Code'] = df['Language'].map(self.language_mapping).fillna('en')  # Default to English
+        
+        # Set default values for missing columns that the system expects
+        default_values = {
+            'Year': 0,  # Will be filled by OMDb
+            'Director': 'Unknown',  # Will be filled by OMDb  
+            'Genres': 'Unknown',  # Will be filled by OMDb
+            'Country': 'Unknown',  # Will be filled by OMDb
+            'IMDb_Rating': 0,  # Will be filled by OMDb
+            'Runtime_mins': 0,  # Will be filled by OMDb
+            'Num_Votes': 0,  # Will be filled by OMDb
+            'Description': '',  # Will be filled by OMDb
+            'Keywords': ''  # Will be filled by OMDb
+        }
+        
+        for col, default_val in default_values.items():
+            if col not in df.columns:
+                df[col] = default_val
+        
+        # Add feature detection columns with default values
+        feature_columns = ['Has_Female_Strength', 'Has_Male_Gaze', 'Has_Oscar']
+        for col in feature_columns:
+            if col not in df.columns:
+                df[col] = 0
+        
+        # Remove any rows with invalid titles
+        initial_count = len(df)
+        df = df[
+            df['Title'].notna() & 
+            (df['Title'] != '') & 
+            (df['Title'] != 'nan') &
+            (~df['Title'].str.isnumeric())  # Remove titles that are just numbers
+        ]
+        final_count = len(df)
+        
+        if initial_count != final_count:
+            print(f"🔄 Removed {initial_count - final_count} rows with invalid titles")
+        
+        print(f"✅ Processed {len(df)} movies from simple language format")
+        print(f"📝 Final sample titles: {df['Title'].head(5).tolist()}")
+        print(f"🌐 Language distribution: {df['Language_Code'].value_counts().to_dict()}")
+        
+        return df
+    
+    def _load_imdb_export_detailed(self, df: pd.DataFrame) -> pd.DataFrame:
+        """Load detailed IMDb export format with proper column handling"""
+        print("📁 Detected detailed IMDb export format")
+        
+        # Clean column names
+        df.columns = [col.strip().replace(' ', '_') for col in df.columns]
+        
+        print(f"🔍 Raw columns: {df.columns.tolist()}")
+        print(f"🔍 First row sample:")
+        for i, (col, val) in enumerate(zip(df.columns, df.iloc[0])):
+            print(f"   {i:2d}. {col:20}: {str(val)[:50]}...")
+        
+        # The issue is that pandas might be misreading the CSV structure
+        # Let's manually map the columns based on position if needed
+        expected_columns = [
+            'Position', 'Const', 'Created', 'Modified', 'Description', 
+            'Title', 'Original_Title', 'URL', 'Title_Type', 'IMDb_Rating',
+            'Runtime_mins', 'Year', 'Genres', 'Num_Votes', 'Release_Date',
+            'Directors', 'Your_Rating', 'Date_Rated'
+        ]
+        
+        # If we have the expected number of columns, ensure they're named correctly
+        if len(df.columns) == len(expected_columns):
+            df.columns = expected_columns
+            print("✅ Applied expected column names")
+        
+        # Now map to our standard names
+        column_mapping = {
+            'Title': 'Title',
+            'Original_Title': 'Original_Title',
+            'Year': 'Year', 
+            'Directors': 'Director',
+            'Genres': 'Genres',
+            'IMDb_Rating': 'IMDb_Rating',
+            'Runtime_mins': 'Runtime_mins',
+            'Num_Votes': 'Num_Votes',
+            'Const': 'Const'
+        }
+        
+        df = df.rename(columns={k: v for k, v in column_mapping.items() if k in df.columns})
+        
+        # Convert data types carefully
+        df['Title'] = df['Title'].fillna('').astype(str).str.strip()
+        
+        # Convert numeric columns
+        numeric_cols = ['Year', 'Runtime_mins', 'IMDb_Rating', 'Num_Votes']
+        for col in numeric_cols:
+            if col in df.columns:
+                # Try multiple conversion strategies
+                df[col] = pd.to_numeric(df[col], errors='coerce')
+                valid_count = df[col].notna().sum()
+                print(f"🔢 {col}: {valid_count}/{len(df)} valid values")
+        
+        # Fill missing values
+        for col in ['Director', 'Genres', 'Country']:
+            if col not in df.columns:
+                df[col] = 'Unknown'
+        
+        print(f"✅ Processed {len(df)} movies")
+        print(f"📝 Titles: {df['Title'].head(5).tolist()}")
+        print(f"🎬 Directors: {df['Director'].head(3).tolist()}")
+        
+        return df
+
     def _load_imdb_format(self, df: pd.DataFrame) -> pd.DataFrame:
         """Load movies from standard IMDb export format"""
         print("📁 Detected IMDb export format")

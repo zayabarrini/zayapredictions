@@ -1,0 +1,6 @@
+Rank,Title,Year,Predicted_Rating,Recommendation_Score,IMDb_Rating,Runtime_mins,Director,Runtime_Vs_Your_Avg,IMDb_Vs_Your_Avg,Predicted_Vs_Your_Avg,Good_Runtime_Match,Good_IMDb_Match,High_Confidence,Has_LGBT,Has_Cinematography,Has_Screenplay,Has_Plot_Twist
+1,Dark,2017,8.183,0.609,6.0,75,Paul Schrader,-31.201,-1.369,0.251,False,False,True,0,0,0,0
+2,Fall for Me,2023,6.3,0.365,0.0,0,Unknown,-106.201,-7.369,-1.631,False,False,False,0,0,0,0
+3,Kaulitz & Kaulitz,2023,6.3,0.365,0.0,0,Unknown,-106.201,-7.369,-1.631,False,False,False,0,0,0,0
+4,"Sigmund Freud, un juif sans Dieu",2020,7.839,0.578,6.8,98,David Teboul,-8.201,-0.569,-0.092,True,True,False,0,0,0,0
+5,Too Hot to Handle: Germany,2023,6.3,0.365,0.0,0,Unknown,-106.201,-7.369,-1.631,False,False,False,0,0,0,0

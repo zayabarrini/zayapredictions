@@ -1,0 +1,41 @@
+COMPREHENSIVE MOVIE RECOMMENDATION SYSTEM - RESULTS SUMMARY
+============================================================
+Generated on: 2025-10-10 13:09:10
+Total unique movies analyzed: 5
+Model performance:
+  - Train R²: 0.799
+  - Test R²: 0.511
+  - MAE: 0.647
+  - Training samples: 1062
+
+DATA QUALITY SUMMARY:
+  - Average IMDb Rating: 4.22
+  - Average Runtime: 79 mins
+  - Year Range: 1962 - 2025
+
+TOP RECOMMENDATIONS:
+
+4. Fall for Me (2025)
+   Predicted: 7.3/10 | Score: 0.509
+   IMDb: 4.8
+   Director: Sherry Hormann
+
+5. Freud (1962)
+   Predicted: 7.9/10 | Score: 0.617
+   IMDb: 7.2
+   Director: John Huston
+
+3. Kaulitz & Kaulitz (0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+1. The Dark Knight (2008)
+   Predicted: 8.3/10 | Score: 0.677
+   IMDb: 9.1
+   Director: Christopher Nolan
+
+2. Too Hot to Handle: Germany (0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
