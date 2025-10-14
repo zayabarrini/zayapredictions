@@ -282,8 +282,14 @@ def main():
 
     enhanced_keywords = []
     for _, movie in movie_details.iterrows():
-        keywords = keyword_generator.generate_keywords(movie.to_dict())
-        enhanced_keywords.append(keywords)
+        try:
+            keywords = keyword_generator.generate_keywords(movie.to_dict())
+            enhanced_keywords.append(keywords)
+        except Exception as e:
+            print(f"⚠️  Error generating keywords for {movie.get('Title', 'Unknown')}: {e}")
+            # Use basic fallback
+            fallback_keywords = f"{movie.get('Genre', '')}, {movie.get('Country', '')}"
+            enhanced_keywords.append(fallback_keywords)
 
     movie_details['Enhanced_Keywords'] = enhanced_keywords
     print(f"✅ Generated enhanced keywords for {len(movie_details)} movies")

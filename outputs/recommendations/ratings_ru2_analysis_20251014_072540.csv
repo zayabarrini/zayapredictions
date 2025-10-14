@@ -1,0 +1,6 @@
+Rank,Title,Year,Predicted_Rating,Recommendation_Score,IMDb_Rating,Runtime_mins,Director,Runtime_Vs_Your_Avg,IMDb_Vs_Your_Avg,Predicted_Vs_Your_Avg,Good_Runtime_Match,Good_IMDb_Match,High_Confidence,Has_LGBT,Has_Cinematography,Has_Screenplay,Has_Plot_Twist
+1,Heart of a Dog,1988,8.136,0.657,8.5,136,Vladimir Bortko,29.799,1.131,0.204,True,False,True,0,0,0,0
+2,Law of the Lawless,2002,5.34,0.317,0.0,0,,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+3,Seventeen Moments of Spring,1973,5.33,0.316,0.0,0,,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+4,The Meeting Place Cannot Be Changed,1979,5.32,0.316,0.0,0,,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+5,"Well, Just You Wait!",1969,7.63,0.58,7.4,3,Gennadiy Sokolskiy,-103.201,0.031,-0.301,False,True,False,0,0,0,0

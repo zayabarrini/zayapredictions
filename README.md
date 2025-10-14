@@ -43,3 +43,7 @@ python3 main.py --movies data/Mubi.csv
 python3 main.py --movies data/The_Beauty_Of.csv
 python3 main.py --movies data/The_Hours_in_Countries.csv
 python3 main.py --movies data/Top_rated_IMdb_M-Oscars.csv
+
+python3 main.py --movies data/todo/language/all-languages2.csv
+
+python3 main.py --movies data/todo/language/ru.csv

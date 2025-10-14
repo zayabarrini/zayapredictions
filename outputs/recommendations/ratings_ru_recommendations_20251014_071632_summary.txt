@@ -1,0 +1,456 @@
+COMPREHENSIVE MOVIE RECOMMENDATION SYSTEM - RESULTS SUMMARY
+============================================================
+Generated on: 2025-10-14 07:16:32
+Total unique movies analyzed: 88
+Model performance:
+  - Train R²: 0.799
+  - Test R²: 0.511
+  - MAE: 0.647
+  - Training samples: 1062
+
+DATA QUALITY SUMMARY:
+  - Average IMDb Rating: 6.97
+  - Average Runtime: 95 mins
+  - Year Range: 1912 - 2010
+
+TOP RECOMMENDATIONS:
+
+69. 12 (2007)
+   Predicted: 8.2/10 | Score: 0.639
+   IMDb: 7.5
+   Director: Nikita Mikhalkov
+
+38. A Cruel Romance (1984)
+   Predicted: 8.1/10 | Score: 0.642
+   IMDb: 7.9
+   Director: Eldar Ryazanov
+
+71. A Few Days from the Life of I.I. Oblomov (1980)
+   Predicted: 8.0/10 | Score: 0.654
+   IMDb: 7.6
+   Director: Nikita Mikhalkov
+
+68. A Man from Boulevard des Capucines (1987)
+   Predicted: 7.5/10 | Score: 0.576
+   IMDb: 7.6
+   Director: Alla Surikova
+
+60. A Railway Station for Two (1983)
+   Predicted: 8.2/10 | Score: 0.645
+   IMDb: 7.8
+   Director: Eldar Ryazanov
+
+44. Afonya (1975)
+   Predicted: 8.1/10 | Score: 0.638
+   IMDb: 7.7
+   Director: Georgiy Daneliya
+
+70. Alexander Nevsky (1938)
+   Predicted: 8.0/10 | Score: 0.628
+   IMDb: 7.5
+   Director: Sergei Eisenstein, Dmitriy Vasilev
+
+12. An Ordinary Miracle (1979)
+   Predicted: 7.9/10 | Score: 0.603
+   IMDb: 8.0
+   Director: Mark Zakharov
+
+30. Andrei Rublev (1966)
+   Predicted: 8.2/10 | Score: 0.673
+   IMDb: 8.0
+   Director: Andrei Tarkovsky
+
+59. Assa (1987)
+   Predicted: 8.0/10 | Score: 0.656
+   IMDb: 7.6
+   Director: Sergey Solovyov
+
+72. At Home Among Strangers, a Stranger Among His Own (1974)
+   Predicted: 8.1/10 | Score: 0.635
+   IMDb: 7.4
+   Director: Nikita Mikhalkov
+
+55. Autumn Marathon (1979)
+   Predicted: 8.1/10 | Score: 0.640
+   IMDb: 7.8
+   Director: Georgiy Daneliya
+
+58. Ballad of a Soldier (1959)
+   Predicted: 8.1/10 | Score: 0.649
+   IMDb: 8.2
+   Director: Grigoriy Chukhray
+
+56. Battleship Potemkin (1925)
+   Predicted: 7.9/10 | Score: 0.656
+   IMDb: 7.9
+   Director: Sergei Eisenstein
+
+50. Bootleggers (1962)
+   Predicted: 8.0/10 | Score: 0.607
+   IMDb: 7.9
+   Director: Leonid Gaidai
+
+67. Close to Eden (1991)
+   Predicted: 8.2/10 | Score: 0.643
+   IMDb: 7.6
+   Director: Nikita Mikhalkov
+
+49. Courier (1986)
+   Predicted: 8.1/10 | Score: 0.640
+   IMDb: 7.8
+   Director: Karen Shakhnazarov
+
+26. D'artagnan and Three Musketeers (1979)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: nan
+
+88. Dark Eyes (1987)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Nikita Mikhalkov
+
+73. Dead Man's Letters (1986)
+   Predicted: 8.1/10 | Score: 0.633
+   IMDb: 7.5
+   Director: Konstantin Lopushanskiy
+
+13. Gentlemen of Fortune (1971)
+   Predicted: 8.1/10 | Score: 0.653
+   IMDb: 8.3
+   Director: Aleksandr Seryy
+
+22. Guest from the Future (1984)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: nan
+
+25. Hamlet (1964)
+   Predicted: 8.2/10 | Score: 0.652
+   IMDb: 8.2
+   Director: Grigoriy Kozintsev
+
+1. Heart of a Dog (1988)
+   Predicted: 8.1/10 | Score: 0.657
+   IMDb: 8.5
+   Director: Vladimir Bortko
+
+83. Inadequate People (2010)
+   Predicted: 8.0/10 | Score: 0.627
+   IMDb: 7.3
+   Director: Roman Karimov
+
+31. Interny (2010)
+   Predicted: 5.6/10 | Score: 0.331
+   IMDb: 0.0
+   Director: nan
+
+18. Ivan Vasilyevich Changes His Profession (1973)
+   Predicted: 8.1/10 | Score: 0.619
+   IMDb: 8.2
+   Director: Leonid Gaidai
+
+87. Ivan the Terrible, Part II: The Boyars' Plot (1946)
+   Predicted: 8.1/10 | Score: 0.667
+   IMDb: 7.8
+   Director: Sergei Eisenstein
+
+53. Ivan's Childhood (1962)
+   Predicted: 8.2/10 | Score: 0.648
+   IMDb: 8.0
+   Director: Andrei Tarkovsky, Eduard Abalov
+
+40. Kidnapping, Caucasian Style (1967)
+   Predicted: 8.2/10 | Score: 0.657
+   IMDb: 8.3
+   Director: Leonid Gaidai
+
+39. Kin-dza-dza! (1986)
+   Predicted: 8.1/10 | Score: 0.644
+   IMDb: 7.9
+   Director: Georgiy Daneliya
+
+5. Law of the Lawless (2002)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: nan
+
+66. Letter Never Sent (1960)
+   Predicted: 8.2/10 | Score: 0.646
+   IMDb: 7.8
+   Director: Mikhail Kalatozov
+
+29. Love and Doves (1985)
+   Predicted: 8.1/10 | Score: 0.644
+   IMDb: 7.9
+   Director: Vladimir Menshov
+
+21. Man with a Movie Camera (1929)
+   Predicted: 7.8/10 | Score: 0.604
+   IMDb: 8.3
+   Director: Dziga Vertov
+
+15. Mimino (1977)
+   Predicted: 8.2/10 | Score: 0.650
+   IMDb: 8.1
+   Director: Georgiy Daneliya
+
+36. Moscow Does Not Believe in Tears (1980)
+   Predicted: 8.0/10 | Score: 0.641
+   IMDb: 8.0
+   Director: Vladimir Menshov
+
+81. Mother (1926)
+   Predicted: 7.7/10 | Score: 0.611
+   IMDb: 7.4
+   Director: Vsevolod Pudovkin
+
+85. Mother and Son (1997)
+   Predicted: 7.7/10 | Score: 0.613
+   IMDb: 7.3
+   Director: Aleksandr Sokurov
+
+11. Office Romance (1977)
+   Predicted: 8.1/10 | Score: 0.649
+   IMDb: 8.2
+   Director: Eldar Ryazanov
+
+16. Only Old Men Are Going to Battle (1974)
+   Predicted: 8.2/10 | Score: 0.653
+   IMDb: 8.2
+   Director: Leonid Bykov
+
+28. Operation 'Y' & Other Shurik's Adventures (1965)
+   Predicted: 8.2/10 | Score: 0.657
+   IMDb: 8.4
+   Director: Leonid Gaidai
+
+77. Peculiarities of the National Hunt (1995)
+   Predicted: 7.5/10 | Score: 0.572
+   IMDb: 7.4
+   Director: Aleksandr Rogozhkin
+
+17. Pokrov Gates (1983)
+   Predicted: 8.1/10 | Score: 0.643
+   IMDb: 7.9
+   Director: Mikhail Kozakov
+
+75. Prisoner of the Mountains (1996)
+   Predicted: 8.1/10 | Score: 0.636
+   IMDb: 7.5
+   Director: Sergei Bodrov
+
+23. Repentance (1984)
+   Predicted: 8.1/10 | Score: 0.646
+   IMDb: 8.1
+   Director: Tengiz Abuladze
+
+4. Seventeen Moments of Spring (1973)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: nan
+
+48. Shadows of Forgotten Ancestors (1965)
+   Predicted: 8.2/10 | Score: 0.644
+   IMDb: 7.8
+   Director: Sergei Parajanov
+
+47. Siberiade (1979)
+   Predicted: 8.2/10 | Score: 0.671
+   IMDb: 7.9
+   Director: Andrey Konchalovskiy
+
+46. Solaris (1972)
+   Predicted: 8.1/10 | Score: 0.645
+   IMDb: 7.9
+   Director: Andrei Tarkovsky
+
+82. Strike (1925)
+   Predicted: 7.6/10 | Score: 0.611
+   IMDb: 7.6
+   Director: Sergei Eisenstein
+
+61. Ten Little Indians (1987)
+   Predicted: 8.2/10 | Score: 0.644
+   IMDb: 7.7
+   Director: Stanislav Govorukhin
+
+9. The Adventures of Sherlock Holmes and Doctor Watson: Mortal Fight (1980)
+   Predicted: 7.9/10 | Score: 0.615
+   IMDb: 8.6
+   Director: Igor Maslennikov
+
+10. The Adventures of Sherlock Holmes and Dr. Watson: The Adventures of Sherlock Holmes and Doctor Watson: Mortal Fight (1980)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Igor Maslennikov
+
+6. The Adventures of Sherlock Holmes and Dr. Watson: The Hound of the Baskervilles (1981)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: nan
+
+33. The Ascent (1977)
+   Predicted: 8.2/10 | Score: 0.655
+   IMDb: 8.2
+   Director: Larisa Shepitko
+
+76. The Banishment (2007)
+   Predicted: 8.2/10 | Score: 0.638
+   IMDb: 7.5
+   Director: Andrey Zvyagintsev
+
+74. The Barber of Siberia (1998)
+   Predicted: 8.0/10 | Score: 0.657
+   IMDb: 7.7
+   Director: Nikita Mikhalkov
+
+64. The Cameraman's Revenge (1912)
+   Predicted: 7.4/10 | Score: 0.575
+   IMDb: 7.7
+   Director: Wladyslaw Starewicz
+
+80. The Color of Pomegranates (1969)
+   Predicted: 7.8/10 | Score: 0.646
+   IMDb: 7.6
+   Director: Sergei Parajanov
+
+62. The Cuckoo (2002)
+   Predicted: 8.0/10 | Score: 0.636
+   IMDb: 7.7
+   Director: Aleksandr Rogozhkin
+
+35. The Dawns Here Are Quiet (1972)
+   Predicted: 8.2/10 | Score: 0.675
+   IMDb: 8.1
+   Director: Stanislav Rostotskiy
+
+45. The Destiny of a Man (1959)
+   Predicted: 8.1/10 | Score: 0.642
+   IMDb: 7.9
+   Director: Sergey Bondarchuk
+
+24. The Diamond Arm (1969)
+   Predicted: 8.0/10 | Score: 0.618
+   IMDb: 8.3
+   Director: Leonid Gaidai
+
+32. The Garage (1980)
+   Predicted: 8.2/10 | Score: 0.648
+   IMDb: 8.0
+   Director: Eldar Ryazanov
+
+41. The Girls (1962)
+   Predicted: 7.9/10 | Score: 0.601
+   IMDb: 7.8
+   Director: Yuriy Chulyukin
+
+20. The Idiot (2003)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: nan
+
+7. The Irony of Fate, or Enjoy Your Bath! (1976)
+   Predicted: 8.1/10 | Score: 0.645
+   IMDb: 8.1
+   Director: Eldar Ryazanov
+
+57. The Island (2006)
+   Predicted: 8.3/10 | Score: 0.649
+   IMDb: 7.8
+   Director: Pavel Lungin
+
+84. The Italian (2005)
+   Predicted: 8.1/10 | Score: 0.637
+   IMDb: 7.5
+   Director: Andrey Kravchuk
+
+3. The Meeting Place Cannot Be Changed (1979)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: nan
+
+51. The Old Man and the Sea (1999)
+   Predicted: 8.2/10 | Score: 0.618
+   IMDb: 8.0
+   Director: Aleksandr Petrov
+
+54. The Tale of Tales (1979)
+   Predicted: 8.0/10 | Score: 0.604
+   IMDb: 7.8
+   Director: Yuri Norstein
+
+8. The Very Same Munchhausen (1980)
+   Predicted: 8.1/10 | Score: 0.650
+   IMDb: 8.3
+   Director: Mark Zakharov
+
+19. Twelve Chairs (1971)
+   Predicted: 8.1/10 | Score: 0.617
+   IMDb: 8.2
+   Director: Leonid Gaidai
+
+65. Unbelievable Adventures of Italians in Russia (1974)
+   Predicted: 7.6/10 | Score: 0.580
+   IMDb: 7.6
+   Director: Francesco Prosperi, Eldar Ryazanov
+
+63. Unfinished Piece for the Player Piano (1977)
+   Predicted: 8.1/10 | Score: 0.641
+   IMDb: 7.7
+   Director: Nikita Mikhalkov
+
+89. Viy (1967)
+   Predicted: 7.7/10 | Score: 0.609
+   IMDb: 7.2
+   Director: Konstantin Ershov, Georgiy Kropachyov, Aleksandr Ptushko
+
+86. War (2002)
+   Predicted: 8.1/10 | Score: 0.636
+   IMDb: 7.5
+   Director: Aleksey Balabanov
+
+79. War and Peace (1965)
+   Predicted: 8.0/10 | Score: 0.646
+   IMDb: 8.3
+   Director: Sergey Bondarchuk
+
+27. Watch Out for the Automobile (1966)
+   Predicted: 7.8/10 | Score: 0.602
+   IMDb: 8.0
+   Director: Eldar Ryazanov
+
+2. Well, Just You Wait! (1969)
+   Predicted: 7.6/10 | Score: 0.580
+   IMDb: 7.4
+   Director: Gennadiy Sokolskiy
+
+78. What Men Talk About (2010)
+   Predicted: 7.5/10 | Score: 0.576
+   IMDb: 7.5
+   Director: Dmitriy Dyachenko
+
+37. White Sun of the Desert (1970)
+   Predicted: 7.6/10 | Score: 0.583
+   IMDb: 7.7
+   Director: Vladimir Motyl
+
+34. Winnie-the-Pooh (1969)
+   Predicted: 8.1/10 | Score: 0.617
+   IMDb: 8.2
+   Director: Fyodor Khitruk
+
+43. Winnie-the-Pooh Pays a Visit (1971)
+   Predicted: 8.1/10 | Score: 0.617
+   IMDb: 8.2
+   Director: Fyodor Khitruk
+
+42. Winnie-the-Pooh and a Busy Day (1972)
+   Predicted: 8.1/10 | Score: 0.617
+   IMDb: 8.2
+   Director: Fyodor Khitruk, Gennadiy Sokolskiy
+
+52. Ya shagayu po Moskve (1964)
+   Predicted: 7.9/10 | Score: 0.599
+   IMDb: 7.8
+   Director: Georgiy Daneliya

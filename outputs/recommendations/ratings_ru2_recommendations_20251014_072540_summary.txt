@@ -1,0 +1,41 @@
+COMPREHENSIVE MOVIE RECOMMENDATION SYSTEM - RESULTS SUMMARY
+============================================================
+Generated on: 2025-10-14 07:25:40
+Total unique movies analyzed: 5
+Model performance:
+  - Train R²: 0.799
+  - Test R²: 0.511
+  - MAE: 0.647
+  - Training samples: 1062
+
+DATA QUALITY SUMMARY:
+  - Average IMDb Rating: 3.18
+  - Average Runtime: 28 mins
+  - Year Range: 1969 - 2002
+
+TOP RECOMMENDATIONS:
+
+1. Heart of a Dog (1988)
+   Predicted: 8.1/10 | Score: 0.657
+   IMDb: 8.5
+   Director: Vladimir Bortko
+
+5. Law of the Lawless (2002)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: nan
+
+4. Seventeen Moments of Spring (1973)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: nan
+
+3. The Meeting Place Cannot Be Changed (1979)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: nan
+
+2. Well, Just You Wait! (1969)
+   Predicted: 7.6/10 | Score: 0.580
+   IMDb: 7.4
+   Director: Gennadiy Sokolskiy

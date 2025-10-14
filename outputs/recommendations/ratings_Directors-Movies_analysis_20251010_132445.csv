@@ -1,4 +1,0 @@
-Rank,Title,Year,Predicted_Rating,Recommendation_Score,IMDb_Rating,Runtime_mins,Director,Runtime_Vs_Your_Avg,IMDb_Vs_Your_Avg,Predicted_Vs_Your_Avg,Good_Runtime_Match,Good_IMDb_Match,High_Confidence,Has_LGBT,Has_Cinematography,Has_Screenplay,Has_Plot_Twist
-1,Alphaville,1965,7.684,0.604,7.0,99,Jean-Luc Godard,-7.201,-0.369,-0.248,True,True,True,0,0,0,0
-2,Breathless,1960,8.054,0.637,7.7,90,Jean-Luc Godard,-16.201,0.331,0.123,True,True,True,0,0,0,0
-3,Contempt,1963,8.156,0.636,7.4,102,Jean-Luc Godard,-4.201,0.031,0.224,True,True,True,0,0,0,0
