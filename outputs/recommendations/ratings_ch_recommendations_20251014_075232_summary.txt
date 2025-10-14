@@ -1,0 +1,631 @@
+COMPREHENSIVE MOVIE RECOMMENDATION SYSTEM - RESULTS SUMMARY
+============================================================
+Generated on: 2025-10-14 07:52:33
+Total unique movies analyzed: 123
+Model performance:
+  - Train R²: 0.799
+  - Test R²: 0.511
+  - MAE: 0.647
+  - Training samples: 1062
+
+DATA QUALITY SUMMARY:
+  - Average IMDb Rating: 6.86
+  - Average Runtime: 109 mins
+  - Year Range: 1922 - 2010
+
+TOP RECOMMENDATIONS:
+
+162. 92 Legendary La Rose Noire (1992)
+   Predicted: 7.4/10 | Score: 0.552
+   IMDb: 6.6
+   Director: Jeffrey Lau
+
+96. A Better Tomorrow (1986)
+   Predicted: 8.1/10 | Score: 0.635
+   IMDb: 7.4
+   Director: John Woo
+
+140. A Chinese Ghost Story (1987)
+   Predicted: 7.5/10 | Score: 0.569
+   IMDb: 7.3
+   Director: Siu-Tung Ching
+
+112. A Chinese Odyssey: Part One - Pandora's Box (1995)
+   Predicted: 7.5/10 | Score: 0.573
+   IMDb: 7.5
+   Director: Jeffrey Lau
+
+68. A City of Sadness (1989)
+   Predicted: 8.3/10 | Score: 0.674
+   IMDb: 7.8
+   Director: Hsiao-Hsien Hou
+
+116. A Time to Live and a Time to Die (1985)
+   Predicted: 8.2/10 | Score: 0.640
+   IMDb: 7.5
+   Director: Hsiao-Hsien Hou
+
+35. A Touch of Zen (1971)
+   Predicted: 8.1/10 | Score: 0.637
+   IMDb: 7.5
+   Director: King Hu
+
+155. Ah Ying (1983)
+   Predicted: 7.9/10 | Score: 0.611
+   IMDb: 6.9
+   Director: Allen Fong
+
+62. An Autumn's Tale (1987)
+   Predicted: 8.1/10 | Score: 0.637
+   IMDb: 7.5
+   Director: Mabel Cheung
+
+174. As Tears Go By (1988)
+   Predicted: 7.8/10 | Score: 0.608
+   IMDb: 7.0
+   Director: Wong Kar-Wai
+
+78. Ashes of Time (1994)
+   Predicted: 7.7/10 | Score: 0.607
+   IMDb: 7.0
+   Director: Wong Kar-Wai
+
+30. Beautiful Duckling (1965)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Hsing Lee
+
+87. Blind Shaft (2003)
+   Predicted: 8.1/10 | Score: 0.635
+   IMDb: 7.5
+   Director: Yang Li
+
+102. Boat People (1982)
+   Predicted: 8.2/10 | Score: 0.644
+   IMDb: 7.6
+   Director: Ann Hui
+
+148. C'est la vie, mon chéri (1993)
+   Predicted: 8.2/10 | Score: 0.641
+   IMDb: 7.6
+   Director: Derek Tung-Sing Yee
+
+92. Cape No. 7 (2008)
+   Predicted: 7.9/10 | Score: 0.613
+   IMDb: 7.0
+   Director: Te-Sheng Wei
+
+135. Center Stage (1991)
+   Predicted: 8.2/10 | Score: 0.638
+   IMDb: 7.4
+   Director: Stanley Kwan
+
+41. China Behind (1978)
+   Predicted: 7.9/10 | Score: 0.619
+   IMDb: 7.2
+   Director: Shu Shuen Tong
+
+93. City of Life and Death (2009)
+   Predicted: 8.1/10 | Score: 0.661
+   IMDb: 7.7
+   Director: Chuan Lu
+
+63. City on Fire (1987)
+   Predicted: 7.8/10 | Score: 0.612
+   IMDb: 7.1
+   Director: Ringo Lam
+
+145. Cold Nights (1955)
+   Predicted: 7.8/10 | Score: 0.602
+   IMDb: 6.7
+   Director: Sun-Fung Lee
+
+9. Crossroads (1937)
+   Predicted: 7.7/10 | Score: 0.599
+   IMDb: 6.7
+   Director: Xiling Shen
+
+104. Crouching Tiger, Hidden Dragon (2000)
+   Predicted: 8.3/10 | Score: 0.652
+   IMDb: 7.9
+   Director: Ang Lee
+
+14. Crows and Sparrows (1949)
+   Predicted: 7.8/10 | Score: 0.614
+   IMDb: 7.2
+   Director: Junli Zheng
+
+154. Dangerous Encounters of the First Kind (1980)
+   Predicted: 7.4/10 | Score: 0.565
+   IMDb: 7.3
+   Director: Hark Tsui
+
+69. Days of Being Wild (1990)
+   Predicted: 8.2/10 | Score: 0.636
+   IMDb: 7.4
+   Director: Wong Kar-Wai
+
+101. Dragon Inn (1967)
+   Predicted: 7.6/10 | Score: 0.580
+   IMDb: 7.4
+   Director: King Hu
+
+124. Drunken Master (1978)
+   Predicted: 7.6/10 | Score: 0.576
+   IMDb: 7.4
+   Director: Yuen Woo-Ping
+
+156. Durian Durian (2000)
+   Predicted: 7.9/10 | Score: 0.616
+   IMDb: 7.1
+   Director: Fruit Chan
+
+66. Dust in the Wind (1986)
+   Predicted: 8.2/10 | Score: 0.644
+   IMDb: 7.6
+   Director: Hsiao-Hsien Hou
+
+39. Execution in Autumn (1972)
+   Predicted: 7.8/10 | Score: 0.613
+   IMDb: 7.2
+   Director: Hsing Lee
+
+49. Father and Son (1981)
+   Predicted: 7.8/10 | Score: 0.614
+   IMDb: 7.1
+   Director: Allen Fong
+
+40. Fist of Fury (1972)
+   Predicted: 7.9/10 | Score: 0.617
+   IMDb: 7.2
+   Director: Wei Lo
+
+173. God of Gamblers (1989)
+   Predicted: 7.4/10 | Score: 0.566
+   IMDb: 7.2
+   Director: Jing Wong
+
+53. Growing Up (1983)
+   Predicted: 7.9/10 | Score: 0.620
+   IMDb: 7.3
+   Director: Kun-Hou Chen
+
+22. Hao men ye yan (1959)
+   Predicted: 6.7/10 | Score: 0.505
+   IMDb: 6.0
+   Director: Chi-Hung Law, Sun-Fung Lee, Tit Lee
+
+180. Health Warning (1983)
+   Predicted: 6.6/10 | Score: 0.486
+   IMDb: 5.2
+   Director: Kirk Wong
+
+172. Hibiscus Town (1987)
+   Predicted: 8.2/10 | Score: 0.678
+   IMDb: 8.2
+   Director: Jin Xie
+
+38. Home Sweet Home (1970)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Ching-Jui Pai
+
+115. Homecoming (1984)
+   Predicted: 7.8/10 | Score: 0.615
+   IMDb: 7.2
+   Director: Ho Yim
+
+179. Hong lou meng (1962)
+   Predicted: 7.4/10 | Score: 0.558
+   IMDb: 6.8
+   Director: Chiu-Feng Yuan
+
+111. In the Face of Demolition (1953)
+   Predicted: 7.7/10 | Score: 0.598
+   IMDb: 6.6
+   Director: Tit Lee
+
+75. In the Heat of the Sun (1994)
+   Predicted: 8.1/10 | Score: 0.649
+   IMDb: 8.1
+   Director: Wen Jiang
+
+85. Infernal Affairs (2002)
+   Predicted: 8.2/10 | Score: 0.649
+   IMDb: 8.0
+   Director: Wai Keung Lau, Alan Mak
+
+1. Lao gong zhi ai qing (1922)
+   Predicted: 7.1/10 | Score: 0.534
+   IMDb: 6.4
+   Director: Shichuan Zhang
+
+94. Let the Bullets Fly (2010)
+   Predicted: 7.9/10 | Score: 0.623
+   IMDb: 7.3
+   Director: Wen Jiang
+
+136. Life of a Beijing Policeman (1950)
+   Predicted: 7.8/10 | Score: 0.636
+   IMDb: 7.2
+   Director: Hui Shi
+
+178. Lin Zexu (1959)
+   Predicted: 7.5/10 | Score: 0.605
+   IMDb: 6.3
+   Director: Fan Cen, Junli Zheng
+
+57. Long Arm of the Law (1984)
+   Predicted: 7.8/10 | Score: 0.612
+   IMDb: 7.1
+   Director: Johnny Mak
+
+11. Long Live the Missus! (1947)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Hu Sang
+
+91. Lust, Caution (2007)
+   Predicted: 8.0/10 | Score: 0.654
+   IMDb: 7.5
+   Director: Ang Lee
+
+79. Made in Hong Kong (1997)
+   Predicted: 8.2/10 | Score: 0.638
+   IMDb: 7.5
+   Director: Fruit Chan
+
+21. Mambo Girl (1957)
+   Predicted: 7.3/10 | Score: 0.567
+   IMDb: 6.0
+   Director: Wen Yi
+
+153. My Intimate Partner (1960)
+   Predicted: 7.3/10 | Score: 0.549
+   IMDb: 6.6
+   Director: Kim Chun
+
+20. New Year Sacrifice (1956)
+   Predicted: 7.7/10 | Score: 0.604
+   IMDb: 6.9
+   Director: Hu Sang
+
+160. Nomad (1982)
+   Predicted: 7.7/10 | Score: 0.600
+   IMDb: 6.8
+   Director: Patrick Tam, Terry Kay-Ming Tong
+
+187. Not One Less (1999)
+   Predicted: 8.1/10 | Score: 0.641
+   IMDb: 7.7
+   Director: Yimou Zhang
+
+134. Once Upon a Time in China (1991)
+   Predicted: 7.5/10 | Score: 0.569
+   IMDb: 7.2
+   Director: Hark Tsui
+
+33. One-Armed Swordsman (1967)
+   Predicted: 7.7/10 | Score: 0.610
+   IMDb: 7.2
+   Director: Cheh Chang
+
+88. Oxhide (2005)
+   Predicted: 7.9/10 | Score: 0.615
+   IMDb: 7.0
+   Director: Jiayin Liu
+
+177. Parents' Hearts (1955)
+   Predicted: 7.8/10 | Score: 0.614
+   IMDb: 7.1
+   Director: Kim Chun
+
+80. Pickpocket (1997)
+   Predicted: 8.2/10 | Score: 0.637
+   IMDb: 7.4
+   Director: Jia Zhang-ke
+
+83. Platform (2000)
+   Predicted: 7.9/10 | Score: 0.643
+   IMDb: 7.3
+   Director: Jia Zhang-ke
+
+32. Po xiao shi fen (1968)
+   Predicted: 7.8/10 | Score: 0.610
+   IMDb: 7.0
+   Director: Han Hsiang Li, Tsun-Shou Sung
+
+147. Police Story (1985)
+   Predicted: 7.4/10 | Score: 0.572
+   IMDb: 7.5
+   Director: Jackie Chan
+
+146. Raining in the Mountain (1979)
+   Predicted: 7.8/10 | Score: 0.617
+   IMDb: 7.3
+   Director: King Hu
+
+184. Rebels of the Neon God (1992)
+   Predicted: 8.2/10 | Score: 0.638
+   IMDb: 7.5
+   Director: Tsai Ming-liang
+
+65. Red Sorghum (1988)
+   Predicted: 7.9/10 | Score: 0.644
+   IMDb: 7.3
+   Director: Yimou Zhang
+
+114. Rouge (1987)
+   Predicted: 7.9/10 | Score: 0.620
+   IMDb: 7.3
+   Director: Stanley Kwan
+
+181. Shanghai Blues (1984)
+   Predicted: 7.5/10 | Score: 0.567
+   IMDb: 7.0
+   Director: Hark Tsui
+
+84. Shaolin Soccer (2001)
+   Predicted: 7.4/10 | Score: 0.565
+   IMDb: 7.3
+   Director: Stephen Chow
+
+164. Song at Midnight (1937)
+   Predicted: 7.0/10 | Score: 0.520
+   IMDb: 6.1
+   Director: Weibang Ma-Xu
+
+158. Sorrows and Joys of a Middle-Aged Man (1949)
+   Predicted: 8.1/10 | Score: 0.642
+   IMDb: 7.9
+   Director: Hu Sang
+
+16. Sorrows of the Forbidden City (1948)
+   Predicted: 7.8/10 | Score: 0.633
+   IMDb: 6.9
+   Director: Shilin Zhu
+
+95. Spring in a Small Town (1948)
+   Predicted: 7.8/10 | Score: 0.614
+   IMDb: 7.3
+   Director: Mu Fei
+
+89. Still Life (2006)
+   Predicted: 8.0/10 | Score: 0.625
+   IMDb: 7.3
+   Director: Jia Zhang-ke
+
+7. Street Angel (1937)
+   Predicted: 7.5/10 | Score: 0.596
+   IMDb: 7.0
+   Director: Muzhi Yuan
+
+90. Summer Palace (2006)
+   Predicted: 7.9/10 | Score: 0.642
+   IMDb: 7.2
+   Director: Ye Lou
+
+186. Summer Snow (1995)
+   Predicted: 8.2/10 | Score: 0.645
+   IMDb: 7.8
+   Director: Ann Hui
+
+167. Taipei Story (1985)
+   Predicted: 8.2/10 | Score: 0.642
+   IMDb: 7.6
+   Director: Edward Yang
+
+44. The 36th Chamber of Shaolin (1978)
+   Predicted: 8.2/10 | Score: 0.642
+   IMDb: 7.6
+   Director: Chia-Liang Liu
+
+36. The Arch (1968)
+   Predicted: 8.1/10 | Score: 0.638
+   IMDb: 7.6
+   Director: Shu Shuen Tong
+
+6. The Big Road (1935)
+   Predicted: 7.5/10 | Score: 0.586
+   IMDb: 6.5
+   Director: Yu Sun
+
+183. The Black Cannon Incident (1985)
+   Predicted: 8.2/10 | Score: 0.639
+   IMDb: 7.4
+   Director: Jianxin Huang
+
+168. The Blue Kite (1993)
+   Predicted: 8.0/10 | Score: 0.655
+   IMDb: 7.5
+   Director: Zhuangzhuang Tian
+
+46. The Butterfly Murders (1979)
+   Predicted: 7.2/10 | Score: 0.537
+   IMDb: 6.4
+   Director: Hark Tsui
+
+182. The Eight Diagram Pole Fighter (1984)
+   Predicted: 8.1/10 | Score: 0.635
+   IMDb: 7.4
+   Director: Chia-Liang Liu
+
+120. The Goddess (1934)
+   Predicted: 7.6/10 | Score: 0.611
+   IMDb: 7.6
+   Director: Yonggang Wu
+
+152. The Great Devotion (1960)
+   Predicted: 7.6/10 | Score: 0.601
+   IMDb: 7.0
+   Director: Yuen Chor
+
+159. The House of 72 Tenants (1973)
+   Predicted: 7.1/10 | Score: 0.537
+   IMDb: 6.5
+   Director: Yuen Chor
+
+133. The Killer (1989)
+   Predicted: 8.2/10 | Score: 0.642
+   IMDb: 7.7
+   Director: John Woo
+
+137. The Kingdom and the Beauty (1959)
+   Predicted: 7.7/10 | Score: 0.601
+   IMDb: 6.7
+   Director: Han Hsiang Li
+
+18. The Life of Wu Xun (1951)
+   Predicted: 7.7/10 | Score: 0.601
+   IMDb: 6.8
+   Director: Yu Sun
+
+24. The Lin Family Shop (1959)
+   Predicted: 7.7/10 | Score: 0.608
+   IMDb: 7.1
+   Director: Choui Khoua
+
+29. The Love Eterne (1963)
+   Predicted: 7.6/10 | Score: 0.570
+   IMDb: 7.1
+   Director: Han Hsiang Li
+
+107. The Mission (1999)
+   Predicted: 7.3/10 | Score: 0.566
+   IMDb: 7.5
+   Director: Johnnie To
+
+142. The Orphan (1960)
+   Predicted: 8.1/10 | Score: 0.636
+   IMDb: 7.5
+   Director: Sun-Fung Lee
+
+43. The Private Eyes (1976)
+   Predicted: 7.5/10 | Score: 0.563
+   IMDb: 7.0
+   Director: Michael Hui
+
+74. The Puppetmaster (1993)
+   Predicted: 7.8/10 | Score: 0.611
+   IMDb: 7.0
+   Director: Hsiao-Hsien Hou
+
+141. The Purple Hairpin (1959)
+   Predicted: 7.3/10 | Score: 0.550
+   IMDb: 6.7
+   Director: Tit Lee
+
+28. The Red Detachment of Women (1961)
+   Predicted: 7.6/10 | Score: 0.599
+   IMDb: 6.9
+   Director: Jin Xie
+
+52. The Sandwich Man (1983)
+   Predicted: 7.9/10 | Score: 0.618
+   IMDb: 7.1
+   Director: Hsiao-Hsien Hou, Chuang-Hsiang Tseng, Jen Wan
+
+47. The Secret (1979)
+   Predicted: 7.6/10 | Score: 0.588
+   IMDb: 6.5
+   Director: Ann Hui
+
+48. The Spooky Bunch (1980)
+   Predicted: 7.1/10 | Score: 0.533
+   IMDb: 6.3
+   Director: Ann Hui
+
+10. The Spring River Flows East (1947)
+   Predicted: 7.8/10 | Score: 0.618
+   IMDb: 7.3
+   Director: Chusheng Cai, Junli Zheng
+
+130. The Story of a Discharged Prisoner (1967)
+   Predicted: 8.1/10 | Score: 0.635
+   IMDb: 7.5
+   Director: Kong Lung
+
+61. The Terrorizers (1986)
+   Predicted: 8.2/10 | Score: 0.644
+   IMDb: 7.7
+   Director: Edward Yang
+
+73. The Wedding Banquet (1993)
+   Predicted: 8.2/10 | Score: 0.641
+   IMDb: 7.6
+   Director: Ang Lee
+
+151. The Wild, Wild Rose (1960)
+   Predicted: 7.6/10 | Score: 0.570
+   IMDb: 7.1
+   Director: Tian-Lin Wang
+
+138. The Winter (1969)
+   Predicted: 7.8/10 | Score: 0.618
+   IMDb: 7.3
+   Director: Han Hsiang Li
+
+15. The Winter of Three Hairs (1949)
+   Predicted: 7.3/10 | Score: 0.579
+   IMDb: 6.6
+   Director: Gong Yan, Ming Zhao
+
+27. Third Sister Liu (1962)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Li Su
+
+86. Tie Xi Qu: West of the Tracks (2002)
+   Predicted: 7.8/10 | Score: 0.601
+   IMDb: 8.1
+   Director: Wang Bing
+
+3. Twin Sisters (1934)
+   Predicted: 7.2/10 | Score: 0.563
+   IMDb: 6.1
+   Director: Zhengqiu Zheng
+
+143. Two Stage Sisters (1964)
+   Predicted: 7.8/10 | Score: 0.606
+   IMDb: 6.8
+   Director: Jin Xie
+
+76. Vive L'Amour (1994)
+   Predicted: 7.9/10 | Score: 0.619
+   IMDb: 7.3
+   Director: Tsai Ming-liang
+
+175. Wanjia denghuo (1948)
+   Predicted: 7.8/10 | Score: 0.613
+   IMDb: 7.1
+   Director: Fu Shen
+
+157. Xiao Wanyi (1933)
+   Predicted: 7.7/10 | Score: 0.602
+   IMDb: 6.9
+   Director: Yu Sun
+
+99. Yellow Earth (1984)
+   Predicted: 7.8/10 | Score: 0.636
+   IMDb: 7.1
+   Director: Kaige Chen
+
+42. Ying lie qian qiu (1976)
+   Predicted: 7.8/10 | Score: 0.612
+   IMDb: 7.0
+   Director: Shan-Hsi Ting
+
+5. Yu guang qu (1934)
+   Predicted: 7.5/10 | Score: 0.582
+   IMDb: 6.4
+   Director: Chusheng Cai
+
+176. Zhong qiu yue (1953)
+   Predicted: 5.2/10 | Score: 0.309
+   IMDb: 0.0
+   Director: Shilin Zhu
+
+131. Zu: Warriors from the Magic Mountain (1983)
+   Predicted: 7.4/10 | Score: 0.551
+   IMDb: 6.6
+   Director: Hark Tsui

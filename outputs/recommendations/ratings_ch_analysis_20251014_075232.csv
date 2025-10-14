@@ -1,0 +1,124 @@
+Rank,Title,Year,Predicted_Rating,Recommendation_Score,IMDb_Rating,Runtime_mins,Director,Runtime_Vs_Your_Avg,IMDb_Vs_Your_Avg,Predicted_Vs_Your_Avg,Good_Runtime_Match,Good_IMDb_Match,High_Confidence,Has_LGBT,Has_Cinematography,Has_Screenplay,Has_Plot_Twist
+1,92 Legendary La Rose Noire,1992,7.396,0.552,6.6,100,Jeffrey Lau,-6.201,-0.769,-0.535,True,True,False,0,0,0,0
+2,A Better Tomorrow,1986,8.136,0.635,7.4,95,John Woo,-11.201,0.031,0.204,True,True,True,0,0,0,0
+3,A Chinese Ghost Story,1987,7.451,0.569,7.3,98,Siu-Tung Ching,-8.201,-0.069,-0.48,True,True,False,0,0,0,0
+4,A Chinese Odyssey: Part One - Pandora's Box,1995,7.462,0.573,7.5,87,Jeffrey Lau,-19.201,0.131,-0.469,True,True,False,0,0,0,0
+5,A City of Sadness,1989,8.275,0.674,7.8,157,Hsiao-Hsien Hou,50.799,0.431,0.344,False,True,True,0,0,0,0
+6,A Time to Live and a Time to Die,1985,8.202,0.64,7.5,138,Hsiao-Hsien Hou,31.799,0.131,0.27,False,True,True,0,0,0,0
+7,A Touch of Zen,1971,8.146,0.637,7.5,200,King Hu,93.799,0.131,0.215,False,True,True,0,0,0,0
+8,Ah Ying,1983,7.853,0.611,6.9,110,Allen Fong,3.799,-0.469,-0.078,True,True,True,0,0,0,0
+9,An Autumn's Tale,1987,8.14,0.637,7.5,98,Mabel Cheung,-8.201,0.131,0.209,True,True,True,0,0,0,0
+10,As Tears Go By,1988,7.757,0.608,7.0,102,Wong Kar-Wai,-4.201,-0.369,-0.175,True,True,True,0,0,0,0
+11,Ashes of Time,1994,7.731,0.607,7.0,100,Wong Kar-Wai,-6.201,-0.369,-0.2,True,True,True,0,0,0,0
+12,Beautiful Duckling,1965,5.33,0.316,0.0,0,Hsing Lee,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+13,Blind Shaft,2003,8.095,0.635,7.5,92,Yang Li,-14.201,0.131,0.163,True,True,True,0,0,0,0
+14,Boat People,1982,8.242,0.644,7.6,109,Ann Hui,2.799,0.231,0.311,True,True,True,0,0,0,0
+15,"C'est la vie, mon chéri",1993,8.171,0.641,7.6,105,Derek Tung-Sing Yee,-1.201,0.231,0.24,True,True,True,0,0,0,0
+16,Cape No. 7,2008,7.854,0.613,7.0,129,Te-Sheng Wei,22.799,-0.369,-0.077,True,True,True,0,0,0,0
+17,Center Stage,1991,8.192,0.638,7.4,126,Stanley Kwan,19.799,0.031,0.26,True,True,True,0,0,0,0
+18,China Behind,1978,7.891,0.619,7.2,110,Shu Shuen Tong,3.799,-0.169,-0.041,True,True,True,0,0,0,0
+19,City of Life and Death,2009,8.07,0.661,7.7,133,Chuan Lu,26.799,0.331,0.138,True,True,True,0,0,0,0
+20,City on Fire,1987,7.798,0.612,7.1,101,Ringo Lam,-5.201,-0.269,-0.134,True,True,True,0,0,0,0
+21,Cold Nights,1955,7.754,0.602,6.7,136,Sun-Fung Lee,29.799,-0.669,-0.178,True,True,True,0,0,0,0
+22,Crossroads,1937,7.698,0.599,6.7,110,Xiling Shen,3.799,-0.669,-0.234,True,True,False,0,0,0,0
+23,"Crouching Tiger, Hidden Dragon",2000,8.285,0.652,7.9,120,Ang Lee,13.799,0.531,0.354,True,True,True,0,0,0,0
+24,Crows and Sparrows,1949,7.807,0.614,7.2,113,Junli Zheng,6.799,-0.169,-0.124,True,True,True,0,0,0,0
+25,Dangerous Encounters of the First Kind,1980,7.386,0.565,7.3,95,Hark Tsui,-11.201,-0.069,-0.545,True,True,False,0,0,0,0
+26,Days of Being Wild,1990,8.159,0.636,7.4,94,Wong Kar-Wai,-12.201,0.031,0.228,True,True,True,0,0,0,0
+27,Dragon Inn,1967,7.646,0.58,7.4,111,King Hu,4.799,0.031,-0.285,True,True,False,0,0,0,0
+28,Drunken Master,1978,7.563,0.576,7.4,111,Yuen Woo-Ping,4.799,0.031,-0.368,True,True,False,0,0,0,0
+29,Durian Durian,2000,7.879,0.616,7.1,116,Fruit Chan,9.799,-0.269,-0.052,True,True,True,0,0,0,0
+30,Dust in the Wind,1986,8.234,0.644,7.6,109,Hsiao-Hsien Hou,2.799,0.231,0.302,True,True,True,0,0,0,0
+31,Execution in Autumn,1972,7.776,0.613,7.2,99,Hsing Lee,-7.201,-0.169,-0.155,True,True,True,0,0,0,0
+32,Father and Son,1981,7.849,0.614,7.1,97,Allen Fong,-9.201,-0.269,-0.083,True,True,True,0,0,0,0
+33,Fist of Fury,1972,7.856,0.617,7.2,107,Wei Lo,0.799,-0.169,-0.075,True,True,True,0,0,0,0
+34,God of Gamblers,1989,7.433,0.566,7.2,126,Jing Wong,19.799,-0.169,-0.499,True,True,False,0,0,0,0
+35,Growing Up,1983,7.874,0.62,7.3,100,Kun-Hou Chen,-6.201,-0.069,-0.057,True,True,True,0,0,0,0
+36,Hao men ye yan,1959,6.704,0.505,6.0,0,"Chi-Hung Law, Sun-Fung Lee, Tit Lee",-106.201,-1.369,-1.228,False,False,False,0,0,0,0
+37,Health Warning,1983,6.641,0.486,5.2,78,Kirk Wong,-28.201,-2.169,-1.29,True,False,False,0,0,0,0
+38,Hibiscus Town,1987,8.196,0.678,8.2,164,Jin Xie,57.799,0.831,0.264,False,True,True,0,0,0,0
+39,Home Sweet Home,1970,5.33,0.316,0.0,0,Ching-Jui Pai,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+40,Homecoming,1984,7.829,0.615,7.2,96,Ho Yim,-10.201,-0.169,-0.103,True,True,True,0,0,0,0
+41,Hong lou meng,1962,7.434,0.558,6.8,107,Chiu-Feng Yuan,0.799,-0.569,-0.498,True,True,False,0,0,0,0
+42,In the Face of Demolition,1953,7.724,0.598,6.6,130,Tit Lee,23.799,-0.769,-0.208,True,True,False,0,0,0,0
+43,In the Heat of the Sun,1994,8.146,0.649,8.1,134,Wen Jiang,27.799,0.731,0.214,True,True,True,0,0,0,0
+44,Infernal Affairs,2002,8.172,0.649,8.0,101,"Wai Keung Lau, Alan Mak",-5.201,0.631,0.241,True,True,True,0,0,0,0
+45,Lao gong zhi ai qing,1922,7.126,0.534,6.4,30,Shichuan Zhang,-76.201,-0.969,-0.806,False,True,False,0,0,0,0
+46,Let the Bullets Fly,2010,7.945,0.623,7.3,132,Wen Jiang,25.799,-0.069,0.014,True,True,True,0,0,0,0
+47,Life of a Beijing Policeman,1950,7.769,0.636,7.2,120,Hui Shi,13.799,-0.169,-0.162,True,True,True,0,0,0,0
+48,Lin Zexu,1959,7.498,0.605,6.3,102,"Fan Cen, Junli Zheng",-4.201,-1.069,-0.433,True,False,True,0,0,0,0
+49,Long Arm of the Law,1984,7.809,0.612,7.1,105,Johnny Mak,-1.201,-0.269,-0.122,True,True,True,0,0,0,0
+50,Long Live the Missus!,1947,5.31,0.315,0.0,0,Hu Sang,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+51,"Lust, Caution",2007,8.01,0.654,7.5,157,Ang Lee,50.799,0.131,0.078,False,True,True,0,0,0,0
+52,Made in Hong Kong,1997,8.156,0.638,7.5,109,Fruit Chan,2.799,0.131,0.225,True,True,True,0,0,0,0
+53,Mambo Girl,1957,7.343,0.567,6.0,91,Wen Yi,-15.201,-1.369,-0.588,True,False,False,0,0,0,0
+54,My Intimate Partner,1960,7.339,0.549,6.6,101,Kim Chun,-5.201,-0.769,-0.592,True,True,False,0,0,0,0
+55,New Year Sacrifice,1956,7.716,0.604,6.9,100,Hu Sang,-6.201,-0.469,-0.215,True,True,True,0,0,0,0
+56,Nomad,1982,7.688,0.6,6.8,96,"Patrick Tam, Terry Kay-Ming Tong",-10.201,-0.569,-0.243,True,True,True,0,0,0,0
+57,Not One Less,1999,8.133,0.641,7.7,106,Yimou Zhang,-0.201,0.331,0.202,True,True,True,0,0,0,0
+58,Once Upon a Time in China,1991,7.491,0.569,7.2,134,Hark Tsui,27.799,-0.169,-0.441,True,True,False,0,0,0,0
+59,One-Armed Swordsman,1967,7.722,0.61,7.2,115,Cheh Chang,8.799,-0.169,-0.209,True,True,True,0,0,0,0
+60,Oxhide,2005,7.901,0.615,7.0,110,Jiayin Liu,3.799,-0.369,-0.031,True,True,True,0,0,0,0
+61,Parents' Hearts,1955,7.832,0.614,7.1,111,Kim Chun,4.799,-0.269,-0.099,True,True,True,0,0,0,0
+62,Pickpocket,1997,8.187,0.637,7.4,110,Jia Zhang-ke,3.799,0.031,0.255,True,True,True,0,0,0,0
+63,Platform,2000,7.864,0.643,7.3,154,Jia Zhang-ke,47.799,-0.069,-0.067,False,True,True,0,0,0,0
+64,Po xiao shi fen,1968,7.808,0.61,7.0,106,"Han Hsiang Li, Tsun-Shou Sung",-0.201,-0.369,-0.123,True,True,True,0,0,0,0
+65,Police Story,1985,7.445,0.572,7.5,100,Jackie Chan,-6.201,0.131,-0.486,True,True,False,0,0,0,0
+66,Raining in the Mountain,1979,7.813,0.617,7.3,120,King Hu,13.799,-0.069,-0.119,True,True,True,0,0,0,0
+67,Rebels of the Neon God,1992,8.168,0.638,7.5,106,Tsai Ming-liang,-0.201,0.131,0.237,True,True,True,0,0,0,0
+68,Red Sorghum,1988,7.871,0.644,7.3,91,Yimou Zhang,-15.201,-0.069,-0.06,True,True,True,0,0,0,0
+69,Rouge,1987,7.873,0.62,7.3,93,Stanley Kwan,-13.201,-0.069,-0.058,True,True,True,0,0,0,0
+70,Shanghai Blues,1984,7.531,0.567,7.0,103,Hark Tsui,-3.201,-0.369,-0.4,True,True,False,0,0,0,0
+71,Shaolin Soccer,2001,7.376,0.565,7.3,87,Stephen Chow,-19.201,-0.069,-0.555,True,True,False,0,0,0,0
+72,Song at Midnight,1937,6.966,0.52,6.1,124,Weibang Ma-Xu,17.799,-1.269,-0.966,True,False,False,0,0,0,0
+73,Sorrows and Joys of a Middle-Aged Man,1949,8.073,0.642,7.9,100,Hu Sang,-6.201,0.531,0.141,True,True,True,0,0,0,0
+74,Sorrows of the Forbidden City,1948,7.828,0.633,6.9,120,Shilin Zhu,13.799,-0.469,-0.104,True,True,True,0,0,0,0
+75,Spring in a Small Town,1948,7.753,0.614,7.3,98,Mu Fei,-8.201,-0.069,-0.179,True,True,True,0,0,0,0
+76,Still Life,2006,7.974,0.625,7.3,111,Jia Zhang-ke,4.799,-0.069,0.043,True,True,True,0,0,0,0
+77,Street Angel,1937,7.529,0.596,7.0,91,Muzhi Yuan,-15.201,-0.369,-0.402,True,True,False,0,0,0,0
+78,Summer Palace,2006,7.871,0.642,7.2,158,Ye Lou,51.799,-0.169,-0.061,False,True,True,0,0,0,0
+79,Summer Snow,1995,8.173,0.645,7.8,101,Ann Hui,-5.201,0.431,0.242,True,True,True,0,0,0,0
+80,Taipei Story,1985,8.208,0.642,7.6,119,Edward Yang,12.799,0.231,0.277,True,True,True,0,0,0,0
+81,The 36th Chamber of Shaolin,1978,8.195,0.642,7.6,116,Chia-Liang Liu,9.799,0.231,0.263,True,True,True,0,0,0,0
+82,The Arch,1968,8.116,0.638,7.6,94,Shu Shuen Tong,-12.201,0.231,0.185,True,True,True,0,0,0,0
+83,The Big Road,1935,7.518,0.586,6.5,104,Yu Sun,-2.201,-0.869,-0.413,True,True,False,0,0,0,0
+84,The Black Cannon Incident,1985,8.219,0.639,7.4,96,Jianxin Huang,-10.201,0.031,0.287,True,True,True,0,0,0,0
+85,The Blue Kite,1993,8.017,0.655,7.5,140,Zhuangzhuang Tian,33.799,0.131,0.085,False,True,True,0,0,0,0
+86,The Butterfly Murders,1979,7.186,0.537,6.4,88,Hark Tsui,-18.201,-0.969,-0.746,True,True,False,0,0,0,0
+87,The Eight Diagram Pole Fighter,1984,8.14,0.635,7.4,98,Chia-Liang Liu,-8.201,0.031,0.208,True,True,True,0,0,0,0
+88,The Goddess,1934,7.583,0.611,7.6,85,Yonggang Wu,-21.201,0.231,-0.349,True,True,True,0,0,0,0
+89,The Great Devotion,1960,7.628,0.601,7.0,98,Yuen Chor,-8.201,-0.369,-0.303,True,True,True,0,0,0,0
+90,The House of 72 Tenants,1973,7.136,0.537,6.5,98,Yuen Chor,-8.201,-0.869,-0.796,True,True,False,0,0,0,0
+91,The Killer,1989,8.158,0.642,7.7,111,John Woo,4.799,0.331,0.227,True,True,True,0,0,0,0
+92,The Kingdom and the Beauty,1959,7.742,0.601,6.7,100,Han Hsiang Li,-6.201,-0.669,-0.189,True,True,True,0,0,0,0
+93,The Life of Wu Xun,1951,7.699,0.601,6.8,208,Yu Sun,101.799,-0.569,-0.232,False,True,True,0,0,0,0
+94,The Lin Family Shop,1959,7.714,0.608,7.1,85,Choui Khoua,-21.201,-0.269,-0.217,True,True,True,0,0,0,0
+95,The Love Eterne,1963,7.568,0.57,7.1,126,Han Hsiang Li,19.799,-0.269,-0.363,True,True,False,0,0,0,0
+96,The Mission,1999,7.314,0.566,7.5,84,Johnnie To,-22.201,0.131,-0.617,True,True,False,0,0,0,0
+97,The Orphan,1960,8.126,0.636,7.5,104,Sun-Fung Lee,-2.201,0.131,0.194,True,True,True,0,0,0,0
+98,The Private Eyes,1976,7.459,0.563,7.0,94,Michael Hui,-12.201,-0.369,-0.473,True,True,False,0,0,0,0
+99,The Puppetmaster,1993,7.817,0.611,7.0,142,Hsiao-Hsien Hou,35.799,-0.369,-0.114,False,True,True,0,0,0,0
+100,The Purple Hairpin,1959,7.313,0.55,6.7,135,Tit Lee,28.799,-0.669,-0.618,True,True,False,0,0,0,0
+101,The Red Detachment of Women,1961,7.629,0.599,6.9,92,Jin Xie,-14.201,-0.469,-0.303,True,True,False,0,0,0,0
+102,The Sandwich Man,1983,7.924,0.618,7.1,105,"Hsiao-Hsien Hou, Chuang-Hsiang Tseng, Jen Wan",-1.201,-0.269,-0.008,True,True,True,0,0,0,0
+103,The Secret,1979,7.561,0.588,6.5,85,Ann Hui,-21.201,-0.869,-0.371,True,True,False,0,0,0,0
+104,The Spooky Bunch,1980,7.147,0.533,6.3,97,Ann Hui,-9.201,-1.069,-0.784,True,False,False,0,0,0,0
+105,The Spring River Flows East,1947,7.836,0.618,7.3,192,"Chusheng Cai, Junli Zheng",85.799,-0.069,-0.095,False,True,True,0,0,0,0
+106,The Story of a Discharged Prisoner,1967,8.104,0.635,7.5,118,Kong Lung,11.799,0.131,0.173,True,True,True,0,0,0,0
+107,The Terrorizers,1986,8.195,0.644,7.7,109,Edward Yang,2.799,0.331,0.264,True,True,True,0,0,0,0
+108,The Wedding Banquet,1993,8.174,0.641,7.6,106,Ang Lee,-0.201,0.231,0.242,True,True,True,0,0,0,0
+109,"The Wild, Wild Rose",1960,7.566,0.57,7.1,128,Tian-Lin Wang,21.799,-0.269,-0.365,True,True,False,0,0,0,0
+110,The Winter,1969,7.841,0.618,7.3,96,Han Hsiang Li,-10.201,-0.069,-0.09,True,True,True,0,0,0,0
+111,The Winter of Three Hairs,1949,7.343,0.579,6.6,74,"Gong Yan, Ming Zhao",-32.201,-0.769,-0.588,False,True,False,0,0,0,0
+112,Third Sister Liu,1962,5.31,0.315,0.0,0,Li Su,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+113,Tie Xi Qu: West of the Tracks,2002,7.773,0.601,8.1,551,Wang Bing,444.799,0.731,-0.158,False,True,True,0,0,0,0
+114,Twin Sisters,1934,7.228,0.563,6.1,82,Zhengqiu Zheng,-24.201,-1.269,-0.703,True,False,False,0,0,0,0
+115,Two Stage Sisters,1964,7.795,0.606,6.8,112,Jin Xie,5.799,-0.569,-0.137,True,True,True,0,0,0,0
+116,Vive L'Amour,1994,7.87,0.619,7.3,118,Tsai Ming-liang,11.799,-0.069,-0.062,True,True,True,0,0,0,0
+117,Wanjia denghuo,1948,7.82,0.613,7.1,124,Fu Shen,17.799,-0.269,-0.112,True,True,True,0,0,0,0
+118,Xiao Wanyi,1933,7.687,0.602,6.9,114,Yu Sun,7.799,-0.469,-0.245,True,True,True,0,0,0,0
+119,Yellow Earth,1984,7.792,0.636,7.1,89,Kaige Chen,-17.201,-0.269,-0.139,True,True,True,0,0,0,0
+120,Ying lie qian qiu,1976,7.832,0.612,7.0,116,Shan-Hsi Ting,9.799,-0.369,-0.1,True,True,True,0,0,0,0
+121,Yu guang qu,1934,7.486,0.582,6.4,56,Chusheng Cai,-50.201,-0.969,-0.445,False,True,False,0,0,0,0
+122,Zhong qiu yue,1953,5.18,0.309,0.0,93,Shilin Zhu,-13.201,-7.369,-2.751,True,False,False,0,0,0,0
+123,Zu: Warriors from the Magic Mountain,1983,7.37,0.551,6.6,98,Hark Tsui,-8.201,-0.769,-0.561,True,True,False,0,0,0,0

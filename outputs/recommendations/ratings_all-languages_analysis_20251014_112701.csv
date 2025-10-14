@@ -1,0 +1,1133 @@
+Rank,Title,Year,Predicted_Rating,Recommendation_Score,IMDb_Rating,Runtime_mins,Director,Runtime_Vs_Your_Avg,IMDb_Vs_Your_Avg,Predicted_Vs_Your_Avg,Good_Runtime_Match,Good_IMDb_Match,High_Confidence,Has_LGBT,Has_Cinematography,Has_Screenplay,Has_Plot_Twist
+1,12,2007,5.28,0.314,0.0,0,Nikita Mikhalkov,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+2,1987: When the Day Comes,2017,6.09,0.354,0.0,0,Jang Joon-hwan,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+3,200 Pounds Beauty,2006,5.26,0.313,0.0,0,Kim Yong-hwa,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+4,23,1998,5.38,0.319,0.0,0,Hans-Christian Schmid,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+5,3 Faces,2018,6.18,0.359,0.0,0,Jafar Panahi,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+6,3-Iron,2004,5.29,0.314,0.0,0,Kim Ki-duk,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+7,71 Fragments of a Chronology of Chance,1994,5.33,0.316,0.0,0,Michael Haneke,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+8,92 Legendary La Rose Noire,1992,5.33,0.316,0.0,0,Jeffrey Lau,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+9,A Better Tomorrow,1986,5.32,0.316,0.0,0,John Woo,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+10,A Bittersweet Life,2005,5.25,0.312,0.0,0,Kim Jee-woon,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+11,A Chinese Ghost Story,1987,5.32,0.316,0.0,0,Siu-Tung Ching,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+12,A Chinese Odyssey: Part One - Pandora's Box,1995,5.33,0.316,0.0,0,Jeffrey Lau,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+13,A Christmas Tale,2008,5.31,0.315,0.0,0,Arnaud Desplechin,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+14,A City of Sadness,1989,5.32,0.316,0.0,0,Hsiao-Hsien Hou,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+15,A Cruel Romance,1984,5.32,0.316,0.0,0,Eldar Ryazanov,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+16,A Cube of Sugar,2011,5.85,0.342,0.0,0,Reza Mirkarimi,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+17,A Dragon Arrives!,2016,5.99,0.35,0.0,0,Mani Haghighi,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+18,A Few Cubic Meters of Love,2014,6.03,0.352,0.0,0,Jamshid Mahmoudi,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+19,A Few Days from the Life of I.I. Oblomov,1980,5.32,0.316,0.0,0,Nikita Mikhalkov,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+20,A Flood in Baath Country,2005,7.307,0.565,7.5,46,Omar Amiralay,-60.201,0.131,-0.624,False,True,False,0,0,0,0
+21,A Fugitive from the Past,1965,5.33,0.316,0.0,0,Tomu Uchida,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+22,A Geisha,1953,5.31,0.315,0.0,0,Kenji Mizoguchi,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+23,A Girl Walks Home Alone at Night,2014,6.03,0.352,0.0,0,Ana Lily Amirpour,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+24,A Hard Day,2014,6.03,0.352,0.0,0,Kim Seong-hun,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+25,A House Built on Water,2002,5.34,0.317,0.0,0,Bahman Farmanara,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+26,A Man from Boulevard des Capucines,1987,5.32,0.316,0.0,0,Alla Surikova,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+27,A Man of Integrity,2017,6.09,0.354,0.0,0,Mohammad Rasoulof,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+28,A Moment of Innocence,1996,5.33,0.316,0.0,0,Mohsen Makhmalbaf,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+29,A Prophet,2009,5.43,0.321,0.0,0,Jacques Audiard,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+30,A Railway Station for Two,1983,5.32,0.316,0.0,0,Eldar Ryazanov,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+31,A Room in Town,1982,5.32,0.316,0.0,0,Jacques Demy,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+32,A Scene at the Sea,1991,5.32,0.316,0.0,0,Takeshi Kitano,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+33,A Short Film About Love,1988,5.32,0.316,0.0,0,Krzysztof Kieslowski,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+34,A Story from Chikamatsu,1954,5.31,0.315,0.0,0,Kenji Mizoguchi,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+35,A Suit for Wedding,1976,5.32,0.316,0.0,0,Abbas Kiarostami,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+36,A Sunday in the Country,1984,5.32,0.316,0.0,0,Bertrand Tavernier,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+37,A Tale of Two Sisters,2003,5.3,0.315,0.0,0,Kim Jee-woon,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+38,A Talking Picture,2003,5.3,0.315,0.0,0,Manoel de Oliveira,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+39,A Time for Drunken Horses,2000,5.38,0.319,0.0,0,Bahman Ghobadi,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+40,A Time to Live and a Time to Die,1985,5.32,0.316,0.0,0,Hsiao-Hsien Hou,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+41,A Touch of Zen,1971,5.33,0.316,0.0,0,King Hu,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+42,A Trip to the Moon,1902,5.31,0.315,0.0,0,Georges Méliès,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+43,A Walk in the Fog,2010,5.61,0.33,0.0,0,Bahram Tavakoli,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+44,A Wednesday,2008,5.31,0.315,0.0,0,Neeraj Pandey,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+45,A Wife Confesses,1961,5.31,0.315,0.0,0,Yasuzô Masumura,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+46,About Elly,2009,5.43,0.321,0.0,0,Asghar Farhadi,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+47,Abraham's Valley,1993,5.33,0.316,0.0,0,Manoel de Oliveira,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+48,Absolutely Tame Is a Horse,2011,5.85,0.342,0.0,0,Abdolreza Kahani,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+49,Actors Studio,2013,6.03,0.352,0.0,0,Alireza Davoudnejad,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+50,Adrift,2009,5.43,0.321,0.0,0,Heitor Dhalia,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+51,Afonya,1975,5.32,0.316,0.0,0,Georgiy Daneliya,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+52,"Aguirre, the Wrath of God",1972,5.33,0.316,0.0,0,Werner Herzog,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+53,Ah Ying,1983,5.32,0.316,0.0,0,Allen Fong,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+54,Ahlam Hind wa Kamilya,1988,5.32,0.316,0.0,0,Mohamed Khan,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+55,Ahlam el-madina,1984,7.886,0.612,6.9,120,Mohamed Malas,13.799,-0.469,-0.046,True,True,True,0,0,0,0
+56,Aimee & Jaguar,1999,5.38,0.319,0.0,0,Max Färberböck,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+57,Airlift,2016,5.99,0.35,0.0,0,Raja Menon,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+58,Akira,1988,5.32,0.316,0.0,0,Katsuhiro Ôtomo,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+59,Al Hodoud,1984,8.168,0.636,7.4,98,Duraid Lahham,-8.201,0.031,0.236,True,True,True,0,0,0,0
+60,Al hayatt al yawmiyah fi quariah suriyah,1976,7.527,0.568,7.1,80,Omar Amiralay,-26.201,-0.269,-0.404,True,True,False,0,0,0,0
+61,Al malaika la tuhaliq fi al-dar albayda,2004,8.099,0.635,7.5,94,Mohamed Asli,-12.201,0.131,0.168,True,True,True,0,0,0,0
+62,Al-Qahira,2005,5.25,0.312,0.0,0,Davide Sacchetti,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+63,Al-boustaguy,1968,7.831,0.616,7.2,114,Hussein Kamal,7.799,-0.169,-0.101,True,True,True,0,0,0,0
+64,Al-fahd,1972,5.33,0.316,0.0,0,Nabil Maleh,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+65,Al-kompars,1993,8.147,0.643,7.8,100,Nabil Maleh,-6.201,0.431,0.215,True,True,True,0,0,0,0
+66,Al-lail,1992,7.83,0.639,7.2,116,Mohamed Malas,9.799,-0.169,-0.102,True,True,True,0,0,0,0
+67,Al-mohager,1994,5.33,0.316,0.0,0,Youssef Chahine,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+68,Al-yazerli,1974,5.32,0.316,0.0,0,Qais Al-Zubaidi,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+69,Alamar,2009,5.43,0.321,0.0,0,Pedro González-Rubio,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+70,Alexander Nevsky,1938,5.31,0.315,0.0,0,"Sergei Eisenstein, Dmitriy Vasilev",-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+71,Alexandria... Why?,1979,7.906,0.619,7.2,133,Youssef Chahine,26.799,-0.169,-0.026,True,True,True,0,0,0,0
+72,Ali Zaoua: Prince of the Streets,2000,7.801,0.616,7.3,90,Nabil Ayouch,-16.201,-0.069,-0.131,True,True,True,0,0,0,0
+73,Ali: Fear Eats the Soul,1974,5.32,0.316,0.0,0,Rainer Werner Fassbinder,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+74,Alice,2005,5.25,0.312,0.0,0,Marco Martins,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+75,Alice in the Cities,1974,5.32,0.316,0.0,0,Wim Wenders,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+76,All About Lily Chou-Chou,2001,5.39,0.319,0.0,0,Shunji Iwai,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+77,Alley of Valiants,1970,5.33,0.316,0.0,0,Saeed Motalebi,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+78,Along With the Gods: The Last 49 Days,2018,6.18,0.359,0.0,0,Kim Yong-hwa,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+79,Along With the Gods: The Two Worlds,2017,6.09,0.354,0.0,0,Kim Yong-hwa,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+80,Always,2011,5.85,0.342,0.0,0,Song Il-gon,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+81,Among the Clouds,2008,5.31,0.315,0.0,0,Rouhollah Hejazi,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+82,Amor de Perdição: Memórias de uma Família,1978,5.32,0.316,0.0,0,,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+83,Amores Perros,2000,5.38,0.319,0.0,0,Alejandro G. Iñárritu,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+84,Amreeka,2009,5.43,0.321,0.0,0,Cherien Dabis,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+85,An Autumn's Tale,1987,5.32,0.316,0.0,0,Mabel Cheung,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+86,An Ordinary Miracle,1979,5.32,0.316,0.0,0,Mark Zakharov,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+87,Anand,1971,5.33,0.316,0.0,0,Hrishikesh Mukherjee,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+88,Anatomy,2000,5.38,0.319,0.0,0,Stefan Ruzowitzky,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+89,And Life Goes On,1992,5.33,0.316,0.0,0,Abbas Kiarostami,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+90,Andaz Apna Apna,1994,5.33,0.316,0.0,0,Rajkumar Santoshi,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+91,Andhadhun,2018,6.18,0.359,0.0,0,Sriram Raghavan,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+92,Andrei Rublev,1966,5.33,0.316,0.0,0,Andrei Tarkovsky,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+93,Aniki Bobo,1942,5.31,0.315,0.0,0,Manoel de Oliveira,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+94,Ankur,1974,5.32,0.316,0.0,0,Shyam Benegal,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+95,Antibodies,2005,5.25,0.312,0.0,0,Christian Alvart,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+96,April Captains,2000,5.38,0.319,0.0,0,Maria de Medeiros,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+97,April Story,1998,5.38,0.319,0.0,0,Shunji Iwai,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+98,Area 88,1985,5.32,0.316,0.0,0,,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+99,Army of Shadows,1969,5.33,0.316,0.0,0,Jean-Pierre Melville,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+100,Arth,1982,5.32,0.316,0.0,0,Mahesh Bhatt,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+101,Artificial Paradises,2012,5.99,0.35,0.0,0,Marcos Prado,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+102,As Far as My Feet Will Carry Me,2001,5.39,0.319,0.0,0,Hardy Martins,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+103,As Simple as That,2008,5.31,0.315,0.0,0,Reza Mirkarimi,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+104,As Tears Go By,1988,5.32,0.316,0.0,0,Wong Kar-Wai,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+105,Ashes of Time,1994,5.33,0.316,0.0,0,Wong Kar-Wai,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+106,Assa,1987,5.32,0.316,0.0,0,Sergey Solovyov,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+107,Assarab,1979,7.881,0.616,7.1,100,Ahmed Bouanani,-6.201,-0.269,-0.051,True,True,True,0,0,0,0
+108,"At Home Among Strangers, a Stranger Among His Own",1974,5.32,0.316,0.0,0,Nikita Mikhalkov,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+109,At Midnight I'll Take Your Soul,1964,5.33,0.316,0.0,0,José Mojica Marins,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+110,Au hasard Balthazar,1966,5.33,0.316,0.0,0,Robert Bresson,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+111,Autumn Marathon,1979,5.32,0.316,0.0,0,Georgiy Daneliya,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+112,Awaara,1951,5.31,0.315,0.0,0,Raj Kapoor,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+113,Ayla: The Daughter of War,2017,6.09,0.354,0.0,0,Can Ulkay,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+114,Bab El Oued City,1994,5.33,0.316,0.0,0,Merzak Allouache,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+115,Bab el shams,2004,8.124,0.642,7.8,278,Yousry Nasrallah,171.799,0.431,0.193,False,True,True,0,0,0,0
+116,Bab'Aziz: The Prince That Contemplated His Soul,2005,5.25,0.312,0.0,0,Nacer Khemir,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+117,Baby,2015,6.01,0.35,0.0,0,Neeraj Pandey,-106.201,-7.369,-1.921,False,False,False,0,0,0,0
+118,Bad Blood,1986,5.32,0.316,0.0,0,Leos Carax,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+119,Bad Day Good Day,1988,7.899,0.617,7.1,125,Khairy Beshara,18.799,-0.269,-0.033,True,True,True,0,0,0,0
+120,Bad Guy,2001,5.39,0.319,0.0,0,Kim Ki-duk,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+121,Bad Hair,2013,6.03,0.352,0.0,0,Mariana Rondón,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+122,Badla,2019,6.22,0.361,0.0,0,Sujoy Ghosh,-106.201,-7.369,-1.711,False,False,False,0,0,0,0
+123,Bag of Rice,1996,5.33,0.316,0.0,0,Mohammad Ali Talebi,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+124,Bajirao Mastani,2015,6.01,0.35,0.0,0,Sanjay Leela Bhansali,-106.201,-7.369,-1.921,False,False,False,0,0,0,0
+125,Bajrangi Bhaijaan,2015,6.01,0.35,0.0,0,Kabir Khan,-106.201,-7.369,-1.921,False,False,False,0,0,0,0
+126,Balas & Bolinhos - O Regresso,2004,5.29,0.314,0.0,0,Luis Ismael,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+127,Balas & Bolinhos: O Último Capítulo,2012,5.99,0.35,0.0,0,Luis Ismael,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+128,Ballad of Tara,1979,5.32,0.316,0.0,0,Bahram Beyzaie,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+129,Ballad of a Soldier,1959,5.31,0.315,0.0,0,Grigoriy Chukhray,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+130,Bang Boom Bang - Ein todsicheres Ding,1999,5.38,0.319,0.0,0,Peter Thorwarth,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+131,Baran,2001,5.39,0.319,0.0,0,Majid Majidi,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+132,Barbara,2012,5.99,0.35,0.0,0,Christian Petzold,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+133,Barefoot,2005,5.25,0.312,0.0,0,Til Schweiger,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+134,Barefoot in Paradise,2007,5.28,0.314,0.0,0,Bahram Tavakoli,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+135,Barfi!,2012,5.99,0.35,0.0,0,Anurag Basu,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+136,"Bashu, the Little Stranger",1989,5.32,0.316,0.0,0,Bahram Beyzaie,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+137,Battle for Incheon: Operation Chromite,2016,5.99,0.35,0.0,0,John H. Lee,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+138,Battles Without Honor and Humanity,1973,5.33,0.316,0.0,0,Kinji Fukasaku,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+139,Battleship Potemkin,1925,5.31,0.315,0.0,0,Sergei Eisenstein,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+140,Be With You,2018,6.18,0.359,0.0,0,Lee Jang-hoon,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+141,Beautiful City,2004,5.29,0.314,0.0,0,Asghar Farhadi,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+142,Beautiful Duckling,1965,5.33,0.316,0.0,0,Hsing Lee,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+143,Beauty and the Devil,1950,5.31,0.315,0.0,0,René Clair,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+144,Bedevilled,2010,5.61,0.33,0.0,0,Cheol-soo Jang,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+145,Beehive,1975,5.32,0.316,0.0,0,Fereydun Gole,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+146,Before the Fall,2004,5.29,0.314,0.0,0,Dennis Gansel,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+147,Behind the Sun,2001,5.39,0.319,0.0,0,Walter Salles,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+148,Believer,2018,6.18,0.359,0.0,0,Lee Hae-young,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+149,Belle de Jour,1967,5.33,0.316,0.0,0,Luis Buñuel,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+150,Benny's Video,1992,5.33,0.316,0.0,0,Michael Haneke,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+151,Berlin Blues,2003,5.3,0.315,0.0,0,Leander Haußmann,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+152,Berlin Calling,2008,5.31,0.315,0.0,0,Hannes Stöhr,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+153,Beyond Silence,1996,5.33,0.316,0.0,0,Caroline Link,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+154,Bhaag Milkha Bhaag,2013,6.03,0.352,0.0,0,Rakeysh Omprakash Mehra,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+155,Bicho de Sete Cabeças,2000,5.38,0.319,0.0,0,Laís Bodanzky,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+156,Bit of Fear,1969,8.155,0.646,7.9,112,Hussein Kamal,5.799,0.531,0.223,True,True,True,0,0,0,0
+157,Bitter Dream,2004,5.29,0.314,0.0,0,Mohsen Amiryoussefi,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+158,Black,2005,5.25,0.312,0.0,0,Sanjay Leela Bhansali,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+159,Black Friday,2004,5.29,0.314,0.0,0,Anurag Kashyap,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+160,"Black God, White Devil",1964,5.33,0.316,0.0,0,Glauber Rocha,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+161,Black Mexicans,2018,6.18,0.359,0.0,0,Jorge Pérez Solano,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+162,Black Orpheus,1959,5.31,0.315,0.0,0,Marcel Camus,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+163,Blackboards,2000,5.38,0.319,0.0,0,Samira Makhmalbaf,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+164,Blancanieves,2012,5.99,0.35,0.0,0,Pablo Berger,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+165,Blind Beast,1969,5.33,0.316,0.0,0,Yasuzô Masumura,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+166,Blind Shaft,2003,5.3,0.315,0.0,0,Yang Li,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+167,Blood,1989,5.32,0.316,0.0,0,Pedro Costa,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+168,Blood Curse,2006,5.26,0.313,0.0,0,"Tiago Guedes, Frederico Serra",-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+169,Bloody Spear at Mount Fuji,1955,5.31,0.315,0.0,0,Tomu Uchida,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+170,Boat People,1982,5.32,0.316,0.0,0,Ann Hui,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+171,Bohachi Bushido: Code of the Forgotten Eight,1973,5.33,0.316,0.0,0,Teruo Ishii,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+172,Boiling Point,1990,5.32,0.316,0.0,0,Takeshi Kitano,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+173,Bolivia,1999,5.38,0.319,0.0,0,Israel Adrián Caetano,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+174,Bomb: A Love Story,2018,6.18,0.359,0.0,0,Payman Maadi,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+175,Bombay,1995,5.33,0.316,0.0,0,Mani Ratnam,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+176,Bootleggers,1962,5.31,0.315,0.0,0,Leonid Gaidai,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+177,Border Café,2005,5.25,0.312,0.0,0,Kambuzia Partovi,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+178,Bossa Nova,2000,5.38,0.319,0.0,0,Bruno Barreto,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+179,Boutique,2004,5.29,0.314,0.0,0,Hamid Nematollah,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+180,Branded to Kill,1967,5.33,0.316,0.0,0,Seijun Suzuki,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+181,Breath,2016,5.99,0.35,0.0,0,Narges Abyar,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+182,Breathless,1960,5.31,0.315,0.0,0,Jean-Luc Godard,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+183,Brick and Mirror,1966,5.33,0.316,0.0,0,Ebrahim Golestan,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+184,Bright Future,2002,5.34,0.317,0.0,0,Kiyoshi Kurosawa,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+185,Buddha Collapsed Out of Shame,2007,5.28,0.314,0.0,0,Hana Makhmalbaf,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+186,Buffet Froid,1979,5.32,0.316,0.0,0,Bertrand Blier,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+187,Burnt Money,2000,5.38,0.319,0.0,0,Marcelo Piñeyro,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+188,Butterfly,1999,5.38,0.319,0.0,0,José Luis Cuerda,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+189,"C'est la vie, mon chéri",1993,5.33,0.316,0.0,0,Derek Tung-Sing Yee,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+190,Caché,2005,5.25,0.312,0.0,0,Michael Haneke,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+191,Cafe Setareh,2006,5.26,0.313,0.0,0,Saman Moghadam,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+192,Cairo Station,1958,7.923,0.626,7.5,77,Youssef Chahine,-29.201,0.131,-0.008,True,True,True,0,0,0,0
+193,Call Girl,2007,5.28,0.314,0.0,0,António-Pedro Vasconcelos,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+194,Cama adentro,2004,5.29,0.314,0.0,0,Jorge Gaggero,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+195,Cape No. 7,2008,5.31,0.315,0.0,0,Te-Sheng Wei,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+196,Captain Khorshid,1987,5.32,0.316,0.0,0,Nasser Taghvai,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+197,Caramel,2007,7.882,0.616,7.1,95,Nadine Labaki,-11.201,-0.269,-0.05,True,True,True,0,0,0,0
+198,Cargo,2009,5.43,0.321,0.0,0,"Ivan Engler, Ralph Etter",-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+199,Carmen Comes Home,1951,5.31,0.315,0.0,0,Keisuke Kinoshita,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+200,Carpinteros,2017,6.09,0.354,0.0,0,José María Cabral,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+201,Casa de Areia,2005,5.25,0.312,0.0,0,Andrucha Waddington,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+202,Casanegra,2008,7.943,0.621,7.2,131,Nour Eddine Lakhmari,24.799,-0.169,0.011,True,True,True,0,0,0,0
+203,Center Stage,1991,5.32,0.316,0.0,0,Stanley Kwan,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+204,Chak De! India,2007,5.28,0.314,0.0,0,Shimit Amin,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+205,"Chaos, This Is",2007,5.28,0.314,0.0,0,"Youssef Chahine, Khaled Youssef",-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+206,Chashme Buddoor,1981,5.32,0.316,0.0,0,Sai Paranjpye,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+207,Cherry Blossoms,2008,5.31,0.315,0.0,0,Doris Dörrie,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+208,Chhoti Si Baat,1976,5.32,0.316,0.0,0,Basu Chatterjee,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+209,Chico & Rita,2009,5.43,0.321,0.0,0,"Tono Errando, Javier Mariscal, Fernando Trueba",-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+210,Children of Heaven,1997,5.38,0.319,0.0,0,Majid Majidi,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+211,China Behind,1978,5.32,0.316,0.0,0,Shu Shuen Tong,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+212,Christiane F.,1981,5.32,0.316,0.0,0,Uli Edel,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+213,Chronicle of a Disappearance,1996,7.596,0.598,6.9,88,Elia Suleiman,-18.201,-0.469,-0.336,True,True,False,0,0,0,0
+214,Chronicle of the Years of Fire,1975,8.055,0.655,7.4,177,Mohammed Lakhdar-Hamina,70.799,0.031,0.124,False,True,True,0,0,0,0
+215,Chupke Chupke,1975,5.32,0.316,0.0,0,Hrishikesh Mukherjee,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+216,City of Life and Death,2009,5.43,0.321,0.0,0,Chuan Lu,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+217,City of Mice,1986,5.32,0.316,0.0,0,"Marzieh Boroomand, Mohammad Ali Talebi",-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+218,City on Fire,1987,5.32,0.316,0.0,0,Ringo Lam,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+219,Clean Slate,1981,5.32,0.316,0.0,0,Bertrand Tavernier,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+220,Close to Eden,1991,5.32,0.316,0.0,0,Nikita Mikhalkov,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+221,Close-Up,1990,5.32,0.316,0.0,0,Abbas Kiarostami,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+222,Cléo from 5 to 7,1962,5.31,0.315,0.0,0,Agnès Varda,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+223,Cobra Verde,1987,5.32,0.316,0.0,0,Werner Herzog,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+224,Cocote,2017,6.09,0.354,0.0,0,Nelson Carlo de Los Santos Arias,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+225,Cold Eyes,2013,6.03,0.352,0.0,0,"Kim Byung-seo, Jo Ui-seok",-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+226,Cold Nights,1955,5.31,0.315,0.0,0,Sun-Fung Lee,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+227,Colors of Memory,2007,5.28,0.314,0.0,0,Amir Shahab Razavian,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+228,Coming Forth by Day,2012,5.99,0.35,0.0,0,Hala Lotfy,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+229,Confession of Murder,2012,5.99,0.35,0.0,0,Jung Byung-gil,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+230,Confessions of a Brazilian Call Girl,2011,5.85,0.342,0.0,0,Marcus Baldini,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+231,Contempt,1963,5.33,0.316,0.0,0,Jean-Luc Godard,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+232,Courier,1986,5.32,0.316,0.0,0,Karen Shakhnazarov,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+233,Courtship,1989,5.32,0.316,0.0,0,Mehdi Fakhimzadeh,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+234,Cows,1992,5.33,0.316,0.0,0,Julio Medem,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+235,Crazy Rook,2015,6.01,0.35,0.0,0,Abolhassan Davoodi,-106.201,-7.369,-1.921,False,False,False,0,0,0,0
+236,Crimson Gold,2003,5.3,0.315,0.0,0,Jafar Panahi,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+237,Cronicas,2004,5.29,0.314,0.0,0,Sebastián Cordero,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+238,Cronos,1992,5.33,0.316,0.0,0,Guillermo del Toro,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+239,Crooks in Clover,1963,5.33,0.316,0.0,0,Georges Lautner,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+240,Crossroads,1937,5.31,0.315,0.0,0,Xiling Shen,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+241,"Crouching Tiger, Hidden Dragon",2000,5.38,0.319,0.0,0,Ang Lee,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+242,Crows and Sparrows,1949,5.31,0.315,0.0,0,Junli Zheng,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+243,Cruel Sea,1971,8.166,0.638,7.5,106,Khalid Al Siddiq,-0.201,0.131,0.234,True,True,True,0,0,0,0
+244,Cría Cuervos,1976,5.32,0.316,0.0,0,Carlos Saura,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+245,Cure,1997,5.38,0.319,0.0,0,Kiyoshi Kurosawa,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+246,Cyrano de Bergerac,1990,5.32,0.316,0.0,0,Jean-Paul Rappeneau,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+247,D'artagnan and Three Musketeers,1979,5.32,0.316,0.0,0,,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+248,Dancing in the Dust,2003,5.3,0.315,0.0,0,Asghar Farhadi,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+249,Dangal,2016,5.99,0.35,0.0,0,Nitesh Tiwari,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+250,Dangerous Encounters of the First Kind,1980,5.32,0.316,0.0,0,Hark Tsui,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+251,Darb al-mahabil,1955,5.31,0.315,0.0,0,Tewfik Saleh,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+252,Dark Eyes,1987,5.32,0.316,0.0,0,Nikita Mikhalkov,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+253,Dark Figure of Crime,2018,6.18,0.359,0.0,0,Tae-Gyun Kim,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+254,Dark Water,2002,5.34,0.317,0.0,0,Hideo Nakata,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+255,Das Boot,1981,5.32,0.316,0.0,0,Wolfgang Petersen,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+256,Dash Akol,1971,5.33,0.316,0.0,0,Masud Kimiai,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+257,Date Wine,1998,8.187,0.653,8.2,110,Radwan El-Kashef,3.799,0.831,0.256,True,True,True,0,0,0,0
+258,Day Break,2005,5.25,0.312,0.0,0,Hamid Rahmanian,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+259,Days of Being Wild,1990,5.32,0.316,0.0,0,Wong Kar-Wai,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+260,Days of Glory,2006,7.929,0.616,7.0,120,Rachid Bouchareb,13.799,-0.369,-0.003,True,True,True,0,0,0,0
+261,De Lo Mio,2019,6.22,0.361,0.0,0,Diana Peralta,-106.201,-7.369,-1.711,False,False,False,0,0,0,0
+262,Dead Man's Letters,1986,5.32,0.316,0.0,0,Konstantin Lopushanskiy,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+263,Dear Zindagi,2016,5.99,0.35,0.0,0,Gauri Shinde,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+264,Death by Hanging,1968,5.33,0.316,0.0,0,Nagisa Ôshima,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+265,Death of a Cyclist,1955,5.31,0.315,0.0,0,Juan Antonio Bardem,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+266,Deewaar,1975,5.32,0.316,0.0,0,Yash Chopra,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+267,Delicatessen,1991,5.32,0.316,0.0,0,"Marc Caro, Jean-Pierre Jeunet",-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+268,Der Wixxer,2004,5.29,0.314,0.0,0,Tobi Baumann,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+269,Desiderium,1978,5.32,0.316,0.0,0,Ali Hatami,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+270,Destiny,1997,7.776,0.637,7.2,135,Youssef Chahine,28.799,-0.169,-0.156,True,True,True,0,0,0,0
+271,Dev.D,2009,5.43,0.321,0.0,0,Anurag Kashyap,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+272,Dil Chahta Hai,2001,5.39,0.319,0.0,0,Farhan Akhtar,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+273,Dil Se..,1998,5.38,0.319,0.0,0,Mani Ratnam,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+274,Dilwale Dulhania Le Jayenge,1995,5.33,0.316,0.0,0,Aditya Chopra,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+275,Dirty Hands,2014,6.03,0.352,0.0,0,Josef Kubota Wladyka,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+276,Divided We Fall,2000,5.38,0.319,0.0,0,Jan Hrebejk,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+277,Divine Intervention,2002,7.715,0.598,6.6,92,Elia Suleiman,-14.201,-0.769,-0.217,True,True,False,0,0,0,0
+278,Do Ankhen Barah Haath,1957,5.31,0.315,0.0,0,Shantaram Rajaram Vankudre,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+279,Do Bigha Zamin,1953,5.31,0.315,0.0,0,Bimal Roy,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+280,Dog Days,2001,5.39,0.319,0.0,0,Ulrich Seidl,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+281,Don,1978,5.32,0.316,0.0,0,Chandra Barot,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+282,Don't Be Tired!,2013,6.03,0.352,0.0,0,"Mohsen Gharaie, Afshin Hashemi",-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+283,Don't Look Now... We're Being Shot At!,1966,5.33,0.316,0.0,0,Gérard Oury,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+284,Dona Flor and Her Two Husbands,1976,5.32,0.316,0.0,0,Bruno Barreto,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+285,Door Lock,2018,6.18,0.359,0.0,0,Kwon Lee,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+286,Downfall,2004,5.29,0.314,0.0,0,Oliver Hirschbiegel,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+287,Downpour,1972,5.33,0.316,0.0,0,Bahram Beyzaie,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+288,"Dr. Mabuse, the Gambler",1922,5.31,0.315,0.0,0,Fritz Lang,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+289,Dragon Inn,1967,5.33,0.316,0.0,0,King Hu,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+290,Drishyam,2015,6.01,0.35,0.0,0,Nishikant Kamat,-106.201,-7.369,-1.921,False,False,False,0,0,0,0
+291,Drunken Angel,1948,5.31,0.315,0.0,0,Akira Kurosawa,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+292,Drunken Master,1978,5.32,0.316,0.0,0,Yuen Woo-Ping,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+293,Duck Season,2004,5.29,0.314,0.0,0,Fernando Eimbcke,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+294,Durian Durian,2000,5.38,0.319,0.0,0,Fruit Chan,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+295,Dust in the Wind,1986,5.32,0.316,0.0,0,Hsiao-Hsien Hou,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+296,Días de Santiago,2004,5.29,0.314,0.0,0,Josué Méndez,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+297,Ek Doctor Ki Maut,1990,5.32,0.316,0.0,0,Tapan Sinha,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+298,Ek Ruka Hua Faisla,1986,5.32,0.316,0.0,0,Basu Chatterjee,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+299,El Mariachi,1992,5.33,0.316,0.0,0,Robert Rodriguez,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+300,El Norte,1983,5.32,0.316,0.0,0,Gregory Nava,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+301,El Sur,1983,5.32,0.316,0.0,0,Víctor Erice,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+302,El Topo,1970,5.33,0.316,0.0,0,Alejandro Jodorowsky,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+303,El azima,1939,7.764,0.612,7.2,108,Kamal Selim,1.799,-0.169,-0.167,True,True,True,0,0,0,0
+304,El camino,1964,5.33,0.316,0.0,0,Ana Mariscal,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+305,El haram,1965,8.152,0.64,7.6,105,Henry Barakat,-1.201,0.231,0.22,True,True,True,0,0,0,0
+306,El-Fetiwwah,1957,5.31,0.315,0.0,0,Salah Abouseif,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+307,El-Toq wa el-Iswerah,1986,7.887,0.616,7.1,115,Khairy Beshara,8.799,-0.269,-0.044,True,True,True,0,0,0,0
+308,Elementarteilchen,2006,5.26,0.313,0.0,0,Oskar Roehler,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+309,Embrace of the Serpent,2015,6.01,0.35,0.0,0,Ciro Guerra,-106.201,-7.369,-1.921,False,False,False,0,0,0,0
+310,Emergency Kisses,1989,5.32,0.316,0.0,0,Philippe Garrel,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+311,End of the Century,2019,6.22,0.361,0.0,0,Lucio Castro,-106.201,-7.369,-1.711,False,False,False,0,0,0,0
+312,Estômago,2007,5.28,0.314,0.0,0,Marcos Jorge,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+313,Europa Europa,1990,5.32,0.316,0.0,0,Agnieszka Holland,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+314,Even Dwarfs Started Small,1970,5.33,0.316,0.0,0,Werner Herzog,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+315,Every Man for Himself,1980,5.32,0.316,0.0,0,Jean-Luc Godard,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+316,Execution in Autumn,1972,5.33,0.316,0.0,0,Hsing Lee,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+317,Experience,1973,5.33,0.316,0.0,0,Abbas Kiarostami,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+318,Extreme Job,2019,6.22,0.361,0.0,0,Lee Byeong-heon,-106.201,-7.369,-1.711,False,False,False,0,0,0,0
+319,Facing Mirrors,2011,5.85,0.342,0.0,0,Negar Azarbayjani,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+320,Family Resemblances,1996,5.33,0.316,0.0,0,Cédric Klapisch,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+321,"Faraway, So Close!",1993,5.33,0.316,0.0,0,Wim Wenders,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+322,Father and Son,1981,5.32,0.316,0.0,0,Allen Fong,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+323,Faust,1926,5.31,0.315,0.0,0,F.W. Murnau,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+324,Fellow Traveler,1975,5.32,0.316,0.0,0,Masud Asadollahi,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+325,Fertile Memory,1981,7.529,0.572,7.3,99,Michel Khleifi,-7.201,-0.069,-0.403,True,True,False,0,0,0,0
+326,Fill 'er Up with Super,1976,5.32,0.316,0.0,0,Alain Cavalier,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+327,Fires on the Plain,1959,5.31,0.315,0.0,0,Kon Ichikawa,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+328,Fireworks Wednesday,2006,5.26,0.313,0.0,0,Asghar Farhadi,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+329,Fish & Cat,2013,6.03,0.352,0.0,0,Shahram Mokri,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+330,Fist of Fury,1972,5.33,0.316,0.0,0,Wei Lo,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+331,Fitzcarraldo,1982,5.32,0.316,0.0,0,Werner Herzog,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+332,Forgotten,2017,6.09,0.354,0.0,0,Jang Hang-jun,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+333,Four Days in September,1997,5.38,0.319,0.0,0,Bruno Barreto,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+334,Four Minutes,2006,5.26,0.313,0.0,0,Chris Kraus,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+335,Francisca,1981,5.32,0.316,0.0,0,Manoel de Oliveira,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+336,Free Rainer,2007,5.28,0.314,0.0,0,Hans Weingartner,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+337,Friendship!,2010,5.61,0.33,0.0,0,Markus Goller,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+338,From Karkheh to Rhein,1993,5.33,0.316,0.0,0,Ebrahim Hatamikia,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+339,Funny Games,1997,5.38,0.319,0.0,0,Michael Haneke,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+340,Gabbeh,1996,5.33,0.316,0.0,0,Mohsen Makhmalbaf,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+341,Games of Love and Chance,2003,5.3,0.315,0.0,0,Abdellatif Kechiche,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+342,Gangs of Wasseypur,2012,5.99,0.35,0.0,0,Anurag Kashyap,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+343,Garm Hava,1974,5.32,0.316,0.0,0,M.S. Sathyu,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+344,Gate of Hell,1953,5.31,0.315,0.0,0,Teinosuke Kinugasa,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+345,Gentlemen of Fortune,1971,5.33,0.316,0.0,0,Aleksandr Seryy,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+346,Germany Year Zero,1948,5.31,0.315,0.0,0,Roberto Rossellini,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+347,Gheisar,1969,5.33,0.316,0.0,0,Masud Kimiai,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+348,Gholamreza Takhti,2019,6.22,0.361,0.0,0,Bahram Tavakoli,-106.201,-7.369,-1.711,False,False,False,0,0,0,0
+349,Ghost in the Shell,1995,5.33,0.316,0.0,0,Mamoru Oshii,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+350,Giants and Toys,1958,5.31,0.315,0.0,0,Yasuzô Masumura,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+351,Gilane,2005,5.25,0.312,0.0,0,"Mohsen Abdolvahab, Rakhshan Banietemad",-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+352,Gloomy Sunday,1999,5.38,0.319,0.0,0,Rolf Schübel,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+353,Gloria,2013,6.03,0.352,0.0,0,Sebastián Lelio,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+354,God of Gamblers,1989,5.32,0.316,0.0,0,Jing Wong,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+355,Godzilla,1954,5.31,0.315,0.0,0,Ishirô Honda,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+356,Going Places,1974,5.32,0.316,0.0,0,Bertrand Blier,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+357,Gol Maal,1979,5.32,0.316,0.0,0,Hrishikesh Mukherjee,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+358,Gold and Copper,2010,5.61,0.33,0.0,0,Homayoon Ass'adian,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+359,Gonjiam: Haunted Asylum,2018,6.18,0.359,0.0,0,Jung Bum-shik,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+360,Goodbye,2011,5.85,0.342,0.0,0,Mohammad Rasoulof,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+361,Grass,2018,6.18,0.359,0.0,0,Hong Sang-soo,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+362,Grave Decisions,2006,5.26,0.313,0.0,0,Marcus H. Rosenmüller,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+363,Growing Up,1983,5.32,0.316,0.0,0,Kun-Hou Chen,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+364,Gueros,2014,6.03,0.352,0.0,0,Alonso Ruizpalacios,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+365,Guest from the Future,1984,5.32,0.316,0.0,0,,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+366,Guide,1965,5.33,0.316,0.0,0,Vijay Anand,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+367,Guilty,2015,6.01,0.35,0.0,0,Meghna Gulzar,-106.201,-7.369,-1.921,False,False,False,0,0,0,0
+368,Guru,2007,5.28,0.314,0.0,0,Mani Ratnam,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+369,Haider,2014,6.03,0.352,0.0,0,Vishal Bhardwaj,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+370,Hajji Washington,1983,5.32,0.316,0.0,0,Ali Hatami,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+371,Half Moon,2006,5.26,0.313,0.0,0,Bahman Ghobadi,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+372,Halfaouine: Boy of the Terraces,1990,7.654,0.597,6.7,98,Férid Boughedir,-8.201,-0.669,-0.278,True,True,False,0,0,0,0
+373,Hallaq darb al-foauqara,1982,5.91,0.375,0.0,105,Mohamed Reggab,-1.201,-7.369,-2.021,True,False,False,0,0,0,0
+374,Hamlet,1964,5.33,0.316,0.0,0,Grigoriy Kozintsev,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+375,Hamoun,1990,5.32,0.316,0.0,0,Dariush Mehrjui,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+376,Hao men ye yan,1959,5.31,0.315,0.0,0,"Chi-Hung Law, Sun-Fung Lee, Tit Lee, Wui Ng",-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+377,Harakiri,1962,5.31,0.315,0.0,0,Masaki Kobayashi,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+378,Harmonica,1974,5.32,0.316,0.0,0,Amir Naderi,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+379,"Hassan, the Bald",1970,5.33,0.316,0.0,0,Ali Hatami,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+380,Head-On,2004,5.29,0.314,0.0,0,Fatih Akin,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+381,Health Warning,1983,5.32,0.316,0.0,0,Kirk Wong,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+382,Heart of a Dog,1988,5.32,0.316,0.0,0,Vladimir Bortko,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+383,Hello Cinema,1995,5.33,0.316,0.0,0,Mohsen Makhmalbaf,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+384,Hemlock,1999,5.38,0.319,0.0,0,Behruz Afkhami,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+385,Hena maysara,2007,5.28,0.314,0.0,0,Khaled Youssef,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+386,Here Without Me,2011,5.85,0.342,0.0,0,Bahram Tavakoli,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+387,Hero of the Red-Light District,1960,5.31,0.315,0.0,0,Tomu Uchida,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+388,Hibiscus Town,1987,5.32,0.316,0.0,0,Jin Xie,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+389,High Society,2018,6.18,0.359,0.0,0,Hyuk Byun,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+390,High and Low,1963,5.33,0.316,0.0,0,Akira Kurosawa,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+391,Hiroshima Death Match,1973,5.33,0.316,0.0,0,Kinji Fukasaku,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+392,Histoire(s) du cinéma,1988,5.32,0.316,0.0,0,,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+393,Home Sweet Home,1970,5.33,0.316,0.0,0,Ching-Jui Pai,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+394,Homecoming,1984,5.32,0.316,0.0,0,Ho Yim,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+395,Hong lou meng,1962,5.31,0.315,0.0,0,Chiu-Feng Yuan,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+396,House of Hummingbird,2018,6.18,0.359,0.0,0,Kim Bo-ra,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+397,Hush! Girls Don't Scream,2013,6.03,0.352,0.0,0,Pouran Derakhshandeh,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+398,"Hussein, Who Said No",2014,6.03,0.352,0.0,0,Ahmad Reza Darvish,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+399,I Am Cuba,1964,5.33,0.316,0.0,0,Mikhail Kalatozov,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+400,I Am Kalam,2010,5.61,0.33,0.0,0,Nila Madhab Panda,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+401,I Love Cinema,2004,7.793,0.602,6.6,125,Osama Fawzy,18.799,-0.769,-0.139,True,True,True,0,0,0,0
+402,"I Love You, I Love You",1968,5.33,0.316,0.0,0,Alain Resnais,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+403,I Saw the Devil,2010,5.61,0.33,0.0,0,Kim Jee-woon,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+404,I'm No Longer Here,2019,6.22,0.361,0.0,0,Fernando Frias,-106.201,-7.369,-1.711,False,False,False,0,0,0,0
+405,I'm Not Angry!,2014,6.03,0.352,0.0,0,Reza Dormishian,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+406,"I'm Taraneh, 15",2002,5.34,0.317,0.0,0,Rasoul Sadrameli,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+407,"I'm a Cyborg, But That's OK",2006,5.26,0.313,0.0,0,Park Chan-wook,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+408,Identifying Features,2020,6.26,0.363,0.0,0,Fernanda Valadez,-106.201,-7.369,-1.671,False,False,False,0,0,0,0
+409,Ikiru,1952,5.31,0.315,0.0,0,Akira Kurosawa,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+410,Illang: The Wolf Brigade,2018,6.18,0.359,0.0,0,Kim Jee-woon,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+411,Imprisoned,2015,6.01,0.35,0.0,0,Esteban Ramírez,-106.201,-7.369,-1.921,False,False,False,0,0,0,0
+412,In July,2000,5.38,0.319,0.0,0,Fatih Akin,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+413,In the Face of Demolition,1953,5.31,0.315,0.0,0,Tit Lee,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+414,In the Heat of the Sun,1994,5.33,0.316,0.0,0,Wen Jiang,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+415,In the Name of God,2007,5.28,0.314,0.0,0,Shoaib Mansoor,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+416,In the Realm of the Senses,1976,5.32,0.316,0.0,0,Nagisa Ôshima,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+417,In the White City,1983,5.32,0.316,0.0,0,Alain Tanner,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+418,Inadequate People,2010,5.61,0.33,0.0,0,Roman Karimov,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+419,India Song,1975,5.32,0.316,0.0,0,Marguerite Duras,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+420,Infernal Affairs,2002,5.34,0.317,0.0,0,"Wai Keung Lau, Alan Mak",-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+421,Intentions of Murder,1964,5.33,0.316,0.0,0,Shôhei Imamura,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+422,Interny,2010,5.61,0.33,0.0,0,,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+423,Intimate Strangers,2018,6.18,0.359,0.0,0,J.Q. Lee,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+424,Irezumi,1966,5.33,0.316,0.0,0,Yasuzô Masumura,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+425,Iron Island,2005,5.25,0.312,0.0,0,Mohammad Rasoulof,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+426,Island of Loves,1982,5.32,0.316,0.0,0,Paulo Rocha,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+427,It's Winter,2006,5.26,0.313,0.0,0,Rafi Pitts,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+428,Ivan Vasilyevich Changes His Profession,1973,5.33,0.316,0.0,0,Leonid Gaidai,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+429,"Ivan the Terrible, Part II: The Boyars' Plot",1946,5.31,0.315,0.0,0,Sergei Eisenstein,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+430,Ivan's Childhood,1962,5.31,0.315,0.0,0,"Andrei Tarkovsky, Eduard Abalov",-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+431,Jaane Bhi Do Yaaro,1983,5.32,0.316,0.0,0,Kundan Shah,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+432,Jab We Met,2007,5.28,0.314,0.0,0,Imtiaz Ali,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+433,Japón,2002,5.34,0.317,0.0,0,Carlos Reygadas,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+434,Jean de Florette,1986,5.32,0.316,0.0,0,Claude Berri,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+435,Jo Jeeta Wohi Sikandar,1992,5.33,0.316,0.0,0,Mansoor Khan,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+436,Johnny Gaddaar,2007,5.28,0.314,0.0,0,Sriram Raghavan,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+437,Joint Security Area,2000,5.38,0.319,0.0,0,Park Chan-wook,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+438,José and Pilar,2010,5.61,0.33,0.0,0,Miguel Gonçalves Mendes,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+439,Juan of the Dead,2011,5.85,0.342,0.0,0,Alejandro Brugués,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+440,Jules and Jim,1962,5.31,0.315,0.0,0,François Truffaut,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+441,Kagemusha: The Shadow Warrior,1980,5.32,0.316,0.0,0,Akira Kurosawa,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+442,Kahaani,2012,5.99,0.35,0.0,0,Sujoy Ghosh,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+443,Kal Ho Naa Ho,2003,5.3,0.315,0.0,0,Nikkhil Advani,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+444,Kamalolmolk,1984,5.32,0.316,0.0,0,Ali Hatami,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+445,Kandahar,2001,5.39,0.319,0.0,0,Mohsen Makhmalbaf,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+446,Karnak Café,1975,7.877,0.618,7.2,143,Ali Badr Khan,36.799,-0.169,-0.054,False,True,True,0,0,0,0
+447,"Kidnapping, Caucasian Style",1967,5.33,0.316,0.0,0,Leonid Gaidai,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+448,Kids Return,1996,5.33,0.316,0.0,0,Takeshi Kitano,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+449,Kiki's Delivery Service,1989,5.32,0.316,0.0,0,Hayao Miyazaki,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+450,Kikujiro,1999,5.38,0.319,0.0,0,Takeshi Kitano,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+451,Killing Mad Dogs,2001,5.39,0.319,0.0,0,Bahram Beyzaie,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+452,Kin-dza-dza!,1986,5.32,0.316,0.0,0,Georgiy Daneliya,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+453,King of the Hearts,1968,5.33,0.316,0.0,0,Mohamad Ali Fardin,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+454,Kit Kat,1991,8.129,0.65,8.2,129,Daoud Abdel Sayed,22.799,0.831,0.198,True,True,True,0,0,0,0
+455,Knockin' on Heaven's Door,1997,5.38,0.319,0.0,0,Thomas Jahn,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+456,Kokowääh,2011,5.85,0.342,0.0,0,"Til Schweiger, Torsten Künstler",-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+457,Koshish,1972,5.33,0.316,0.0,0,Gulzar,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+458,Krabat,2008,5.31,0.315,0.0,0,Marco Kreuzpaintner,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+459,Kwaidan,1964,5.33,0.316,0.0,0,Masaki Kobayashi,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+460,L'Age d'Or,1930,5.31,0.315,0.0,0,Luis Buñuel,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+461,L'Atalante,1934,5.31,0.315,0.0,0,Jean Vigo,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+462,La Llorona,2019,6.22,0.361,0.0,0,Jayro Bustamante,-106.201,-7.369,-1.711,False,False,False,0,0,0,0
+463,La Playa D.C.,2012,5.99,0.35,0.0,0,Juan Andrés Arango Garcia,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+464,La Yuma,2009,5.43,0.321,0.0,0,Florence Jaugey,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+465,La belle noiseuse,1991,5.32,0.316,0.0,0,Jacques Rivette,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+466,La classe américaine,1993,5.33,0.316,0.0,0,"Michel Hazanavicius, Dominique Mézerette",-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+467,La grande illusion,1937,5.31,0.315,0.0,0,Jean Renoir,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+468,La haine,1995,5.33,0.316,0.0,0,Mathieu Kassovitz,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+469,Labor on the Douro River,1931,5.31,0.315,0.0,0,Manoel de Oliveira,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+470,Lady Snowblood,1973,5.33,0.316,0.0,0,Toshiya Fujita,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+471,Lady Vengeance,2005,5.25,0.312,0.0,0,Park Chan-wook,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+472,Lagaan: Once Upon a Time in India,2001,5.39,0.319,0.0,0,Ashutosh Gowariker,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+473,Land of Ashes,2019,6.22,0.361,0.0,0,Sofía Quirós,-106.201,-7.369,-1.711,False,False,False,0,0,0,0
+474,Land of Fear,1999,8.104,0.649,8.2,142,Daoud Abdel Sayed,35.799,0.831,0.173,False,True,True,0,0,0,0
+475,Lao gong zhi ai qing,1922,5.31,0.315,0.0,0,Shichuan Zhang,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+476,Last Year at Marienbad,1961,5.31,0.315,0.0,0,Alain Resnais,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+477,Law of Tehran,2019,6.22,0.361,0.0,0,Saeed Roustayi,-106.201,-7.369,-1.711,False,False,False,0,0,0,0
+478,Law of the Lawless,2002,5.34,0.317,0.0,0,,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+479,Le Corbeau,1943,5.31,0.315,0.0,0,Henri-Georges Clouzot,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+480,Le Doulos,1962,5.31,0.315,0.0,0,Jean-Pierre Melville,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+481,Le Plaisir,1952,5.31,0.315,0.0,0,Max Ophüls,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+482,Le Samouraï,1967,5.33,0.316,0.0,0,Jean-Pierre Melville,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+483,Le cercle rouge,1970,5.33,0.316,0.0,0,Jean-Pierre Melville,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+484,Leila,1997,5.38,0.319,0.0,0,Dariush Mehrjui,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+485,Leily Is with Me,1996,5.33,0.316,0.0,0,Kamal Tabrizi,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+486,Les Vampires,1915,5.31,0.315,0.0,0,Louis Feuillade,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+487,Let the Bullets Fly,2010,5.61,0.33,0.0,0,Wen Jiang,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+488,Letter Never Sent,1960,5.31,0.315,0.0,0,Mikhail Kalatozov,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+489,License to Live,1998,5.38,0.319,0.0,0,Kiyoshi Kurosawa,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+490,Lieah ya banafsieg,1993,5.33,0.316,0.0,0,Radwan El-Kashef,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+491,Life and a Day,2016,5.99,0.35,0.0,0,Saeed Roustayi,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+492,Life of a Beijing Policeman,1950,5.31,0.315,0.0,0,Hui Shi,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+493,Life or Death,1954,7.71,0.611,7.3,75,Kamal El-Shaikh,-31.201,-0.069,-0.222,False,True,True,0,0,0,0
+494,Like Stars on Earth,2007,5.28,0.314,0.0,0,Aamir Khan,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+495,Like Water for Chocolate,1992,5.33,0.316,0.0,0,Alfonso Arau,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+496,Lin Zexu,1959,5.31,0.315,0.0,0,"Fan Cen, Junli Zheng",-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+497,Linha de Passe,2008,5.31,0.315,0.0,0,"Walter Salles, Daniela Thomas",-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+498,Lion of the Desert,1980,8.274,0.682,8.2,173,Moustapha Akkad,66.799,0.831,0.343,False,True,True,0,0,0,0
+499,Lisbela and the Prisoner,2003,5.3,0.315,0.0,0,"Guel Arraes, Ligia Feliciano",-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+500,Little Forest,2018,6.18,0.359,0.0,0,Soon-rye Yim,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+501,Little Wars,1982,7.305,0.567,6.1,108,Maroun Bagdadi,1.799,-1.269,-0.626,True,False,False,0,0,0,0
+502,Lone Wolf and Cub: Sword of Vengeance,1972,5.33,0.316,0.0,0,Kenji Misumi,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+503,Long Arm of the Law,1984,5.32,0.316,0.0,0,Johnny Mak,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+504,Long Live the Missus!,1947,5.31,0.315,0.0,0,Hu Sang,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+505,Los Muertos,2004,5.29,0.314,0.0,0,Lisandro Alonso,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+506,Los lobos,2019,6.22,0.361,0.0,0,Samuel Kishi,-106.201,-7.369,-1.711,False,False,False,0,0,0,0
+507,Los reyes del pueblo que no existe,2015,6.01,0.35,0.0,0,Betzabé García,-106.201,-7.369,-1.921,False,False,False,0,0,0,0
+508,Loulou,1980,5.32,0.316,0.0,0,Maurice Pialat,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+509,Love Letter,1995,5.33,0.316,0.0,0,Shunji Iwai,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+510,Love and Doves,1985,5.32,0.316,0.0,0,Vladimir Menshov,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+511,Love in Thoughts,2004,5.29,0.314,0.0,0,Achim von Borries,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+512,Lovely Trash,2013,6.03,0.352,0.0,0,Mohsen Amiryoussefi,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+513,Lovers of the Arctic Circle,1998,5.38,0.319,0.0,0,Julio Medem,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+514,Low Heights,2002,5.34,0.317,0.0,0,Ebrahim Hatamikia,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+515,Lower City,2005,5.25,0.312,0.0,0,Sergio Machado,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+516,Lucia,1968,5.33,0.316,0.0,0,Humberto Solás,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+517,"Lust, Caution",2007,5.28,0.314,0.0,0,Ang Lee,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+518,M,1931,5.31,0.315,0.0,0,Fritz Lang,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+519,M like Mother,2006,5.26,0.313,0.0,0,Rasool Mollagholi Poor,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+520,Macario,1960,5.31,0.315,0.0,0,Roberto Gavaldón,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+521,Machuca,2004,5.29,0.314,0.0,0,Andrés Wood,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+522,Madaari,2016,5.99,0.35,0.0,0,Nishikant Kamat,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+523,Madame Satã,2002,5.34,0.317,0.0,0,Karim Aïnouz,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+524,Made in Hong Kong,1997,5.38,0.319,0.0,0,Fruit Chan,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+525,Magical Girl,2014,6.03,0.352,0.0,0,Carlos Vermut,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+526,Maine Ocean,1986,5.32,0.316,0.0,0,Jacques Rozier,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+527,Mainline,2006,5.26,0.313,0.0,0,"Mohsen Abdolvahab, Rakhshan Banietemad",-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+528,Mala Mala,2014,6.03,0.352,0.0,0,"Antonio Santini, Dan Sickles",-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+529,Mambo Girl,1957,5.31,0.315,0.0,0,Wen Yi,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+530,Man of Ashes,1986,7.292,0.567,6.1,109,Nouri Bouzid,2.799,-1.269,-0.639,True,False,False,0,0,0,0
+531,Man on the Train,2002,5.34,0.317,0.0,0,Patrice Leconte,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+532,Man with a Movie Camera,1929,5.31,0.315,0.0,0,Dziga Vertov,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+533,Manitou's Shoe,2001,5.39,0.319,0.0,0,Michael Herbig,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+534,Manjhi: The Mountain Man,2015,6.01,0.35,0.0,0,Ketan Mehta,-106.201,-7.369,-1.921,False,False,False,0,0,0,0
+535,Manon of the Spring,1986,5.32,0.316,0.0,0,Claude Berri,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+536,Manorama: Six Feet Under,2007,5.28,0.314,0.0,0,Navdeep Singh,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+537,Manuel on the Island of Wonders,1984,5.32,0.316,0.0,0,,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+538,Manuscripts Don't Burn,2013,6.03,0.352,0.0,0,Mohammad Rasoulof,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+539,Maqbool,2003,5.3,0.315,0.0,0,Vishal Bhardwaj,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+540,Maria Full of Grace,2004,5.29,0.314,0.0,0,Joshua Marston,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+541,Marooned in Iraq,2002,5.34,0.317,0.0,0,Bahman Ghobadi,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+542,Mascarades,2008,5.31,0.315,0.0,0,Lyès Salem,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+543,Masoom,1983,5.32,0.316,0.0,0,Shekhar Kapur,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+544,Maybe Some Other Time,1988,5.32,0.316,0.0,0,Bahram Beyzaie,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+545,Maybe... Maybe Not,1994,5.33,0.316,0.0,0,Sönke Wortmann,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+546,Me You Them,2000,5.38,0.319,0.0,0,Andrucha Waddington,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+547,Memoir of a Murderer,2017,6.09,0.354,0.0,0,Won Shin-yeon,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+548,Memories,1995,5.33,0.316,0.0,0,"Katsuhiro Ôtomo, Kôji Morimoto, Tensai Okamura",-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+549,Memories of Matsuko,2006,5.26,0.313,0.0,0,Tetsuya Nakashima,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+550,Memories of Underdevelopment,1968,5.33,0.316,0.0,0,Tomás Gutiérrez Alea,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+551,Mercedes,1993,5.33,0.316,0.0,0,Yousry Nasrallah,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+552,Merry Christmas Mr. Lawrence,1983,5.32,0.316,0.0,0,Nagisa Ôshima,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+553,Messages from the Sea,2010,5.61,0.33,0.0,0,Daoud Abdel Sayed,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+554,Metropolis,1927,5.31,0.315,0.0,0,Fritz Lang,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+555,Meu Nome Não é Johnny,2008,5.31,0.315,0.0,0,Mauro Lima,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+556,Microhabitat,2017,6.09,0.354,0.0,0,Jeon Go-Woon,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+557,Microphone,2010,5.61,0.33,0.0,0,Ahmad Abdalla,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+558,Midday Adventures,2017,6.09,0.354,0.0,0,Mohammad Hossein Mahdavian,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+559,Midnight Runners,2017,6.09,0.354,0.0,0,Kim Joo-hwan,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+560,Mille mois,2003,7.366,0.57,6.1,124,Faouzi Bensaïdi,17.799,-1.269,-0.566,True,False,False,0,0,0,0
+561,Millennium Actress,2001,5.39,0.319,0.0,0,Satoshi Kon,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+562,Mimi,2021,6.26,0.363,0.0,0,"Rajesh Bhatia, Sushma Sunam, Laxman Utekar",-106.201,-7.369,-1.671,False,False,False,0,0,0,0
+563,Mimino,1977,5.32,0.316,0.0,0,Georgiy Daneliya,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+564,Miriam Lies,2018,6.18,0.359,0.0,0,"Natalia Cabral, Oriol Estrada",-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+565,Misbehavior,2016,5.99,0.35,0.0,0,Kim Tae-yong,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+566,Miss Baek,2018,6.18,0.359,0.0,0,Lee Ji-won,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+567,Miss Bala,2011,5.85,0.342,0.0,0,Gerardo Naranjo,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+568,Modest Reception,2012,5.99,0.35,0.0,0,Mani Haghighi,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+569,Mom's Guest,2004,5.29,0.314,0.0,0,Dariush Mehrjui,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+570,Mondays in the Sun,2002,5.34,0.317,0.0,0,Fernando León de Aranoa,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+571,Money,2019,6.22,0.361,0.0,0,Park Noo-ri,-106.201,-7.369,-1.711,False,False,False,0,0,0,0
+572,Monos,2019,6.22,0.361,0.0,0,Alejandro Landes,-106.201,-7.369,-1.711,False,False,False,0,0,0,0
+573,Monsieur Hulot's Holiday,1953,5.31,0.315,0.0,0,Jacques Tati,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+574,Monstrum,2018,6.18,0.359,0.0,0,Jong-ho Huh,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+575,Moscow Does Not Believe in Tears,1980,5.32,0.316,0.0,0,Vladimir Menshov,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+576,Mostly Martha,2001,5.39,0.319,0.0,0,Sandra Nettelbeck,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+577,Mother,1926,5.31,0.315,0.0,0,Vsevolod Pudovkin,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+578,Mother and Son,1997,5.38,0.319,0.0,0,Aleksandr Sokurov,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+579,Mouchette,1967,5.33,0.316,0.0,0,Robert Bresson,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+580,Mr. Gullible,1970,5.33,0.316,0.0,0,Dariush Mehrjui,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+581,Mr. Klein,1976,5.32,0.316,0.0,0,Joseph Losey,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+582,Mughal-E-Azam,1960,5.31,0.315,0.0,0,K. Asif,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+583,Muhammad: The Messenger of God,2015,6.01,0.35,0.0,0,Majid Majidi,-106.201,-7.369,-1.921,False,False,False,0,0,0,0
+584,Mumbai Meri Jaan,2008,5.31,0.315,0.0,0,Nishikant Kamat,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+585,My Brother Khosrow,2016,5.99,0.35,0.0,0,Ehsan Biglari,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+586,My Father's Glory,1990,5.32,0.316,0.0,0,Yves Robert,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+587,My Intimate Partner,1960,5.31,0.315,0.0,0,Kim Chun,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+588,My Mother's Castle,1990,5.32,0.316,0.0,0,Yves Robert,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+589,My Name Is Joker,1970,5.33,0.316,0.0,0,Raj Kapoor,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+590,My Name Is Khan,2010,5.61,0.33,0.0,0,Karan Johar,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+591,My Night at Maud's,1969,5.33,0.316,0.0,0,Éric Rohmer,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+592,My Sassy Girl,2001,5.39,0.319,0.0,0,Jae-young Kwak,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+593,My Sex Life... or How I Got Into an Argument,1996,5.33,0.316,0.0,0,Arnaud Desplechin,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+594,My Uncle,1958,5.31,0.315,0.0,0,Jacques Tati,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+595,Mysteries of Lisbon,2011,5.85,0.342,0.0,0,,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+596,Naked Childhood,1968,5.33,0.316,0.0,0,Maurice Pialat,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+597,Napoleon,1927,5.31,0.315,0.0,0,Abel Gance,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+598,Narco Cultura,2013,6.03,0.352,0.0,0,Shaul Schwarz,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+599,Narges,1992,5.33,0.316,0.0,0,Rakhshan Banietemad,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+600,Nazarin,1959,5.31,0.315,0.0,0,Luis Buñuel,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+601,Near Orouet,1971,5.33,0.316,0.0,0,Jacques Rozier,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+602,Neerja,2016,5.99,0.35,0.0,0,Ram Madhvani,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+603,Neruda,2016,5.99,0.35,0.0,0,Pablo Larraín,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+604,Never Forever,2007,5.28,0.314,0.0,0,Gina Kim,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+605,New World,2013,6.03,0.352,0.0,0,Park Hoon-jung,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+606,New Year Sacrifice,1956,5.31,0.315,0.0,0,Hu Sang,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+607,Night Bus,2007,5.28,0.314,0.0,0,Kiumars Poorahmad,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+608,Night of the Hunchback,1965,5.33,0.316,0.0,0,Farokh Ghafari,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+609,Niloofar,2008,5.31,0.315,0.0,0,Sabine El Gemayel,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+610,Nine Queens,2000,5.38,0.319,0.0,0,Fabián Bielinsky,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+611,Ninja Scroll,1993,5.33,0.316,0.0,0,Yoshiaki Kawajiri,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+612,No,2012,5.99,0.35,0.0,0,Pablo Larraín,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+613,"No Date, No Signature",2017,6.09,0.354,0.0,0,Vahid Jalilvand,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+614,No Men Allowed,2011,5.85,0.342,0.0,0,Rambod Javan,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+615,No One Knows About Persian Cats,2009,5.43,0.321,0.0,0,Bahman Ghobadi,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+616,No Tears for the Dead,2014,6.03,0.352,0.0,0,Lee Jeong-beom,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+617,Nobody's Watching,2017,6.09,0.354,0.0,0,Julia Solomonoff,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+618,Nomad,1982,5.32,0.316,0.0,0,"Patrick Tam, Terry Kay-Ming Tong",-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+619,North Face,2008,5.31,0.315,0.0,0,Philipp Stölzl,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+620,Nosferatu: A Symphony of Horror,1922,5.31,0.315,0.0,0,F.W. Murnau,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+621,Nostalgia for the Light,2010,5.61,0.33,0.0,0,Patricio Guzmán,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+622,Not One Less,1999,5.38,0.319,0.0,0,Yimou Zhang,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+623,Nothing,2010,5.61,0.33,0.0,0,Abdolreza Kahani,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+624,O Cheiro do Ralo,2006,5.26,0.313,0.0,0,Heitor Dhalia,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+625,Oasis,2002,5.34,0.317,0.0,0,Lee Chang-dong,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+626,Obsessed,2014,6.03,0.352,0.0,0,Kim Dae-woo,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+627,Odd Obsession,1959,5.31,0.315,0.0,0,Kon Ichikawa,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+628,Ode to My Father,2014,6.03,0.352,0.0,0,JK Youn,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+629,Office Romance,1977,5.32,0.316,0.0,0,Eldar Ryazanov,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+630,Offside,2006,5.26,0.313,0.0,0,Jafar Panahi,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+631,Olga,2004,5.29,0.314,0.0,0,Jayme Monjardim,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+632,Omar Gatlato,1977,7.561,0.59,6.6,90,Merzak Allouache,-16.201,-0.769,-0.371,True,True,False,0,0,0,0
+633,Omkara,2006,5.26,0.313,0.0,0,Vishal Bhardwaj,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+634,On Your Wedding Day,2018,6.18,0.359,0.0,0,Lee Seok-geun,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+635,Once Upon a Time in China,1991,5.32,0.316,0.0,0,Hark Tsui,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+636,Once Upon a Time in Tehran,1999,5.38,0.319,0.0,0,Ali Hatami,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+637,"Once Upon a Time, Cinema",1992,5.33,0.316,0.0,0,Mohsen Makhmalbaf,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+638,One-Armed Swordsman,1967,5.33,0.316,0.0,0,Cheh Chang,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+639,Onibaba,1964,5.33,0.316,0.0,0,Kaneto Shindô,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+640,Only Old Men Are Going to Battle,1974,5.32,0.316,0.0,0,Leonid Bykov,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+641,Only Yesterday,1991,5.32,0.316,0.0,0,Isao Takahata,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+642,Open Your Eyes,1997,5.38,0.319,0.0,0,Alejandro Amenábar,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+643,Operation 'Y' & Other Shurik's Adventures,1965,5.33,0.316,0.0,0,Leonid Gaidai,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+644,Oral Messages,1991,5.32,0.316,0.0,0,Abdellatif Abdelhamid,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+645,Os Verdes Anos,1963,5.33,0.316,0.0,0,Paulo Rocha,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+646,Our Beloved Month of August,2008,5.31,0.315,0.0,0,Miguel Gomes,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+647,Out of Life,1991,7.619,0.597,6.8,97,Maroun Bagdadi,-9.201,-0.569,-0.312,True,True,False,0,0,0,0
+648,Oxhide,2005,5.25,0.312,0.0,0,Jiayin Liu,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+649,PK,2014,6.03,0.352,0.0,0,Rajkumar Hirani,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+650,Paan Singh Tomar,2012,5.99,0.35,0.0,0,Tigmanshu Dhulia,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+651,Pad Man,2018,6.18,0.359,0.0,0,R Balki,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+652,Pandora,2016,5.99,0.35,0.0,0,Jeong-woo Park,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+653,Pandora's Box,1929,5.31,0.315,0.0,0,Georg Wilhelm Pabst,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+654,Panique,1946,5.31,0.315,0.0,0,Julien Duvivier,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+655,Paper Flowers,1959,5.31,0.315,0.0,0,Guru Dutt,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+656,Parents' Hearts,1955,5.31,0.315,0.0,0,Kim Chun,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+657,Pari,1995,5.33,0.316,0.0,0,Dariush Mehrjui,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+658,Parinda,1989,5.32,0.316,0.0,0,Vidhu Vinod Chopra,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+659,Parviz,2012,5.99,0.35,0.0,0,Majid Barzegar,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+660,Peculiarities of the National Hunt,1995,5.33,0.316,0.0,0,Aleksandr Rogozhkin,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+661,Pellet,2000,5.38,0.319,0.0,0,Achero Mañas,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+662,Peninsula,2020,6.26,0.363,0.0,0,Yeon Sang-ho,-106.201,-7.369,-1.671,False,False,False,0,0,0,0
+663,Phantom Beirut,1998,5.38,0.319,0.0,0,Ghassan Salhab,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+664,Pickpocket,1959,5.31,0.315,0.0,0,Robert Bresson,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+665,Pigs and Battleships,1961,5.31,0.315,0.0,0,Shôhei Imamura,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+666,Pinjar,2003,5.3,0.315,0.0,0,Chandra Prakash Dwivedi,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+667,Pink,2016,5.99,0.35,0.0,0,Aniruddha Roy Chowdhury,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+668,Pixote,1980,5.32,0.316,0.0,0,Hector Babenco,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+669,Placido,1961,5.31,0.315,0.0,0,Luis García Berlanga,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+670,Platform,2000,5.38,0.319,0.0,0,Jia Zhang-ke,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+671,Playtime,1967,5.33,0.316,0.0,0,Jacques Tati,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+672,Po xiao shi fen,1968,5.33,0.316,0.0,0,"Han Hsiang Li, Tsun-Shou Sung",-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+673,Poetry,2010,5.61,0.33,0.0,0,Lee Chang-dong,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+674,Pokrov Gates,1983,5.32,0.316,0.0,0,Mikhail Kozakov,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+675,Police Story,1985,5.32,0.316,0.0,0,Jackie Chan,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+676,Prince Ehtejab,1974,5.32,0.316,0.0,0,Bahman Farmanara,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+677,Prisoner of the Mountains,1996,5.33,0.316,0.0,0,Sergei Bodrov,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+678,Profound Desires of the Gods,1968,5.33,0.316,0.0,0,Shôhei Imamura,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+679,Proxy War,1973,5.33,0.316,0.0,0,Kinji Fukasaku,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+680,Psychokinesis,2018,6.18,0.359,0.0,0,Yeon Sang-ho,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+681,Purple Noon,1960,5.31,0.315,0.0,0,René Clément,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+682,Queen,2013,6.03,0.352,0.0,0,Vikas Bahl,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+683,REC,2007,5.28,0.314,0.0,0,"Jaume Balagueró, Paco Plaza",-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+684,Raazi,2018,6.18,0.359,0.0,0,Meghna Gulzar,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+685,Rabbit Without Ears,2007,5.28,0.314,0.0,0,Til Schweiger,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+686,Raining in the Mountain,1979,5.32,0.316,0.0,0,King Hu,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+687,Rammbock: Berlin Undead,2010,5.61,0.33,0.0,0,Marvin Kren,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+688,Rampant,2018,6.18,0.359,0.0,0,Kim Sung-hoon,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+689,Ran,1985,5.32,0.316,0.0,0,Akira Kurosawa,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+690,Rang De Basanti,2006,5.26,0.313,0.0,0,Rakeysh Omprakash Mehra,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+691,Rebels of the Neon God,1992,5.33,0.316,0.0,0,Tsai Ming-liang,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+692,Recollections of the Yellow House,1989,5.32,0.316,0.0,0,João César Monteiro,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+693,Red Nail Polish,2016,5.99,0.35,0.0,0,Seyed Jamal Seyed Hatami,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+694,Red Sorghum,1988,5.32,0.316,0.0,0,Yimou Zhang,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+695,Redhat and Cousin,1995,5.33,0.316,0.0,0,Iraj Tahmasb,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+696,Rendez-vous in Paris,1995,5.33,0.316,0.0,0,Éric Rohmer,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+697,Repentance,1984,5.32,0.316,0.0,0,Tengiz Abuladze,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+698,Requiem,2006,5.26,0.313,0.0,0,Hans-Christian Schmid,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+699,Return of the Prodigal Son,1978,7.9,0.617,7.1,120,"Youssef Chahine, Farouk Beloufa",13.799,-0.269,-0.032,True,True,True,0,0,0,0
+700,Revanche,2008,5.31,0.315,0.0,0,Götz Spielmann,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+701,Revenger,2018,6.18,0.359,0.0,0,Lee Seung-won,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+702,"Reza, the Motorcyclist",1970,5.33,0.316,0.0,0,Masud Kimiai,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+703,Rih al awras,1966,7.532,0.583,6.3,95,Mohammed Lakhdar-Hamina,-11.201,-1.069,-0.4,True,False,False,0,0,0,0
+704,Ring,1998,5.38,0.319,0.0,0,Hideo Nakata,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+705,Risk of Acid Rain,2015,6.01,0.35,0.0,0,Behtash Sanaeeha,-106.201,-7.369,-1.921,False,False,False,0,0,0,0
+706,Rock On!!,2008,5.31,0.315,0.0,0,Abhishek Kapoor,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+707,Roja,1992,5.33,0.316,0.0,0,Mani Ratnam,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+708,Rouge,1987,5.32,0.316,0.0,0,Stanley Kwan,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+709,Run Lola Run,1998,5.38,0.319,0.0,0,Tom Tykwer,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+710,Saaransh,1984,5.32,0.316,0.0,0,Mahesh Bhatt,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+711,Salaam Bombay!,1988,5.32,0.316,0.0,0,Mira Nair,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+712,Salt of This Sea,2008,5.31,0.315,0.0,0,Annemarie Jacir,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+713,Samad Becomes an Actor,1974,5.32,0.316,0.0,0,Parviz Sayyad,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+714,Samurai Rebellion,1967,5.33,0.316,0.0,0,Masaki Kobayashi,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+715,Sand Dollars,2014,6.03,0.352,0.0,0,"Israel Cárdenas, Laura Amelia Guzmán",-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+716,Sans Soleil,1983,5.32,0.316,0.0,0,Chris Marker,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+717,Sansho the Bailiff,1954,5.31,0.315,0.0,0,Kenji Mizoguchi,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+718,Santa Sangre,1989,5.32,0.316,0.0,0,Alejandro Jodorowsky,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+719,Sarfarosh,1999,5.38,0.319,0.0,0,John Mathew Matthan,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+720,Sattar khan,1973,5.33,0.316,0.0,0,Ali Hatami,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+721,Satya,1998,5.38,0.319,0.0,0,Ram Gopal Varma,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+722,Schultze Gets the Blues,2003,5.3,0.315,0.0,0,Michael Schorr,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+723,Secret Sunshine,2007,5.28,0.314,0.0,0,Lee Chang-dong,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+724,Seisaku's Wife,1965,5.33,0.316,0.0,0,Yasuzô Masumura,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+725,Sejnane,1974,8.21,0.66,8.5,110,Abdellatif Ben Ammar,3.799,1.131,0.279,True,False,True,0,0,0,0
+726,Seoul Station,2016,5.99,0.35,0.0,0,Yeon Sang-ho,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+727,Serie Noire,1979,5.32,0.316,0.0,0,Alain Corneau,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+728,Seventeen Moments of Spring,1973,5.33,0.316,0.0,0,,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+729,Shabab emraa,1956,5.31,0.315,0.0,0,"Salah Abouseif, Amin Youssef Ghurab, Ahmed Al Sabaawi",-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+730,Shadows of Forgotten Ancestors,1965,5.33,0.316,0.0,0,Sergei Parajanov,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+731,Shahid,2012,5.99,0.35,0.0,0,Hansal Mehta,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+732,Shall We Dance?,1996,5.33,0.316,0.0,0,Masayuki Suô,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+733,Shanghai Blues,1984,5.32,0.316,0.0,0,Hark Tsui,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+734,Shaolin Soccer,2001,5.39,0.319,0.0,0,Stephen Chow,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+735,Sheeple,2018,6.18,0.359,0.0,0,Houman Seyyedi,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+736,Sherlock Holmes and Doctor Watson,1980,5.32,0.316,0.0,0,,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+737,Shershaah,2021,6.26,0.363,0.0,0,Vishnuvardhan,-106.201,-7.369,-1.671,False,False,False,0,0,0,0
+738,Shirin,2008,5.31,0.315,0.0,0,Abbas Kiarostami,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+739,Siberiade,1979,5.32,0.316,0.0,0,Andrei Konchalovsky,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+740,Silenced,2011,5.85,0.342,0.0,0,Hwang Dong-hyuk,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+741,Silvestre,1981,5.32,0.316,0.0,0,João César Monteiro,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+742,Simon of the Desert,1965,5.33,0.316,0.0,0,Luis Buñuel,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+743,Sin Nombre,2009,5.43,0.321,0.0,0,Cary Joji Fukunaga,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+744,Sissi,1955,5.31,0.315,0.0,0,Ernst Marischka,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+745,Sleep Tight,2011,5.85,0.342,0.0,0,Jaume Balagueró,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+746,Snowman,1995,5.33,0.316,0.0,0,Davood Mir-Bagheri,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+747,"So Close, So Far",2005,5.25,0.312,0.0,0,Reza Mirkarimi,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+748,Solaris,1972,5.33,0.316,0.0,0,Andrei Tarkovsky,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+749,Solino,2002,5.34,0.317,0.0,0,Fatih Akin,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+750,Son of Babylon,2009,5.43,0.321,0.0,0,Mohamed Al Daradji,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+751,Son of the Bride,2001,5.39,0.319,0.0,0,Juan José Campanella,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+752,Sonatine,1993,5.33,0.316,0.0,0,Takeshi Kitano,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+753,Song at Midnight,1937,5.31,0.315,0.0,0,Weibang Ma-Xu,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+754,Sophie Scholl: The Final Days,2005,5.25,0.312,0.0,0,Marc Rothemund,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+755,Sorrows and Joys of a Middle-Aged Man,1949,5.31,0.315,0.0,0,Hu Sang,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+756,Sorrows of the Forbidden City,1948,5.31,0.315,0.0,0,Shilin Zhu,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+757,Soul Kitchen,2009,5.43,0.321,0.0,0,Fatih Akin,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+758,Special 26,2013,6.03,0.352,0.0,0,Neeraj Pandey,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+759,Spring in a Small Town,1948,5.31,0.315,0.0,0,Mu Fei,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+760,Stalingrad,1993,5.33,0.316,0.0,0,Joseph Vilsmaier,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+761,Standing in the Dust,2016,5.99,0.35,0.0,0,Mohammad Hossein Mahdavian,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+762,Stars in Broad Daylight,1988,7.924,0.618,7.1,105,Ossama Mohammed,-1.201,-0.269,-0.008,True,True,True,0,0,0,0
+763,Steel Rain,2017,6.09,0.354,0.0,0,Woo-seok Yang,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+764,Still Life,1974,5.32,0.316,0.0,0,Sohrab Shahid Saless,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+765,Stormy Waters,1941,5.31,0.315,0.0,0,Jean Grémillon,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+766,Strait,1973,5.33,0.316,0.0,0,Amir Naderi,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+767,Stranger and the Fog,1975,5.32,0.316,0.0,0,Bahram Beyzaie,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+768,Strawberry & Chocolate,1993,5.33,0.316,0.0,0,"Tomás Gutiérrez Alea, Juan Carlos Tabío",-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+769,Stray Dog,1949,5.31,0.315,0.0,0,Akira Kurosawa,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+770,Street Angel,1937,5.31,0.315,0.0,0,Muzhi Yuan,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+771,Street of Shame,1956,5.31,0.315,0.0,0,Kenji Mizoguchi,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+772,Strike,1925,5.31,0.315,0.0,0,Sergei Eisenstein,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+773,Stroszek,1977,5.32,0.316,0.0,0,Werner Herzog,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+774,Summer Palace,2006,5.26,0.313,0.0,0,Ye Lou,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+775,Summer Snow,1995,5.33,0.316,0.0,0,Ann Hui,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+776,Sun Alley,1999,5.38,0.319,0.0,0,Leander Haußmann,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+777,Sun of the Hyenas,1977,5.32,0.316,0.0,0,Ridha Behi,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+778,Swing Kids,2018,6.18,0.359,0.0,0,Kang Hyoung-chul,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+779,Sympathy for Mr. Vengeance,2002,5.34,0.317,0.0,0,Park Chan-wook,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+780,Séance,2000,5.38,0.319,0.0,0,Kiyoshi Kurosawa,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+781,Tabu,2012,5.99,0.35,0.0,0,Miguel Gomes,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+782,Tae Guk Gi: The Brotherhood of War,2004,5.29,0.314,0.0,0,Kang Je-kyu,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+783,Taipei Story,1985,5.32,0.316,0.0,0,Edward Yang,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+784,Taira Clan Saga,1955,5.31,0.315,0.0,0,Kenji Mizoguchi,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+785,Take Point,2018,6.18,0.359,0.0,0,Byung-woo Kim,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+786,Tales,2014,6.03,0.352,0.0,0,Rakhshan Banietemad,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+787,Tambourine,2008,5.31,0.315,0.0,0,Parisa Bakhtavar,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+788,Tampopo,1985,5.32,0.316,0.0,0,Jûzô Itami,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+789,Taxi,2015,6.01,0.35,0.0,0,Jafar Panahi,-106.201,-7.369,-1.921,False,False,False,0,0,0,0
+790,Tehran Taboo,2017,6.09,0.354,0.0,0,Ali Soozandeh,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+791,Ten,2002,5.34,0.317,0.0,0,Abbas Kiarostami,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+792,Ten Little Indians,1987,5.32,0.316,0.0,0,Stanislav Govorukhin,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+793,Thartharah fawq el-Nil,1971,5.33,0.316,0.0,0,Hussein Kamal,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+794,That Man from Rio,1964,5.33,0.316,0.0,0,Philippe de Broca,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+795,The 36th Chamber of Shaolin,1978,5.32,0.316,0.0,0,Chia-Liang Liu,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+796,The Actor,1993,5.33,0.316,0.0,0,Mohsen Makhmalbaf,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+797,The Adventures of Sherlock Holmes and Dr. Watson: The Adventures of Sherlock Holmes and Doctor Watson: Mortal Fight,1980,5.32,0.316,0.0,0,Igor Maslennikov,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+798,The Adventures of Sherlock Holmes and Dr. Watson: The Hound of the Baskervilles,1981,5.32,0.316,0.0,0,,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+799,The Age of Shadows,2016,5.99,0.35,0.0,0,Kim Jee-woon,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+800,The American Friend,1977,5.32,0.316,0.0,0,Wim Wenders,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+801,The Arch,1968,5.33,0.316,0.0,0,Shu Shuen Tong,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+802,The Ascent,1977,5.32,0.316,0.0,0,Larisa Shepitko,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+803,The Aura,2005,5.25,0.312,0.0,0,Fabián Bielinsky,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+804,The Baader Meinhof Complex,2008,5.31,0.315,0.0,0,Uli Edel,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+805,The Ballad of Narayama,1983,5.32,0.316,0.0,0,Shôhei Imamura,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+806,The Banishment,2007,5.28,0.314,0.0,0,Andrey Zvyagintsev,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+807,The Barber of Siberia,1998,5.38,0.319,0.0,0,Nikita Mikhalkov,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+808,The Battle of Jangsari,2019,6.22,0.361,0.0,0,"Tae-hun Kim, Kwak Kyung-taek",-106.201,-7.369,-1.711,False,False,False,0,0,0,0
+809,The Battleship Island,2017,6.09,0.354,0.0,0,Ryoo Seung-wan,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+810,The Beach of Lost Children,1991,7.583,0.585,6.3,88,Jillali Ferhati,-18.201,-1.069,-0.348,True,False,False,0,0,0,0
+811,The Beat That My Heart Skipped,2005,5.25,0.312,0.0,0,Jacques Audiard,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+812,The Beauty Inside,2015,6.01,0.35,0.0,0,Jong-Yeol Baek,-106.201,-7.369,-1.921,False,False,False,0,0,0,0
+813,The Beginning and the End,1960,8.096,0.643,7.9,130,Salah Abouseif,23.799,0.531,0.165,True,True,True,0,0,0,0
+814,The Big Road,1935,5.31,0.315,0.0,0,Yu Sun,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+815,The Bitch,1931,5.31,0.315,0.0,0,Jean Renoir,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+816,The Bitter Tears of Petra von Kant,1972,5.33,0.316,0.0,0,Rainer Werner Fassbinder,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+817,The Black Cannon Incident,1985,5.32,0.316,0.0,0,Jianxin Huang,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+818,The Blue Angel,1930,5.31,0.315,0.0,0,Josef von Sternberg,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+819,The Blue Kite,1993,5.33,0.316,0.0,0,Zhuangzhuang Tian,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+820,The Blue-Veiled,1995,5.33,0.316,0.0,0,Rakhshan Banietemad,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+821,The Boot,1993,5.33,0.316,0.0,0,Mohammad Ali Talebi,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+822,The Bridge,1959,5.31,0.315,0.0,0,Bernhard Wicki,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+823,The Bus Driver,1982,8.175,0.643,7.7,107,Atef El-Tayeb,0.799,0.331,0.244,True,True,True,0,0,0,0
+824,The Butcher,1970,5.33,0.316,0.0,0,Claude Chabrol,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+825,The Butterfly Murders,1979,5.32,0.316,0.0,0,Hark Tsui,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+826,The Cameraman's Revenge,1912,5.31,0.315,0.0,0,Wladyslaw Starewicz,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+827,The Castle of Sand,1974,5.32,0.316,0.0,0,Yoshitarô Nomura,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+828,The Chambermaid,2018,6.18,0.359,0.0,0,Lila Avilés,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+829,The Chaser,2008,5.31,0.315,0.0,0,Na Hong-jin,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+830,The Chess Players,1977,5.32,0.316,0.0,0,Satyajit Ray,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+831,The Child and the Soldier,2000,5.38,0.319,0.0,0,Reza Mirkarimi,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+832,The Chorus,2004,5.29,0.314,0.0,0,Christophe Barratier,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+833,The Circle,2000,5.38,0.319,0.0,0,Jafar Panahi,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+834,The Citadel,1988,5.32,0.316,0.0,0,Mohamed Chouikh,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+835,The City of Lost Children,1995,5.33,0.316,0.0,0,"Marc Caro, Jean-Pierre Jeunet",-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+836,The Clan,2015,6.01,0.35,0.0,0,Pablo Trapero,-106.201,-7.369,-1.921,False,False,False,0,0,0,0
+837,The Classic,2003,5.3,0.315,0.0,0,Jae-young Kwak,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+838,The Clown,2011,5.85,0.342,0.0,0,Selton Mello,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+839,The Collector,1967,5.33,0.316,0.0,0,Éric Rohmer,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+840,The Color of Paradise,1999,5.38,0.319,0.0,0,Majid Majidi,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+841,The Color of Pomegranates,1969,5.33,0.316,0.0,0,Sergei Parajanov,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+842,The Corridor,2013,6.03,0.352,0.0,0,Behrouz Shoaybi,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+843,The Courtyard of the Ballads,1942,5.31,0.315,0.0,0,Francisco Ribeiro,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+844,The Cow,1969,5.33,0.316,0.0,0,Dariush Mehrjui,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+845,The Criminal Life of Archibaldo de la Cruz,1955,5.31,0.315,0.0,0,Luis Buñuel,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+846,The Cuckoo,2002,5.34,0.317,0.0,0,Aleksandr Rogozhkin,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+847,The Cycle,1977,5.32,0.316,0.0,0,Dariush Mehrjui,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+848,The Cyclist,1989,5.32,0.316,0.0,0,Mohsen Makhmalbaf,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+849,The Dawns Here Are Quiet,1972,5.33,0.316,0.0,0,Stanislav Rostotskiy,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+850,The Day I Became a Woman,2000,5.38,0.319,0.0,0,Marzieh Makhmalbaf,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+851,The Deer,1974,5.32,0.316,0.0,0,Masud Kimiai,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+852,The Deserted Station,2002,5.34,0.317,0.0,0,Alireza Raisian,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+853,The Destiny of a Man,1959,5.31,0.315,0.0,0,Sergey Bondarchuk,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+854,The Devil's Backbone,2001,5.39,0.319,0.0,0,Guillermo del Toro,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+855,The Diamond Arm,1969,5.33,0.316,0.0,0,Leonid Gaidai,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+856,The Dove's Lost Necklace,1991,7.808,0.612,7.1,86,Nacer Khemir,-20.201,-0.269,-0.123,True,True,True,0,0,0,0
+857,The Drug King,2018,6.18,0.359,0.0,0,Min-ho Woo,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+858,The Dude in Me,2019,6.22,0.361,0.0,0,Kang Hyo-jin,-106.201,-7.369,-1.711,False,False,False,0,0,0,0
+859,The Dupes,1972,8.168,0.64,7.6,107,Tewfik Saleh,0.799,0.231,0.237,True,True,True,0,0,0,0
+860,The Edge of Heaven,2007,5.28,0.314,0.0,0,Fatih Akin,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+861,The Edukators,2004,5.29,0.314,0.0,0,Hans Weingartner,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+862,The Eight Diagram Pole Fighter,1984,5.32,0.316,0.0,0,Chia-Liang Liu,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+863,The Enigma of Kaspar Hauser,1974,5.32,0.316,0.0,0,Werner Herzog,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+864,The Escape,1991,5.32,0.316,0.0,0,Atef El-Tayeb,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+865,The Experiment,2001,5.39,0.319,0.0,0,Oliver Hirschbiegel,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+866,The Exterminating Angel,1962,5.31,0.315,0.0,0,Luis Buñuel,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+867,The Fateful Day,1995,5.33,0.316,0.0,0,Shahram Assadi,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+868,The Father,1996,5.33,0.316,0.0,0,Majid Majidi,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+869,The Fire Within,1963,5.33,0.316,0.0,0,Louis Malle,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+870,The Fish Fall in Love,2005,5.25,0.312,0.0,0,Ali Rafie,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+871,The Flirtation of Girls,1949,5.31,0.315,0.0,0,Anwar Wagdi,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+872,The Flower of My Secret,1995,5.33,0.316,0.0,0,Pedro Almodóvar,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+873,The Garage,1980,5.32,0.316,0.0,0,Eldar Ryazanov,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+874,The Girls,1962,5.31,0.315,0.0,0,Yuriy Chulyukin,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+875,The Glass Agency,1998,5.38,0.319,0.0,0,Ebrahim Hatamikia,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+876,The Goddess,1934,5.31,0.315,0.0,0,Yonggang Wu,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+877,The Golden Horseshoes,1989,7.898,0.621,7.3,104,Nouri Bouzid,-2.201,-0.069,-0.033,True,True,True,0,0,0,0
+878,"The Good, the Bad, the Weird",2008,5.31,0.315,0.0,0,Kim Jee-woon,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+879,The Great Battle,2018,6.18,0.359,0.0,0,Kwang-shik Kim,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+880,The Great Devotion,1960,5.31,0.315,0.0,0,Yuen Chor,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+881,The Great Journey,2004,8.007,0.624,7.2,108,Ismaël Ferroukhi,1.799,-0.169,0.075,True,True,True,0,0,0,0
+882,The Hairdresser's Husband,1990,5.32,0.316,0.0,0,Patrice Leconte,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+883,The Headless Woman,2008,5.31,0.315,0.0,0,Lucrecia Martel,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+884,The Heiresses,2018,6.18,0.359,0.0,0,Marcelo Martinessi,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+885,The Hidden Fortress,1958,5.31,0.315,0.0,0,Akira Kurosawa,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+886,The Hidden Half,2001,5.39,0.319,0.0,0,Tahmineh Milani,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+887,The Hole,1960,5.31,0.315,0.0,0,Jacques Becker,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+888,The Holy Girl,2004,5.29,0.314,0.0,0,Lucrecia Martel,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+889,The Holy Innocents,1984,5.32,0.316,0.0,0,Mario Camus,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+890,The Holy Mountain,1973,5.33,0.316,0.0,0,Alejandro Jodorowsky,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+891,The Host,2006,5.26,0.313,0.0,0,Bong Joon Ho,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+892,The House of 72 Tenants,1973,5.33,0.316,0.0,0,Yuen Chor,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+893,The Housemaid,2010,5.61,0.33,0.0,0,Im Sang-soo,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+894,The Human Condition II: Road to Eternity,1959,5.31,0.315,0.0,0,Masaki Kobayashi,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+895,The Human Condition III: A Soldier's Prayer,1961,5.31,0.315,0.0,0,Masaki Kobayashi,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+896,The Hunt,1966,5.33,0.316,0.0,0,Carlos Saura,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+897,The Idiot,2003,5.3,0.315,0.0,0,,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+898,The Innocent,1986,8.216,0.655,8.2,110,Atef El-Tayeb,3.799,0.831,0.285,True,True,True,0,0,0,0
+899,The Insect Woman,1963,5.33,0.316,0.0,0,Shôhei Imamura,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+900,The Inugami Family,1976,5.32,0.316,0.0,0,Kon Ichikawa,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+901,The Invisible Woman,2009,5.43,0.321,0.0,0,Cláudio Torres,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+902,"The Irony of Fate, or Enjoy Your Bath!",1976,5.32,0.316,0.0,0,Eldar Ryazanov,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+903,The Island,2006,5.26,0.313,0.0,0,Pavel Lungin,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+904,The Italian,2005,5.25,0.312,0.0,0,Andrey Kravchuk,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+905,The Jester,1987,5.32,0.316,0.0,0,José Álvaro Morais,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+906,The Key,1987,5.32,0.316,0.0,0,Ebrahim Forouzesh,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+907,The Killer,1989,5.32,0.316,0.0,0,John Woo,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+908,The King and the Mockingbird,1980,5.32,0.316,0.0,0,Paul Grimault,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+909,The Kingdom and the Beauty,1959,5.31,0.315,0.0,0,Han Hsiang Li,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+910,The Land,1970,8.157,0.648,8.0,130,Youssef Chahine,23.799,0.631,0.225,True,True,True,0,0,0,0
+911,The Last Act,1991,5.32,0.316,0.0,0,Varuzh Karim-Masihi,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+912,The Last Step,2012,5.99,0.35,0.0,0,Ali Mosaffa,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+913,The Legend of Bhagat Singh,2002,5.34,0.317,0.0,0,Rajkumar Santoshi,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+914,The Life of Jesus,1997,5.38,0.319,0.0,0,Bruno Dumont,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+915,The Life of Oharu,1952,5.31,0.315,0.0,0,Kenji Mizoguchi,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+916,The Life of Wu Xun,1951,5.31,0.315,0.0,0,Yu Sun,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+917,The Lin Family Shop,1959,5.31,0.315,0.0,0,Choui Khoua,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+918,The Lizard,2004,5.29,0.314,0.0,0,Kamal Tabrizi,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+919,The Love Eterne,1963,5.33,0.316,0.0,0,Han Hsiang Li,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+920,The Love-stricken,1992,5.33,0.316,0.0,0,Ali Hatami,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+921,The Man Who Copied,2003,5.3,0.315,0.0,0,Jorge Furtado,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+922,The Man Who Stole the Sun,1979,5.32,0.316,0.0,0,Kazuhiko Hasegawa,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+923,The Man from Nowhere,2010,5.61,0.33,0.0,0,Lee Jeong-beom,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+924,The Man from the Future,2011,5.85,0.342,0.0,0,Cláudio Torres,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+925,The Man of the Year,2003,5.3,0.315,0.0,0,José Henrique Fonseca,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+926,The Mandrake,1975,5.32,0.316,0.0,0,Fereydun Gole,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+927,The Marriage of Maria Braun,1979,5.32,0.316,0.0,0,Rainer Werner Fassbinder,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+928,The Massacre of Kafr Kassem,1975,7.566,0.584,6.3,108,Borhane Alaouié,1.799,-1.069,-0.365,True,False,False,0,0,0,0
+929,The Meeting Place Cannot Be Changed,1979,5.32,0.316,0.0,0,,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+930,The Message,1976,8.243,0.678,8.1,177,Moustapha Akkad,70.799,0.731,0.311,False,True,True,0,0,0,0
+931,The Milk of Sorrow,2009,5.43,0.321,0.0,0,Claudia Llosa,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+932,The Miracle of Bern,2003,5.3,0.315,0.0,0,Sönke Wortmann,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+933,The Mirror,1997,5.38,0.319,0.0,0,Jafar Panahi,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+934,The Mission,1999,5.38,0.319,0.0,0,Johnnie To,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+935,The Mole Agent,2020,6.26,0.363,0.0,0,Maite Alberdi,-106.201,-7.369,-1.671,False,False,False,0,0,0,0
+936,The Mongols,1973,5.33,0.316,0.0,0,Parviz Kimiavi,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+937,The Mummy,1969,8.101,0.639,7.7,102,Chadi Abdel Salam,-4.201,0.331,0.17,True,True,True,0,0,0,0
+938,The Music Man,2007,5.28,0.314,0.0,0,Dariush Mehrjui,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+939,The Negotiation,2018,6.18,0.359,0.0,0,Jong-suk Lee,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+940,The Night Caller,1975,5.32,0.316,0.0,0,Henri Verneuil,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+941,The Nightingale's Prayer,1959,8.098,0.647,8.1,109,Henry Barakat,2.799,0.731,0.166,True,True,True,0,0,0,0
+942,The Old Man and the Sea,1999,5.38,0.319,0.0,0,Aleksandr Petrov,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+943,The Orphan,1960,5.31,0.315,0.0,0,Sun-Fung Lee,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+944,The Orphanage,2007,5.28,0.314,0.0,0,J.A. Bayona,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+945,The Outlaws,2017,6.09,0.354,0.0,0,Yunsung Kang,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+946,The Painting Pool,2013,6.03,0.352,0.0,0,Maziar Miri,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+947,The Passion of Joan of Arc,1928,5.31,0.315,0.0,0,Carl Theodor Dreyer,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+948,The Past,2013,6.03,0.352,0.0,0,Asghar Farhadi,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+949,The Paternal House,2012,5.99,0.35,0.0,0,Kianoush Ayari,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+950,The Pear Tree,1998,5.38,0.319,0.0,0,Dariush Mehrjui,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+951,The Pornographers,1966,5.33,0.316,0.0,0,Shôhei Imamura,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+952,The Postman,1972,5.33,0.316,0.0,0,Dariush Mehrjui,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+953,The Princess and the Warrior,2000,5.38,0.319,0.0,0,Tom Tykwer,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+954,The Private Eyes,1976,5.32,0.316,0.0,0,Michael Hui,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+955,The Punch Bowl,1944,5.31,0.315,0.0,0,Helmut Weiss,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+956,The Puppetmaster,1993,5.33,0.316,0.0,0,Hsiao-Hsien Hou,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+957,The Purple Hairpin,1959,5.31,0.315,0.0,0,Tit Lee,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+958,The Raven,1977,5.32,0.316,0.0,0,Bahram Beyzaie,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+959,The Red Detachment of Women,1961,5.31,0.315,0.0,0,Jin Xie,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+960,The Red Ribbon,1999,5.38,0.319,0.0,0,Ebrahim Hatamikia,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+961,The Report,1977,5.32,0.316,0.0,0,Abbas Kiarostami,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+962,The Rules of the Game,1939,5.31,0.315,0.0,0,Jean Renoir,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+963,The Sandwich Man,1983,5.32,0.316,0.0,0,"Hsiao-Hsien Hou, Chuang-Hsiang Tseng, Jen Wan",-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+964,The Scent of Joseph's Shirt,1995,5.33,0.316,0.0,0,Ebrahim Hatamikia,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+965,The Second Wife,1967,8.173,0.647,7.9,105,Salah Abouseif,-1.201,0.531,0.242,True,True,True,0,0,0,0
+966,The Secret,1979,5.32,0.316,0.0,0,Ann Hui,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+967,The Secret of the Grain,2007,8.171,0.637,7.4,151,Abdellatif Kechiche,44.799,0.031,0.24,False,True,True,0,0,0,0
+968,The Seventh Continent,1989,5.32,0.316,0.0,0,Michael Haneke,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+969,The Silences of the Palace,1994,8.193,0.638,7.4,116,Moufida Tlatli,9.799,0.031,0.262,True,True,True,0,0,0,0
+970,The Snow on the Pines,2012,5.99,0.35,0.0,0,Payman Maadi,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+971,The Soft Skin,1964,5.33,0.316,0.0,0,François Truffaut,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+972,The Soil,1973,5.33,0.316,0.0,0,Masud Kimiai,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+973,The Song of Sparrows,2008,5.31,0.315,0.0,0,Majid Majidi,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+974,The Spanish Apartment,2002,5.34,0.317,0.0,0,Cédric Klapisch,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+975,The Sparrow,1972,7.791,0.606,6.8,105,Youssef Chahine,-1.201,-0.569,-0.14,True,True,True,0,0,0,0
+976,The Spooky Bunch,1980,5.32,0.316,0.0,0,Ann Hui,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+977,The Spring River Flows East,1947,5.31,0.315,0.0,0,"Chusheng Cai, Junli Zheng",-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+978,The Spy Gone North,2018,6.18,0.359,0.0,0,Yoon Jong-bin,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+979,The Stone Lion,1987,5.32,0.316,0.0,0,Masoud Jafari Jozani,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+980,The Story of a Cheat,1936,5.31,0.315,0.0,0,Sacha Guitry,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+981,The Story of a Discharged Prisoner,1967,5.33,0.316,0.0,0,Kong Lung,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+982,The Street Player,1983,5.32,0.316,0.0,0,Mohamed Khan,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+983,The Suspect,2013,6.03,0.352,0.0,0,Won Shin-yeon,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+984,The Swamp,2001,5.39,0.319,0.0,0,Lucrecia Martel,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+985,The Swimming Pool,1969,5.33,0.316,0.0,0,Jacques Deray,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+986,The Sword of Doom,1966,5.33,0.316,0.0,0,Kihachi Okamoto,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+987,The Tale of Tales,1979,5.32,0.316,0.0,0,Yuri Norstein,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+988,The Tale of Zatoichi,1962,5.31,0.315,0.0,0,Kenji Misumi,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+989,The Taste of Others,2000,5.38,0.319,0.0,0,Agnès Jaoui,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+990,The Tenant,1976,5.32,0.316,0.0,0,Roman Polanski,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+991,The Tenants,1987,5.32,0.316,0.0,0,Dariush Mehrjui,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+992,The Terrorizers,1986,5.32,0.316,0.0,0,Edward Yang,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+993,The Testament of Dr. Mabuse,1933,5.31,0.315,0.0,0,Fritz Lang,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+994,The Thieves,2012,5.99,0.35,0.0,0,Dong-hoon Choi,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+995,The Time That Remains,2009,8.03,0.648,7.1,109,Elia Suleiman,2.799,-0.269,0.099,True,True,True,0,0,0,0
+996,The Touch,1980,5.32,0.316,0.0,0,Sai Paranjpye,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+997,The Traveler,1974,5.32,0.316,0.0,0,Abbas Kiarostami,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+998,The Treacherous,2015,6.01,0.35,0.0,0,Kyu-dong Min,-106.201,-7.369,-1.921,False,False,False,0,0,0,0
+999,The Trespasser,2001,5.39,0.319,0.0,0,Beto Brant,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+1000,The Tunnel,2001,5.39,0.319,0.0,0,Roland Suso Richter,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+1001,The Tyrant Father,1941,5.31,0.315,0.0,0,António Lopes Ribeiro,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1002,The Umbrellas of Cherbourg,1964,5.33,0.316,0.0,0,Jacques Demy,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1003,The Unfaithful Wife,1969,5.33,0.316,0.0,0,Claude Chabrol,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1004,The Unfinished Song,2001,5.39,0.319,0.0,0,Maziar Miri,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+1005,The Untamed,2016,5.99,0.35,0.0,0,Amat Escalante,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+1006,The Vanished,2018,6.18,0.359,0.0,0,Chang-hee Lee,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+1007,The Very Same Munchhausen,1980,5.32,0.316,0.0,0,Mark Zakharov,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+1008,The Villainess,2017,6.09,0.354,0.0,0,Jung Byung-gil,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+1009,The Wages of Fear,1953,5.31,0.315,0.0,0,Henri-Georges Clouzot,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1010,The Wailing,2016,5.99,0.35,0.0,0,Na Hong-jin,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+1011,The Warden,2019,6.22,0.361,0.0,0,Nima Javidi,-106.201,-7.369,-1.711,False,False,False,0,0,0,0
+1012,The Water-Carrier Is Dead,1977,7.802,0.61,7.0,100,Salah Abouseif,-6.201,-0.369,-0.13,True,True,True,0,0,0,0
+1013,The Wedding Banquet,1993,5.33,0.316,0.0,0,Ang Lee,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1014,The White Balloon,1995,5.33,0.316,0.0,0,Jafar Panahi,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1015,The White Meadows,2009,5.43,0.321,0.0,0,Mohammad Rasoulof,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+1016,The Wife of an Important Man,1987,8.173,0.647,7.9,115,Mohamed Khan,8.799,0.531,0.242,True,True,True,0,0,0,0
+1017,"The Wild, Wild Rose",1960,5.31,0.315,0.0,0,Tian-Lin Wang,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1018,The Willow Tree,2005,5.25,0.312,0.0,0,Majid Majidi,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+1019,The Wind Carpet,2003,5.3,0.315,0.0,0,Kamal Tabrizi,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+1020,The Wind Will Carry Us,1999,5.38,0.319,0.0,0,Abbas Kiarostami,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+1021,The Winter,1969,5.33,0.316,0.0,0,Han Hsiang Li,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1022,The Winter of Three Hairs,1949,5.31,0.315,0.0,0,"Gong Yan, Ming Zhao",-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1023,The Witch: Part 1 - The Subversion,2018,6.18,0.359,0.0,0,Park Hoon-jung,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+1024,The Yacoubian Building,2006,8.169,0.638,7.5,165,Marwan Hamed,58.799,0.131,0.237,False,True,True,0,0,0,0
+1025,The Year My Parents Went on Vacation,2006,5.26,0.313,0.0,0,Cao Hamburger,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+1026,The Yellow Sea,2010,5.61,0.33,0.0,0,Na Hong-jin,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+1027,The Young Girls of Rochefort,1967,5.33,0.316,0.0,0,Jacques Demy,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1028,The Young and the Damned,1950,5.31,0.315,0.0,0,Luis Buñuel,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1029,There Are Things You Don't Know,2010,5.61,0.33,0.0,0,Fardin Saheb-Zamani,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+1030,Thesis,1996,5.33,0.316,0.0,0,Alejandro Amenábar,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1031,Third Sister Liu,1962,5.31,0.315,0.0,0,Li Su,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1032,Thirst,1957,5.31,0.315,0.0,0,Guru Dutt,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1033,Three Colors: Blue,1993,5.33,0.316,0.0,0,Krzysztof Kieslowski,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1034,Three Colors: White,1994,5.33,0.316,0.0,0,Krzysztof Kieslowski,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1035,Three Wishes for Cinderella,1973,5.33,0.316,0.0,0,Václav Vorlícek,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1036,Throne of Blood,1957,5.31,0.315,0.0,0,Akira Kurosawa,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1037,Tidal Wave,2009,5.43,0.321,0.0,0,JK Youn,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+1038,Tie Xi Qu: West of the Tracks,2002,5.34,0.317,0.0,0,Wang Bing,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+1039,Tigers Are Not Afraid,2017,6.09,0.354,0.0,0,Issa López,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+1040,Tight Spot,1973,5.33,0.316,0.0,0,Amir Naderi,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1041,To Our Loves,1983,5.32,0.316,0.0,0,Maurice Pialat,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+1042,Tokyo Drifter,1966,5.33,0.316,0.0,0,Seijun Suzuki,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1043,Tokyo Sonata,2008,5.31,0.315,0.0,0,Kiyoshi Kurosawa,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1044,Tokyo Story,1953,5.31,0.315,0.0,0,Yasujirô Ozu,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1045,Tony Manero,2008,5.31,0.315,0.0,0,Pablo Larraín,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1046,Too Late to Die Young,2018,6.18,0.359,0.0,0,Dominga Sotomayor,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+1047,Track 143,2014,6.03,0.352,0.0,0,Narges Abyar,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+1048,Trails,1978,5.32,0.316,0.0,0,João César Monteiro,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+1049,Train to Busan,2016,5.99,0.35,0.0,0,Yeon Sang-ho,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+1050,Tranquility in the Presence of Others,1972,5.33,0.316,0.0,0,Nasser Taghvai,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1051,Travellers,1992,5.33,0.316,0.0,0,Bahram Beyzaie,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1052,Tristana,1970,5.33,0.316,0.0,0,Luis Buñuel,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1053,Try Seventeen,2002,5.34,0.317,0.0,0,Jeffrey Porter,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+1054,Turtles Can Fly,2004,5.29,0.314,0.0,0,Bahman Ghobadi,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+1055,Twelve Chairs,1971,5.33,0.316,0.0,0,Leonid Gaidai,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1056,Twenty-Four Eyes,1954,5.31,0.315,0.0,0,Keisuke Kinoshita,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1057,Twin Sisters,1934,5.31,0.315,0.0,0,Zhengqiu Zheng,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1058,"Two Brothers, My Sister",1994,5.33,0.316,0.0,0,Teresa Villaverde,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1059,Two Rabbits,2012,5.99,0.35,0.0,0,Afonso Poyart,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+1060,Two Stage Sisters,1964,5.33,0.316,0.0,0,Jin Xie,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1061,Two-Legged Horse,2008,5.31,0.315,0.0,0,Samira Makhmalbaf,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1062,Udaan,2010,5.61,0.33,0.0,0,Vikramaditya Motwane,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+1063,Udta Punjab,2016,5.99,0.35,0.0,0,Abhishek Chaubey,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+1064,Ugetsu,1953,5.31,0.315,0.0,0,Kenji Mizoguchi,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1065,Un chien andalou,1929,5.31,0.315,0.0,0,Luis Buñuel,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1066,Una noche,2012,5.99,0.35,0.0,0,Lucy Mulloy,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+1067,Unbelievable Adventures of Italians in Russia,1974,5.32,0.316,0.0,0,"Francesco Prosperi, Eldar Ryazanov",-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+1068,Under the Moonlight,2001,5.39,0.319,0.0,0,Reza Mirkarimi,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+1069,Under the Skin of the City,2001,5.39,0.319,0.0,0,Rakhshan Banietemad,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+1070,Unfinished Piece for the Player Piano,1977,5.32,0.316,0.0,0,Nikita Mikhalkov,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+1071,Unruled Paper,2002,5.34,0.317,0.0,0,Nasser Taghvai,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+1072,Unstoppable,2018,6.18,0.359,0.0,0,Kim Min-Ho,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+1073,Uri: The Surgical Strike,2019,6.22,0.361,0.0,0,Aditya Dhar,-106.201,-7.369,-1.711,False,False,False,0,0,0,0
+1074,V.I.P.,2017,6.09,0.354,0.0,0,Park Hoon-jung,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+1075,VIPs,2010,5.61,0.33,0.0,0,Toniko Melo,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+1076,Vampyr,1932,5.31,0.315,0.0,0,Carl Theodor Dreyer,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1077,Van Gogh,1991,5.32,0.316,0.0,0,Maurice Pialat,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+1078,Veer-Zaara,2004,5.29,0.314,0.0,0,Yash Chopra,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+1079,Vengeance Is Mine,1979,5.32,0.316,0.0,0,Shôhei Imamura,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+1080,Veronika Voss,1982,5.32,0.316,0.0,0,Rainer Werner Fassbinder,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+1081,Viaje,2015,6.01,0.35,0.0,0,Paz Fábrega,-106.201,-7.369,-1.921,False,False,False,0,0,0,0
+1082,Vicky Donor,2012,5.99,0.35,0.0,0,Shoojit Sircar,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+1083,"Vincent, François, Paul and the Others",1974,5.32,0.316,0.0,0,Claude Sautet,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+1084,Violent Cop,1989,5.32,0.316,0.0,0,Takeshi Kitano,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+1085,Virus tropical,2017,6.09,0.354,0.0,0,Santiago Caicedo,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+1086,Vive L'Amour,1994,5.33,0.316,0.0,0,Tsai Ming-liang,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1087,Viy,1967,5.33,0.316,0.0,0,"Aleksandr Ptushko, Konstantin Ershov, Georgiy Kropachyov",-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1088,Waiting for Happiness,2002,5.34,0.317,0.0,0,Abderrahmane Sissako,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+1089,Wanderers of the Desert,1984,7.678,0.6,6.8,95,Nacer Khemir,-11.201,-0.569,-0.253,True,True,False,0,0,0,0
+1090,Wanjia denghuo,1948,5.31,0.315,0.0,0,Fu Shen,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1091,War,2002,5.34,0.317,0.0,0,Aleksey Balabanov,-106.201,-7.369,-2.591,False,False,False,0,0,0,0
+1092,War and Peace,1965,5.33,0.316,0.0,0,Sergey Bondarchuk,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1093,War in the Land of Egypt,1991,5.32,0.316,0.0,0,Salah Abouseif,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+1094,Watch Out for ZouZou,1972,5.33,0.316,0.0,0,Hasan El-Emam,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1095,Watch Out for the Automobile,1966,5.33,0.316,0.0,0,Eldar Ryazanov,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1096,Water,2005,5.25,0.312,0.0,0,Deepa Mehta,-106.201,-7.369,-2.681,False,False,False,0,0,0,0
+1097,We Are What We Are,2010,5.61,0.33,0.0,0,Jorge Michel Grau,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+1098,We Are the Night,2010,5.61,0.33,0.0,0,Dennis Gansel,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+1099,We Only Live Twice,2008,5.31,0.315,0.0,0,Behnam Behzadi,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1100,Wechma,1971,7.208,0.544,6.7,87,Hamid Benani,-19.201,-0.669,-0.724,True,True,False,0,0,0,0
+1101,Wedding in Galilee,1987,7.839,0.606,6.7,113,Michel Khleifi,6.799,-0.669,-0.092,True,True,True,0,0,0,0
+1102,"Welcome Back, Mr. McDonald",1997,5.38,0.319,0.0,0,Kôki Mitani,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+1103,"Well, Just You Wait!",1969,5.33,0.316,0.0,0,,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1104,West Beirut,1998,8.124,0.638,7.6,105,Ziad Doueiri,-1.201,0.231,0.193,True,True,True,0,0,0,0
+1105,What Men Talk About,2010,5.61,0.33,0.0,0,Dmitriy Dyachenko,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+1106,What's the Time in Your World?,2014,6.03,0.352,0.0,0,Safi Yazdanian,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+1107,When We Are All Sleep,2009,5.43,0.321,0.0,0,Bahram Beyzaie,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+1108,When We Leave,2010,5.61,0.33,0.0,0,Feo Aladag,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+1109,Where Do We Go Now?,2011,8.207,0.638,7.4,110,Nadine Labaki,3.799,0.031,0.275,True,True,True,0,0,0,0
+1110,White Nights,2003,5.3,0.315,0.0,0,Farzad Motamen,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+1111,White Sun of the Desert,1970,5.33,0.316,0.0,0,Vladimir Motyl,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1112,Willow and Wind,1999,5.38,0.319,0.0,0,Mohammad Ali Talebi,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+1113,Winnie-the-Pooh,1969,5.33,0.316,0.0,0,Fyodor Khitruk,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1114,Winnie-the-Pooh Pays a Visit,1971,5.33,0.316,0.0,0,Fyodor Khitruk,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1115,Winnie-the-Pooh and a Busy Day,1972,5.33,0.316,0.0,0,"Fyodor Khitruk, Gennadiy Sokolskiy",-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1116,Winter Sleepers,1997,5.38,0.319,0.0,0,Tom Tykwer,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+1117,Wo ist Fred?,2006,5.26,0.313,0.0,0,Anno Saul,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+1118,Woman in the Dunes,1964,5.33,0.316,0.0,0,Hiroshi Teshigahara,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1119,Woyzeck,1979,5.32,0.316,0.0,0,Werner Herzog,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+1120,Xiao Wanyi,1933,5.31,0.315,0.0,0,Yu Sun,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1121,Ya shagayu po Moskve,1964,5.33,0.316,0.0,0,Georgiy Daneliya,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1122,Yek Etefagh sadeh,1973,5.33,0.316,0.0,0,Sohrab Shahid Saless,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+1123,Yellow Earth,1984,5.32,0.316,0.0,0,Kaige Chen,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+1124,Ying lie qian qiu,1976,5.32,0.316,0.0,0,Shan-Hsi Ting,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+1125,Yojimbo,1961,5.31,0.315,0.0,0,Akira Kurosawa,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1126,Yu guang qu,1934,5.31,0.315,0.0,0,Chusheng Cai,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1127,Zama,2017,6.09,0.354,0.0,0,Lucrecia Martel,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+1128,Zhong qiu yue,1953,5.31,0.315,0.0,0,Shilin Zhu,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+1129,Zindagi Na Milegi Dobara,2011,5.85,0.342,0.0,0,Zoya Akhtar,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+1130,Zu: Warriors from the Magic Mountain,1983,5.32,0.316,0.0,0,Hark Tsui,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+1131,É na Terra não é na Lua,2011,5.85,0.342,0.0,0,Gonçalo Tocha,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+1132,Última Parada 174,2008,5.31,0.315,0.0,0,Bruno Barreto,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
