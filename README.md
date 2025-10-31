@@ -1,4 +1,4 @@
-movie_recommender/
+```movie_recommender/
 ├── Pipfile
 ├── config/
 │   └── config.py
@@ -12,7 +12,7 @@ movie_recommender/
 │   ├── ratings.csv
 │   └── movies_to_rate.csv
 └── main.py
-
+```
 
 # Basic usage (default files)
 python main.py
@@ -47,3 +47,8 @@ python3 main.py --movies data/Top_rated_IMdb_M-Oscars.csv
 python3 main.py --movies data/todo/language/all-languages2.csv
 
 python3 main.py --movies data/todo/language/ru.csv
+
+python3 main.py --movies data/todo/International-Movie-Oscar-Submissions.csv
+
+
+See also: [Cinema Analysis](https://github.com/zayabarrini/cinema)

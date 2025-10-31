@@ -1,0 +1,2661 @@
+COMPREHENSIVE MOVIE RECOMMENDATION SYSTEM - RESULTS SUMMARY
+============================================================
+Generated on: 2025-10-22 16:52:29
+Total unique movies analyzed: 529
+Model performance:
+  - Train R²: 0.799
+  - Test R²: 0.511
+  - MAE: 0.647
+  - Training samples: 1062
+
+DATA QUALITY SUMMARY:
+  - Average IMDb Rating: 4.61
+  - Average Runtime: 77 mins
+  - Year Range: 1947.0 - 2025.0
+
+TOP RECOMMENDATIONS:
+
+117. 100 Yen Love (2015.0)
+   Predicted: 6.0/10 | Score: 0.350
+   IMDb: 0.0
+   Director: Unknown
+
+508. 12.12: The Day (2024.0)
+   Predicted: 6.3/10 | Score: 0.364
+   IMDb: 0.0
+   Director: Unknown
+
+424. 15 Years and One Day (2013.0)
+   Predicted: 7.4/10 | Score: 0.565
+   IMDb: 5.7
+   Director: Gracia Querejeta
+
+108. 2005: Blood and Bones (0.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+491. 301, 302 (1995.0)
+   Predicted: 7.2/10 | Score: 0.536
+   IMDb: 6.4
+   Director: Park Chul-Soo
+
+246. 8 Women (2002.0)
+   Predicted: 7.4/10 | Score: 0.558
+   IMDb: 7.0
+   Director: François Ozon
+
+47. 9th Company (2006.0)
+   Predicted: 5.3/10 | Score: 0.313
+   IMDb: 0.0
+   Director: Unknown
+
+499. A Barefoot Dream (2010.0)
+   Predicted: 8.1/10 | Score: 0.626
+   IMDb: 7.1
+   Director: Tae-gyun Kim
+
+314. A Ciambra (2017.0)
+   Predicted: 8.1/10 | Score: 0.621
+   IMDb: 6.9
+   Director: Jonas Carpignano
+
+282. A Leap in the Dark (1980.0)
+   Predicted: 7.9/10 | Score: 0.609
+   IMDb: 6.8
+   Director: Marco Bellocchio
+
+218. A Man and a Woman (1966.0)
+   Predicted: 8.1/10 | Score: 0.637
+   IMDb: 7.5
+   Director: Claude Lelouch
+
+38. A Moslem (1995.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+252. A Prophet (2009.0)
+   Predicted: 8.3/10 | Score: 0.650
+   IMDb: 7.8
+   Director: Jacques Audiard
+
+228. A Simple Story (1979.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+130. A Time for Drunken Horses (2000.0)
+   Predicted: 8.0/10 | Score: 0.632
+   IMDb: 7.7
+   Director: Bahman Ghobadi
+
+342. A Woman in Flames (1983.0)
+   Predicted: 7.1/10 | Score: 0.552
+   IMDb: 5.9
+   Director: Robert van Ackeren
+
+139. About Elly (2009.0)
+   Predicted: 8.3/10 | Score: 0.651
+   IMDb: 7.9
+   Director: Asghar Farhadi
+
+194. Abu, Son of Adam (2011.0)
+   Predicted: 8.3/10 | Score: 0.651
+   IMDb: 7.8
+   Director: Salim Ahmed
+
+104. After the Rain (2000.0)
+   Predicted: 7.0/10 | Score: 0.529
+   IMDb: 5.0
+   Director: Mark Lamprell
+
+374. Afternoon of the Bulls (1956.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+22. Aftershock (2010.0)
+   Predicted: 8.1/10 | Score: 0.658
+   IMDb: 7.5
+   Director: Xiaogang Feng
+
+356. Aimee & Jaguar (1999.0)
+   Predicted: 7.9/10 | Score: 0.617
+   IMDb: 7.2
+   Director: Max Färberböck
+
+429. Alcarràs (2022.0)
+   Predicted: 8.3/10 | Score: 0.637
+   IMDb: 7.0
+   Director: Carla Simón
+
+157. Amrapali (1966.0)
+   Predicted: 7.4/10 | Score: 0.576
+   IMDb: 6.7
+   Director: Lekh Tandon
+
+371. And Tomorrow the Entire World (2020.0)
+   Predicted: 8.1/10 | Score: 0.605
+   IMDb: 6.0
+   Director: Julia von Heinz
+
+285. And the Ship Sails On (1983.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+344. Angry Harvest (1985.0)
+   Predicted: 7.9/10 | Score: 0.619
+   IMDb: 7.1
+   Director: Agnieszka Holland
+
+174. Anjali (1990.0)
+   Predicted: 8.1/10 | Score: 0.649
+   IMDb: 8.2
+   Director: Mani Ratnam
+
+88. Antarctica (1983.0)
+   Predicted: 8.2/10 | Score: 0.644
+   IMDb: 7.6
+   Director: Koreyoshi Kurahara
+
+438. Antonio das Mortes (1969.0)
+   Predicted: 7.5/10 | Score: 0.597
+   IMDb: 7.0
+   Director: Glauber Rocha
+
+323. Arms and the Man (1958.0)
+   Predicted: 7.1/10 | Score: 0.527
+   IMDb: 6.2
+   Director: Franz Peter Wirth
+
+328. Artists Under the Big Top: Perplexed (1968.0)
+   Predicted: 7.6/10 | Score: 0.592
+   IMDb: 6.5
+   Director: Alexander Kluge
+
+63. Aruse (1957.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+377. At Five O'Clock in the Afternoon (1960.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+183. At the Ends of the Earth (1999.0)
+   Predicted: 7.6/10 | Score: 0.580
+   IMDb: 7.5
+   Director: Konstantin Bronzit
+
+250. Avenue Montaigne (2006.0)
+   Predicted: 5.3/10 | Score: 0.313
+   IMDb: 0.0
+   Director: Unknown
+
+404. Ay, Carmela! (1990.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+307. Baaria (2009.0)
+   Predicted: 7.8/10 | Score: 0.607
+   IMDb: 6.9
+   Director: Giuseppe Tornatore
+
+476. Babenco: Tell Me When I Die (2020.0)
+   Predicted: 6.3/10 | Score: 0.363
+   IMDb: 0.0
+   Director: Unknown
+
+25. Back to 1942 (2013.0)
+   Predicted: 6.0/10 | Score: 0.351
+   IMDb: 0.0
+   Director: Unknown
+
+178. Bandit Queen (1994.0)
+   Predicted: 7.5/10 | Score: 0.575
+   IMDb: 7.5
+   Director: Shekhar Kapur
+
+527. Barakat (2021.0)
+   Predicted: 6.3/10 | Score: 0.363
+   IMDb: 0.0
+   Director: Unknown
+
+131. Baran (2001.0)
+   Predicted: 8.1/10 | Score: 0.643
+   IMDb: 7.8
+   Director: Majid Majidi
+
+365. Barbara (2012.0)
+   Predicted: 8.1/10 | Score: 0.629
+   IMDb: 7.2
+   Director: Christian Petzold
+
+195. Barfi! (2012.0)
+   Predicted: 8.1/10 | Score: 0.645
+   IMDb: 8.1
+   Director: Anurag Basu
+
+57. Beanpole (2019.0)
+   Predicted: 8.2/10 | Score: 0.635
+   IMDb: 7.2
+   Director: Kantemir Balagov
+
+517. Beauty (2011.0)
+   Predicted: 8.0/10 | Score: 0.607
+   IMDb: 6.3
+   Director: Oliver Hermanus
+
+102. Begging for Love (1998.0)
+   Predicted: 8.2/10 | Score: 0.638
+   IMDb: 7.5
+   Director: Hideyuki Hirayama
+
+397. Begin the Beguine (1982.0)
+   Predicted: 7.6/10 | Score: 0.597
+   IMDb: 6.9
+   Director: José Luis Garci
+
+461. Behind the Sun (2001.0)
+   Predicted: 8.2/10 | Score: 0.640
+   IMDb: 7.6
+   Director: Walter Salles, Emrah Semih Kosar
+
+68. Being Two Isn't Easy (1962.0)
+   Predicted: 7.5/10 | Score: 0.589
+   IMDb: 6.8
+   Director: Kon Ichikawa
+
+367. Beloved Sisters (2014.0)
+   Predicted: 7.9/10 | Score: 0.619
+   IMDb: 6.1
+   Director: Dominik Graf
+
+454. Better Days Ahead (1989.0)
+   Predicted: 7.6/10 | Score: 0.598
+   IMDb: 6.8
+   Director: Carlos Diegues
+
+235. Betty Blue (1986.0)
+   Predicted: 7.9/10 | Score: 0.620
+   IMDb: 7.3
+   Director: Jean-Jacques Beineix
+
+354. Beyond Silence (1997.0)
+   Predicted: 5.4/10 | Score: 0.319
+   IMDb: 0.0
+   Director: Unknown
+
+473. Bingo: The King of the Mornings (2017.0)
+   Predicted: 8.2/10 | Score: 0.647
+   IMDb: 7.9
+   Director: Daniel Rezende
+
+422. Black Bread (2011.0)
+   Predicted: 5.8/10 | Score: 0.342
+   IMDb: 0.0
+   Director: Unknown
+
+434. Black God, White Devil (1964.0)
+   Predicted: 7.8/10 | Score: 0.615
+   IMDb: 7.2
+   Director: Glauber Rocha
+
+212. Black Orpheus (1959.0)
+   Predicted: 8.1/10 | Score: 0.634
+   IMDb: 7.4
+   Director: Marcel Camus
+
+423. Blancanieves (2012.0)
+   Predicted: 8.2/10 | Score: 0.640
+   IMDb: 7.5
+   Director: Pablo Berger
+
+247. Bon Voyage (2003.0)
+   Predicted: 7.8/10 | Score: 0.603
+   IMDb: 6.7
+   Director: Jean-Paul Rappeneau
+
+257. Bpm (2017.0)
+   Predicted: 6.1/10 | Score: 0.354
+   IMDb: 0.0
+   Director: Andre Blak
+
+14. Breaking the Silence (2000.0)
+   Predicted: 5.4/10 | Score: 0.319
+   IMDb: 0.0
+   Director: Unknown
+
+144. Breath (2017.0)
+   Predicted: 8.3/10 | Score: 0.629
+   IMDb: 6.7
+   Director: Simon Baker
+
+352. Brother of Sleep (1995.0)
+   Predicted: 7.9/10 | Score: 0.614
+   IMDb: 7.0
+   Director: Joseph Vilsmaier
+
+51. Burnt by the Sun 3: The Citadel (2011.0)
+   Predicted: 5.8/10 | Score: 0.342
+   IMDb: 0.0
+   Director: Unknown
+
+410. Bwana (1996.0)
+   Predicted: 6.9/10 | Score: 0.539
+   IMDb: 5.8
+   Director: Imanol Uribe
+
+448. Bye Bye Brazil (1980.0)
+   Predicted: 8.2/10 | Score: 0.639
+   IMDb: 7.4
+   Director: Carlos Diegues
+
+310. Caesar Must Die (2012.0)
+   Predicted: 8.0/10 | Score: 0.626
+   IMDb: 7.3
+   Director: Paolo Taviani, Vittorio Taviani
+
+136. Café Transit (2006.0)
+   Predicted: 5.3/10 | Score: 0.313
+   IMDb: 0.0
+   Director: Unknown
+
+398. Carmen (1983.0)
+   Predicted: 8.2/10 | Score: 0.638
+   IMDb: 7.4
+   Director: Carlos Saura
+
+436. Case of the Naves Brothers (1967.0)
+   Predicted: 8.2/10 | Score: 0.654
+   IMDb: 8.2
+   Director: Luiz Sérgio Person
+
+24. Caught in the Web (2012.0)
+   Predicted: 8.0/10 | Score: 0.609
+   IMDb: 6.5
+   Director: Kaige Chen
+
+151. Cause of Death: Unknown (2025.0)
+   Predicted: 6.3/10 | Score: 0.364
+   IMDb: 0.0
+   Director: Unknown
+
+128. Children of Heaven (1998.0)
+   Predicted: 5.4/10 | Score: 0.319
+   IMDb: 0.0
+   Director: Unknown
+
+273. China Is Near (1967.0)
+   Predicted: 7.8/10 | Score: 0.608
+   IMDb: 6.8
+   Director: Marco Bellocchio
+
+492. Chunhyang (2000.0)
+   Predicted: 7.9/10 | Score: 0.617
+   IMDb: 7.1
+   Director: Im Kwon-taek
+
+464. Cinema, Aspirins and Vultures (2006.0)
+   Predicted: 5.3/10 | Score: 0.313
+   IMDb: 0.0
+   Director: Unknown
+
+32. Cliff Walkers (2021.0)
+   Predicted: 8.0/10 | Score: 0.611
+   IMDb: 6.5
+   Director: Zhuang Jieqiong, Yimou Zhang
+
+37. Close to Eden (1992.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+122. Cloud (2024.0)
+   Predicted: 8.3/10 | Score: 0.619
+   IMDb: 6.3
+   Director: Kiyoshi Kurosawa
+
+507. Concrete Utopia (2023.0)
+   Predicted: 8.4/10 | Score: 0.632
+   IMDb: 6.6
+   Director: Tae-hwa Eom
+
+112. Confessions (2010.0)
+   Predicted: 8.2/10 | Score: 0.644
+   IMDb: 7.7
+   Director: Tetsuya Nakashima
+
+10. Country Teachers (1993.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+79. Coup d'Etat (1973.0)
+   Predicted: 7.8/10 | Score: 0.631
+   IMDb: 6.8
+   Director: Yoshishige Yoshida
+
+231. Coup de Torchon (1982.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+402. Course Completed (1987.0)
+   Predicted: 7.5/10 | Score: 0.578
+   IMDb: 6.2
+   Director: José Luis Garci
+
+225. Cousin, cousine (1976.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+408. Cradle Song (1994.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+18. Curse of the Golden Flower (2006.0)
+   Predicted: 7.9/10 | Score: 0.616
+   IMDb: 7.0
+   Director: Yimou Zhang
+
+236. Cyrano de Bergerac (1990.0)
+   Predicted: 8.0/10 | Score: 0.654
+   IMDb: 7.5
+   Director: Jean-Paul Rappeneau
+
+36. Dead to Rights (2025.0)
+   Predicted: 6.3/10 | Score: 0.364
+   IMDb: 0.0
+   Director: Unknown
+
+58. Dear Comrades! (2020.0)
+   Predicted: 8.2/10 | Score: 0.662
+   IMDb: 7.4
+   Director: Andrey Konchalovskiy
+
+432. Death Commands Brigandage (1960.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+353. Deathmaker (1996.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+254. Declaration of War (2011.0)
+   Predicted: 8.0/10 | Score: 0.620
+   IMDb: 7.0
+   Director: Valérie Donzelli
+
+133. Deep Breath (2003.0)
+   Predicted: 8.0/10 | Score: 0.628
+   IMDb: 7.4
+   Director: Parviz Shahbazi
+
+100. Deep River (1995.0)
+   Predicted: 8.2/10 | Score: 0.642
+   IMDb: 7.7
+   Director: Kei Kumai
+
+160. Deiva Magan (1969.0)
+   Predicted: 8.1/10 | Score: 0.646
+   IMDb: 8.0
+   Director: A.C. Trilogchander
+
+483. Descendants of Cain (1968.0)
+   Predicted: 6.0/10 | Score: 0.402
+   IMDb: 0.0
+   Director: Yu Hyun-mok
+
+186. Devdas (2002.0)
+   Predicted: 8.1/10 | Score: 0.637
+   IMDb: 7.5
+   Director: Sanjay Leela Bhansali
+
+230. Diva (1981.0)
+   Predicted: 7.6/10 | Score: 0.571
+   IMDb: 7.1
+   Director: Jean-Jacques Beineix
+
+77. Dodes'ka-den (1971.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+315. Dogman (2018.0)
+   Predicted: 8.1/10 | Score: 0.630
+   IMDb: 7.2
+   Director: Matteo Garrone
+
+312. Don't Be Bad (2015.0)
+   Predicted: 8.1/10 | Score: 0.628
+   IMDb: 7.1
+   Director: Claudio Caligari
+
+303. Don't Tell (2005.0)
+   Predicted: 7.6/10 | Score: 0.587
+   IMDb: 6.4
+   Director: Cristina Comencini
+
+399. Double Feature (1984.0)
+   Predicted: 7.2/10 | Score: 0.557
+   IMDb: 5.9
+   Director: José Luis Garci
+
+359. Downfall (2004.0)
+   Predicted: 8.2/10 | Score: 0.678
+   IMDb: 8.2
+   Director: Oliver Hirschbiegel
+
+4. Dr. Sun Yat-sen (1986.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+20. Dream Weavers: Beijing 2008 (2008.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+379. Dulcinea (1962.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+244. East/West (1999.0)
+   Predicted: 8.1/10 | Score: 0.655
+   IMDb: 7.4
+   Director: Régis Wargnier
+
+321. Ecos de familia (2025.0)
+   Predicted: 6.3/10 | Score: 0.364
+   IMDb: 0.0
+   Director: Heber Chávez
+
+1. Effendi (1979.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+190. Eklavya: The Royal Guard (2007.0)
+   Predicted: 7.2/10 | Score: 0.562
+   IMDb: 6.0
+   Director: Vidhu Vinod Chopra
+
+383. El amor brujo (1967.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+159. Elder Sister (1968.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+520. Elelwani (2014.0)
+   Predicted: 6.0/10 | Score: 0.351
+   IMDb: 0.0
+   Director: Unknown
+
+469. Elite Squad: The Enemy Within (2011.0)
+   Predicted: 5.8/10 | Score: 0.342
+   IMDb: 0.0
+   Director: Unknown
+
+83. Empire of Passion (1978.0)
+   Predicted: 7.9/10 | Score: 0.614
+   IMDb: 7.0
+   Director: Nagisa Ôshima
+
+232. Entre Nous (1983.0)
+   Predicted: 7.9/10 | Score: 0.614
+   IMDb: 7.0
+   Director: Diane Kurys
+
+487. Eoudong (1985.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+345. Er nu men (1986.0)
+   Predicted: 6.0/10 | Score: 0.381
+   IMDb: 0.0
+   Director: N/A
+
+506. Escape from Mogadishu (2021.0)
+   Predicted: 8.3/10 | Score: 0.635
+   IMDb: 7.0
+   Director: Ryoo Seung-wan
+
+488. Eunuch (1986.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+421. Even the Rain (2010.0)
+   Predicted: 8.0/10 | Score: 0.652
+   IMDb: 7.4
+   Director: Icíar Bollaín
+
+339. Fabian (1980.0)
+   Predicted: 6.8/10 | Score: 0.534
+   IMDb: 5.6
+   Director: Wolf Gremm
+
+140. Farewell Baghdad (2010.0)
+   Predicted: 7.3/10 | Score: 0.562
+   IMDb: 5.8
+   Director: Mehdi Naderi
+
+455. Fatal Exposure (1991.0)
+   Predicted: 6.6/10 | Score: 0.480
+   IMDb: 5.1
+   Director: Alan Metzger
+
+325. Faust (1960.0)
+   Predicted: 8.1/10 | Score: 0.635
+   IMDb: 7.4
+   Director: Peter Gorski, Gustaf Gründgens
+
+275. Fellini Satyricon (1969.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+91. Final Take: The Golden Age of Movies (1986.0)
+   Predicted: 7.8/10 | Score: 0.610
+   IMDb: 7.0
+   Director: Yôji Yamada
+
+146. Finding Farideh (2019.0)
+   Predicted: 6.2/10 | Score: 0.361
+   IMDb: 0.0
+   Director: Unknown
+
+313. Fire at Sea (2016.0)
+   Predicted: 7.7/10 | Score: 0.567
+   IMDb: 6.7
+   Director: Gianfranco Rosi
+
+65. Fires on the Plain (1959.0)
+   Predicted: 8.1/10 | Score: 0.642
+   IMDb: 7.9
+   Director: Kon Ichikawa
+
+341. Fitzcarraldo (1982.0)
+   Predicted: 8.2/10 | Score: 0.650
+   IMDb: 8.0
+   Director: Werner Herzog
+
+425. Flowers (2015.0)
+   Predicted: 7.3/10 | Score: 0.521
+   IMDb: 5.4
+   Director: Phil Stevens
+
+21. Forever Enthralled (2009.0)
+   Predicted: 5.4/10 | Score: 0.321
+   IMDb: 0.0
+   Director: Unknown
+
+519. Four Corners (2013.0)
+   Predicted: 7.5/10 | Score: 0.553
+   IMDb: 6.4
+   Director: Ian Gabriel
+
+458. Four Days in September (1997.0)
+   Predicted: 8.0/10 | Score: 0.654
+   IMDb: 7.4
+   Director: Bruno Barreto
+
+240. French Twist (1995.0)
+   Predicted: 7.6/10 | Score: 0.586
+   IMDb: 6.4
+   Director: Josiane Balasko
+
+127. Gabbeh (1997.0)
+   Predicted: 5.4/10 | Score: 0.319
+   IMDb: 0.0
+   Director: Unknown
+
+101. Gakkô II (1996.0)
+   Predicted: 7.9/10 | Score: 0.608
+   IMDb: 6.7
+   Director: Yôji Yamada
+
+514. Gangster's Paradise: Jerusalema (2008.0)
+   Predicted: 7.9/10 | Score: 0.622
+   IMDb: 7.3
+   Director: Ralph Ziman
+
+84. Gassan (1979.0)
+   Predicted: 5.9/10 | Score: 0.375
+   IMDb: 0.0
+   Director: Tetsutaro Murano
+
+60. Gate of Hell (1954.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+12. Genghis Khan (1998.0)
+   Predicted: 8.0/10 | Score: 0.610
+   IMDb: 6.6
+   Director: Mailisi, Saifu
+
+238. Germinal (1993.0)
+   Predicted: 7.9/10 | Score: 0.617
+   IMDb: 7.1
+   Director: Claude Berri
+
+209. Gervaise (1956.0)
+   Predicted: 8.1/10 | Score: 0.634
+   IMDb: 7.4
+   Director: René Clément
+
+227. Get Out Your Handkerchiefs (1978.0)
+   Predicted: 7.9/10 | Score: 0.612
+   IMDb: 6.9
+   Director: Bertrand Blier
+
+105. Go (2001.0)
+   Predicted: 8.2/10 | Score: 0.636
+   IMDb: 7.4
+   Director: Isao Yukisada
+
+27. Go Away Mr. Tumor (2015.0)
+   Predicted: 7.6/10 | Score: 0.558
+   IMDb: 6.5
+   Director: Yan Han
+
+304. Golden Door (2006.0)
+   Predicted: 7.9/10 | Score: 0.636
+   IMDb: 6.8
+   Director: Emanuele Crialese
+
+306. Gomorrah (2008.0)
+   Predicted: 7.8/10 | Score: 0.612
+   IMDb: 7.0
+   Director: Matteo Garrone
+
+90. Gray Sunset (1985.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+201. Gully Boy (2019.0)
+   Predicted: 8.1/10 | Score: 0.641
+   IMDb: 7.9
+   Director: Zoya Akhtar
+
+181. Guru (1997.0)
+   Predicted: 8.2/10 | Score: 0.660
+   IMDb: 8.5
+   Director: Rajiv Anchal
+
+389. Habla, mudita (1973.0)
+   Predicted: 7.4/10 | Score: 0.571
+   IMDb: 6.1
+   Director: Manuel Gutiérrez Aragón
+
+401. Half of Heaven (1986.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+192. Harishchandra's Factory (2009.0)
+   Predicted: 5.4/10 | Score: 0.321
+   IMDb: 0.0
+   Director: Unknown
+
+62. Harp of Burma (1956.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+175. Henna (1991.0)
+   Predicted: 7.3/10 | Score: 0.567
+   IMDb: 6.2
+   Director: Randhir Kapoor
+
+119. Her Love Boils Bathwater (2017.0)
+   Predicted: 6.1/10 | Score: 0.354
+   IMDb: 0.0
+   Director: Unknown
+
+184. Hey Ram (2000.0)
+   Predicted: 8.3/10 | Score: 0.677
+   IMDb: 8.0
+   Director: Kamal Haasan
+
+5. Hibiscus Town (1987.0)
+   Predicted: 8.2/10 | Score: 0.678
+   IMDb: 8.2
+   Director: Jin Xie
+
+30. Hidden Man (2018.0)
+   Predicted: 7.8/10 | Score: 0.596
+   IMDb: 6.4
+   Director: Wen Jiang
+
+405. High Heels (1991.0)
+   Predicted: 7.9/10 | Score: 0.613
+   IMDb: 7.0
+   Director: Pedro Almodóvar
+
+375. High Street (1957.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+42. His Wife's Diary (2000.0)
+   Predicted: 5.4/10 | Score: 0.319
+   IMDb: 0.0
+   Director: Unknown
+
+222. Hoa Binh (1970.0)
+   Predicted: 7.8/10 | Score: 0.618
+   IMDb: 7.3
+   Director: Raoul Coutard
+
+206. Homebound (2025.0)
+   Predicted: 7.0/10 | Score: 0.430
+   IMDb: 0.0
+   Director: Neeraj Ghaywan
+
+93. Hope and Pain (1988.0)
+   Predicted: 7.9/10 | Score: 0.612
+   IMDb: 6.9
+   Director: Yôji Yamada
+
+164. Hot Winds (1974.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+451. Hour of the Star (1986.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+16. House of Flying Daggers (2004.0)
+   Predicted: 8.2/10 | Score: 0.638
+   IMDb: 7.5
+   Director: Yimou Zhang
+
+44. House of Fools (2002.0)
+   Predicted: 7.9/10 | Score: 0.615
+   IMDb: 7.0
+   Director: Andrey Konchalovskiy
+
+441. How Tasty Was My Little Frenchman (1972.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+109. Hula Girls (2006.0)
+   Predicted: 7.9/10 | Score: 0.615
+   IMDb: 7.0
+   Director: Sang-il Lee
+
+311. Human Capital (2014.0)
+   Predicted: 6.0/10 | Score: 0.351
+   IMDb: 0.0
+   Director: Unknown
+
+329. Hunting Scenes from Bavaria (1969.0)
+   Predicted: 7.8/10 | Score: 0.617
+   IMDb: 7.3
+   Director: Peter Fleischmann
+
+110. I Just Didn't Do It (2007.0)
+   Predicted: 5.3/10 | Score: 0.314
+   IMDb: 0.0
+   Director: Unknown
+
+301. I'm Not Scared (2003.0)
+   Predicted: 8.2/10 | Score: 0.637
+   IMDb: 7.4
+   Director: Gabriele Salvatores
+
+132. I'm Taraneh, 15 (2002.0)
+   Predicted: 7.9/10 | Score: 0.617
+   IMDb: 7.1
+   Director: Rasoul Sadrameli
+
+372. I'm Your Man (2021.0)
+   Predicted: 8.2/10 | Score: 0.632
+   IMDb: 7.1
+   Director: Maria Schrader
+
+67. Immortal Love (1961.0)
+   Predicted: 7.9/10 | Score: 0.619
+   IMDb: 7.3
+   Director: Keisuke Kinoshita
+
+150. In the Arms of the Tree (2024.0)
+   Predicted: 6.3/10 | Score: 0.364
+   IMDb: 0.0
+   Director: Unknown
+
+369. In the Fade (2017.0)
+   Predicted: 8.2/10 | Score: 0.631
+   IMDb: 7.1
+   Director: Fatih Akin
+
+224. India Song (1975.0)
+   Predicted: 7.4/10 | Score: 0.573
+   IMDb: 6.1
+   Director: Marguerite Duras
+
+180. Indian (1996.0)
+   Predicted: 8.2/10 | Score: 0.652
+   IMDb: 8.1
+   Director: S. Shankar
+
+276. Investigation of a Citizen Above Suspicion (1970.0)
+   Predicted: 8.2/10 | Score: 0.648
+   IMDb: 8.0
+   Director: Elio Petri
+
+262. It Was Just an Accident (2025.0)
+   Predicted: 6.3/10 | Score: 0.364
+   IMDb: 0.0
+   Director: Jafar Panahi
+
+202. Jallikattu (2020.0)
+   Predicted: 6.3/10 | Score: 0.363
+   IMDb: 0.0
+   Director: Unknown
+
+407. Jean Renoir: Part One - From La Belle Époque to World War II (1993.0)
+   Predicted: 7.4/10 | Score: 0.561
+   IMDb: 7.0
+   Director: David M. Thompson
+
+182. Jeans (1998.0)
+   Predicted: 7.6/10 | Score: 0.589
+   IMDb: 6.5
+   Director: S. Shankar
+
+249. Joyeux Noël: La musique du film (2005.0)
+   Predicted: 7.9/10 | Score: 0.603
+   IMDb: 7.9
+   Director: David Dessites
+
+442. João and the Knife (1973.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+8. Ju Dou (1990.0)
+   Predicted: 8.2/10 | Score: 0.640
+   IMDb: 7.6
+   Director: Yimou Zhang, Fengliang Yang
+
+426. Julieta (2016.0)
+   Predicted: 8.1/10 | Score: 0.627
+   IMDb: 7.1
+   Director: Pedro Almodóvar
+
+521. Just the Two of Us (2015.0)
+   Predicted: 6.0/10 | Score: 0.352
+   IMDb: 0.0
+   Director: Jared Earland
+
+502. Juvenile Offender (2013.0)
+   Predicted: 6.0/10 | Score: 0.351
+   IMDb: 0.0
+   Director: Unknown
+
+85. Kagemusha: The Shadow Warrior (1980.0)
+   Predicted: 8.3/10 | Score: 0.675
+   IMDb: 7.9
+   Director: Akira Kurosawa
+
+267. Kapo (1960.0)
+   Predicted: 8.1/10 | Score: 0.639
+   IMDb: 7.6
+   Director: Gillo Pontecorvo
+
+433. Keeper of Promises (1962.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+496. King and the Clown (2006.0)
+   Predicted: 5.3/10 | Score: 0.313
+   IMDb: 0.0
+   Director: Unknown
+
+525. Knuckle City (2019.0)
+   Predicted: 7.6/10 | Score: 0.560
+   IMDb: 6.5
+   Director: Jahmil X.T. Qubeka
+
+123. Kokuho (2025.0)
+   Predicted: 7.0/10 | Score: 0.430
+   IMDb: 0.0
+   Director: Sang-il Lee
+
+75. Kuragejima, Legends From a Southern Island (1969.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+179. Kuruthipunal (1995.0)
+   Predicted: 8.2/10 | Score: 0.658
+   IMDb: 8.5
+   Director: P.C. Sreeram
+
+71. Kwaidan (1965.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+385. La Celestina (1969.0)
+   Predicted: 8.2/10 | Score: 0.658
+   IMDb: 8.4
+   Director: César Fernández Ardavín
+
+268. La Notte (1961.0)
+   Predicted: 8.1/10 | Score: 0.645
+   IMDb: 7.9
+   Director: Michelangelo Antonioni
+
+382. La Tía Tula (1965.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+390. La prima Angélica (1974.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+376. La venganza (1958.0)
+   Predicted: 7.8/10 | Score: 0.609
+   IMDb: 6.9
+   Director: Juan Antonio Bardem
+
+205. Laapataa Ladies (2024.0)
+   Predicted: 6.3/10 | Score: 0.364
+   IMDb: 0.0
+   Director: Unknown
+
+368. Labyrinth of Lies (2015.0)
+   Predicted: 6.0/10 | Score: 0.350
+   IMDb: 0.0
+   Director: Unknown
+
+185. Lagaan: Once Upon a Time in India (2001.0)
+   Predicted: 8.0/10 | Score: 0.644
+   IMDb: 8.1
+   Director: Ashutosh Gowariker
+
+72. Lake of Tears (1966.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+294. Lamerica (1994.0)
+   Predicted: 8.2/10 | Score: 0.637
+   IMDb: 7.4
+   Director: Gianni Amelio
+
+204. Last Film Show (2022.0)
+   Predicted: 6.3/10 | Score: 0.365
+   IMDb: 0.0
+   Director: Unknown
+
+466. Last Stop 174 (2008.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+214. Last Year at Marienbad (1961.0)
+   Predicted: 8.1/10 | Score: 0.636
+   IMDb: 7.6
+   Director: Alain Resnais
+
+66. Late Autumn (1960.0)
+   Predicted: 8.0/10 | Score: 0.640
+   IMDb: 7.9
+   Director: Yasujirô Ozu
+
+31. Leap (2020.0)
+   Predicted: 8.1/10 | Score: 0.618
+   IMDb: 6.6
+   Director: Peter Ho-Sun Chan
+
+197. Liar's Dice (2014.0)
+   Predicted: 6.0/10 | Score: 0.351
+   IMDb: 0.0
+   Director: Unknown
+
+3. Life (1984.0)
+   Predicted: 8.1/10 | Score: 0.644
+   IMDb: 8.0
+   Director: Tian-Ming Wu
+
+490. Life and Death of the Hollywood Kid (1994.0)
+   Predicted: 7.8/10 | Score: 0.616
+   IMDb: 7.2
+   Director: Jeong Ji-yeong
+
+516. Life, Above All (2010.0)
+   Predicted: 8.1/10 | Score: 0.625
+   IMDb: 7.1
+   Director: Oliver Schmitz
+
+191. Like Stars on Earth (2008.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+340. Lili Marleen (1981.0)
+   Predicted: 7.9/10 | Score: 0.617
+   IMDb: 7.1
+   Director: Rainer Werner Fassbinder
+
+518. Little One (2012.0)
+   Predicted: 6.7/10 | Score: 0.414
+   IMDb: 0.0
+   Director: Leo West
+
+472. Little Secret (2016.0)
+   Predicted: 8.2/10 | Score: 0.639
+   IMDb: 7.4
+   Director: David Schurmann
+
+219. Live for Life (1967.0)
+   Predicted: 7.6/10 | Score: 0.586
+   IMDb: 6.4
+   Director: Claude Lelouch
+
+380. Los Tarantos (1963.0)
+   Predicted: 7.7/10 | Score: 0.603
+   IMDb: 7.0
+   Director: Francisco Rovira Beleta
+
+403. Love, Hate and Death (1989.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+13. Lover's Grief Over the Yellow River (1999.0)
+   Predicted: 7.5/10 | Score: 0.582
+   IMDb: 6.3
+   Director: Xiaoning Feng
+
+468. Lula, Son of Brazil (2010.0)
+   Predicted: 5.6/10 | Score: 0.331
+   IMDb: 0.0
+   Director: Unknown
+
+137. M for Mother (2007.0)
+   Predicted: 5.3/10 | Score: 0.314
+   IMDb: 0.0
+   Director: Unknown
+
+89. MacArthur's Children (1984.0)
+   Predicted: 7.8/10 | Score: 0.610
+   IMDb: 6.9
+   Director: Masahiro Shinoda
+
+287. Macaroni (1985.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+414. Mad Love (2001.0)
+   Predicted: 7.7/10 | Score: 0.621
+   IMDb: 6.5
+   Director: Vicente Aranda
+
+98. Madadayo (1993.0)
+   Predicted: 7.9/10 | Score: 0.622
+   IMDb: 7.3
+   Director: Akira Kurosawa, Ishirô Honda
+
+226. Madame Rosa (1977.0)
+   Predicted: 7.8/10 | Score: 0.616
+   IMDb: 7.2
+   Director: Moshé Mizrahi
+
+152. Madhumati (1958.0)
+   Predicted: 7.9/10 | Score: 0.601
+   IMDb: 7.8
+   Director: Bimal Roy
+
+111. Making of 'Nobody to Watch Over Me' (2009.0)
+   Predicted: 5.4/10 | Score: 0.321
+   IMDb: 0.0
+   Director: N/A
+
+395. Mama Turns a Hundred (1979.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+343. Man Under Suspicion (1984.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+165. Manthan (1977.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+511. Mapantsula (1989.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+271. Marriage Italian Style (1965.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+387. Marta (1971.0)
+   Predicted: 7.3/10 | Score: 0.569
+   IMDb: 6.1
+   Director: José Antonio Nieves Conde
+
+489. Mayumi (1990.0)
+   Predicted: 6.5/10 | Score: 0.498
+   IMDb: 4.7
+   Director: Shin Sang-ok
+
+460. Me You Them (2000.0)
+   Predicted: 7.8/10 | Score: 0.610
+   IMDb: 7.0
+   Director: Andrucha Waddington
+
+258. Memoir of War (2018.0)
+   Predicted: 6.2/10 | Score: 0.359
+   IMDb: 0.0
+   Director: Unknown
+
+450. Memoirs of Prison (1984.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+155. Metropolis (1963.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+41. Moloch (1999.0)
+   Predicted: 7.9/10 | Score: 0.608
+   IMDb: 6.7
+   Director: Aleksandr Sokurov
+
+415. Mondays in the Sun (2002.0)
+   Predicted: 8.1/10 | Score: 0.636
+   IMDb: 7.5
+   Director: Fernando León de Aranoa
+
+207. Monsieur Vincent (1948.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+439. Mortal Sin (1970.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+498. Mother (2009.0)
+   Predicted: 8.2/10 | Score: 0.645
+   IMDb: 7.7
+   Director: Bong Joon Ho
+
+82. Mt. Hakkoda (1977.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+86. Muddy River (1981.0)
+   Predicted: 8.2/10 | Score: 0.648
+   IMDb: 7.9
+   Director: Kôhei Oguri
+
+143. Muhammad: The Messenger of God (2015.0)
+   Predicted: 8.0/10 | Score: 0.649
+   IMDb: 7.3
+   Director: Majid Majidi
+
+486. Mulleya Mulleya (1984.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+529. Music Is My Life - Joseph Shabalala and Ladysmith Black Mambazo (2023.0)
+   Predicted: 6.2/10 | Score: 0.361
+   IMDb: 0.0
+   Director: Carolyn Carew, Phumelelo Supa Mbele
+
+528. Music Is My Life – Dr. Joseph Shabalala (2023.0)
+   Predicted: 6.3/10 | Score: 0.365
+   IMDb: 0.0
+   Director: Unknown
+
+485. Mute Samyong (1973.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+388. My Dearest Senorita (1972.0)
+   Predicted: 7.8/10 | Score: 0.612
+   IMDb: 7.1
+   Director: Jaime de Armiñán
+
+296. My Generation (1996.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+2. My Memories of Old Beijing (1983.0)
+   Predicted: 8.1/10 | Score: 0.641
+   IMDb: 7.7
+   Director: Yigong Wu
+
+480. My Mother and the Roomer (1962.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+221. My Night with Maud (1969.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+211. My Uncle (1958.0)
+   Predicted: 7.6/10 | Score: 0.584
+   IMDb: 7.7
+   Director: Jacques Tati
+
+118. Nagasaki: Memories of My Son (2016.0)
+   Predicted: 6.0/10 | Score: 0.349
+   IMDb: 0.0
+   Director: Unknown
+
+171. Nayakan (1987.0)
+   Predicted: 8.1/10 | Score: 0.659
+   IMDb: 8.7
+   Director: Mani Ratnam
+
+471. Neighbouring Sounds (2013.0)
+   Predicted: 6.0/10 | Score: 0.351
+   IMDb: 0.0
+   Director: Unknown
+
+370. Never Look Away (2018.0)
+   Predicted: 8.2/10 | Score: 0.642
+   IMDb: 7.7
+   Director: Florian Henckel von Donnersmarck
+
+199. Newton (2017.0)
+   Predicted: 8.2/10 | Score: 0.643
+   IMDb: 7.6
+   Director: Amit Masurkar
+
+33. Nice View (2022.0)
+   Predicted: 8.3/10 | Score: 0.631
+   IMDb: 6.7
+   Director: Muye Wen
+
+45. Night Watch (2004.0)
+   Predicted: 7.0/10 | Score: 0.530
+   IMDb: 6.4
+   Director: Timur Bekmambetov
+
+145. No Date, No Signature (2018.0)
+   Predicted: 6.2/10 | Score: 0.359
+   IMDb: 0.0
+   Director: Unknown
+
+509. No Other Choice (2025.0)
+   Predicted: 7.1/10 | Score: 0.435
+   IMDb: 0.0
+   Director: Park Chan-wook
+
+357. No Place to Go (2000.0)
+   Predicted: 5.4/10 | Score: 0.319
+   IMDb: 0.0
+   Director: Unknown
+
+522. Noem My Skollie: Call Me Thief (2016.0)
+   Predicted: 8.2/10 | Score: 0.640
+   IMDb: 7.5
+   Director: Daryne Joshua
+
+319. Nostalgia (2022.0)
+   Predicted: 8.5/10 | Score: 0.638
+   IMDb: 6.7
+   Director: Mario Martone
+
+298. Not of This World (1999.0)
+   Predicted: 7.8/10 | Score: 0.614
+   IMDb: 7.2
+   Director: Giuseppe Piccioni
+
+317. Notturno (2020.0)
+   Predicted: 7.9/10 | Score: 0.578
+   IMDb: 6.6
+   Director: Gianfranco Rosi
+
+456. O Quatrilho (1995.0)
+   Predicted: 7.8/10 | Score: 0.604
+   IMDb: 6.8
+   Director: Fábio Barreto
+
+330. O.K. (1970.0)
+   Predicted: 7.8/10 | Score: 0.610
+   IMDb: 7.1
+   Director: Michael Verhoeven
+
+493. Oasis (2002.0)
+   Predicted: 8.2/10 | Score: 0.646
+   IMDb: 7.8
+   Director: Lee Chang-dong
+
+417. Obaba (2005.0)
+   Predicted: 7.6/10 | Score: 0.586
+   IMDb: 6.4
+   Director: Montxo Armendáriz
+
+253. Of Gods and Men (2010.0)
+   Predicted: 8.0/10 | Score: 0.647
+   IMDb: 7.2
+   Director: Xavier Beauvois
+
+530. Old Righteous Blues (2024.0)
+   Predicted: 7.0/10 | Score: 0.430
+   IMDb: 0.0
+   Director: Muneera Sallies
+
+462. Olga (2004.0)
+   Predicted: 7.6/10 | Score: 0.612
+   IMDb: 6.5
+   Director: Jayme Monjardim
+
+333. One or the Other of Us (1974.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+87. Onimasa (1982.0)
+   Predicted: 7.8/10 | Score: 0.609
+   IMDb: 6.9
+   Director: Hideo Gosha
+
+291. Open Doors (1990.0)
+   Predicted: 8.0/10 | Score: 0.621
+   IMDb: 7.1
+   Director: Gianni Amelio
+
+459. Orfeu (1999.0)
+   Predicted: 6.7/10 | Score: 0.527
+   IMDb: 5.5
+   Director: Carlos Diegues
+
+114. Our Homeland (2012.0)
+   Predicted: 8.1/10 | Score: 0.628
+   IMDb: 7.2
+   Director: Yong-hi Yang
+
+106. Out (2002.0)
+   Predicted: 6.8/10 | Score: 0.511
+   IMDb: 6.1
+   Director: Hideyuki Hirayama
+
+512. Paljas (1997.0)
+   Predicted: 8.2/10 | Score: 0.637
+   IMDb: 7.4
+   Director: Katinka Heyns
+
+533. Paradise (2016.0)
+   Predicted: 8.1/10 | Score: 0.625
+   IMDb: 7.0
+   Director: Andrey Konchalovskiy
+
+173. Parinda (1989.0)
+   Predicted: 8.3/10 | Score: 0.651
+   IMDb: 7.8
+   Director: Vidhu Vinod Chopra
+
+396. Patrimonio nacional (1981.0)
+   Predicted: 7.4/10 | Score: 0.561
+   IMDb: 7.0
+   Director: Luis García Berlanga
+
+167. Payal Ki Jhankaar (1980.0)
+   Predicted: 6.8/10 | Score: 0.508
+   IMDb: 5.9
+   Director: Satyen Bose
+
+203. Pebbles (2021.0)
+   Predicted: 8.0/10 | Score: 0.617
+   IMDb: 6.9
+   Director: P.S. Vinothraj
+
+193. Peepli [Live] (2010.0)
+   Predicted: 8.1/10 | Score: 0.635
+   IMDb: 7.4
+   Director: Anusha Rizvi, Mahmood Farooqui
+
+478. Pictures of Ghosts (2023.0)
+   Predicted: 7.8/10 | Score: 0.595
+   IMDb: 7.7
+   Director: Kleber Mendonça Filho
+
+501. Pieta (2012.0)
+   Predicted: 8.1/10 | Score: 0.628
+   IMDb: 7.1
+   Director: Kim Ki-duk
+
+364. Pina (2011.0)
+   Predicted: 7.5/10 | Score: 0.579
+   IMDb: 7.6
+   Director: Wim Wenders
+
+449. Pixote (1981.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+378. Placido (1961.0)
+   Predicted: 8.0/10 | Score: 0.638
+   IMDb: 7.8
+   Director: Luis García Berlanga
+
+121. Plan 75 (2022.0)
+   Predicted: 8.5/10 | Score: 0.635
+   IMDb: 6.6
+   Director: Chie Hayakawa
+
+391. Poachers (1975.0)
+   Predicted: 8.0/10 | Score: 0.630
+   IMDb: 7.4
+   Director: José Luis Borau
+
+350. Poetic Justice (1993.0)
+   Predicted: 7.3/10 | Score: 0.568
+   IMDb: 6.1
+   Director: John Singleton
+
+99. Pom Poko (1994.0)
+   Predicted: 7.7/10 | Score: 0.610
+   IMDb: 7.2
+   Director: Isao Takahata
+
+103. Poppoya (1999.0)
+   Predicted: 5.4/10 | Score: 0.319
+   IMDb: 0.0
+   Director: Unknown
+
+73. Portrait of Chieko (1967.0)
+   Predicted: 7.9/10 | Score: 0.620
+   IMDb: 7.3
+   Director: Noboru Nakamura
+
+113. Postcard of Paris (2011.0)
+   Predicted: 5.8/10 | Score: 0.342
+   IMDb: 0.0
+   Director: Ashley Neuhof
+
+440. Pra Quem Fica, Tchau (1971.0)
+   Predicted: 6.6/10 | Score: 0.488
+   IMDb: 5.3
+   Director: Reginaldo Faria
+
+39. Prisoner of the Mountains (1996.0)
+   Predicted: 8.1/10 | Score: 0.636
+   IMDb: 7.5
+   Director: Sergei Bodrov
+
+477. Private Desert (2021.0)
+   Predicted: 8.3/10 | Score: 0.635
+   IMDb: 7.0
+   Director: Aly Muritiba
+
+392. Raise Ravens (1976.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+223. Ramparts of Clay (1971.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+189. Rang De Basanti (2006.0)
+   Predicted: 8.2/10 | Score: 0.651
+   IMDb: 8.1
+   Director: Rakeysh Omprakash Mehra
+
+11. Red Cherry (1995.0)
+   Predicted: 7.8/10 | Score: 0.612
+   IMDb: 7.0
+   Director: Daying Ye
+
+6. Red Sorghum (1988.0)
+   Predicted: 7.9/10 | Score: 0.644
+   IMDb: 7.3
+   Director: Yimou Zhang
+
+255. Renoir (2013.0)
+   Predicted: 6.0/10 | Score: 0.351
+   IMDb: 0.0
+   Director: Unknown
+
+161. Reshma Aur Shera (1971.0)
+   Predicted: 7.6/10 | Score: 0.588
+   IMDb: 6.5
+   Director: Sunil Dutt
+
+96. Rhapsody in August (1991.0)
+   Predicted: 7.8/10 | Score: 0.614
+   IMDb: 7.2
+   Director: Akira Kurosawa
+
+482. Rice (1966.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+188. Riddle of the Polar Sky (2005.0)
+   Predicted: 7.6/10 | Score: 0.573
+   IMDb: 7.1
+   Director: Mark Johnston
+
+241. Ridicule (1996.0)
+   Predicted: 7.7/10 | Score: 0.634
+   IMDb: 7.3
+   Director: Patrice Leconte
+
+213. Rien que la vérité (1960.0)
+   Predicted: 5.2/10 | Score: 0.311
+   IMDb: 0.0
+   Director: Albert Riéra
+
+94. Rikyu (1989.0)
+   Predicted: 7.9/10 | Score: 0.640
+   IMDb: 7.1
+   Director: Hiroshi Teshigahara
+
+177. Rudaali (1993.0)
+   Predicted: 8.2/10 | Score: 0.637
+   IMDb: 7.4
+   Director: Kalpana Lajmi
+
+355. Run Lola Run (1998.0)
+   Predicted: 7.3/10 | Score: 0.566
+   IMDb: 7.6
+   Director: Tom Tykwer
+
+169. Saagar (1985.0)
+   Predicted: 7.9/10 | Score: 0.611
+   IMDb: 6.9
+   Director: Ramesh Sippy
+
+168. Saaransh (1984.0)
+   Predicted: 8.2/10 | Score: 0.650
+   IMDb: 8.1
+   Director: Mahesh Bhatt
+
+154. Sahib Bibi Aur Ghulam (1962.0)
+   Predicted: 8.1/10 | Score: 0.647
+   IMDb: 8.1
+   Director: Abrar Alvi
+
+256. Saint Laurent (2014.0)
+   Predicted: 7.7/10 | Score: 0.587
+   IMDb: 6.1
+   Director: Bertrand Bonello
+
+260. Saint Omer (2022.0)
+   Predicted: 8.4/10 | Score: 0.638
+   IMDb: 6.8
+   Director: Alice Diop
+
+172. Salaam Bombay! (1988.0)
+   Predicted: 8.2/10 | Score: 0.646
+   IMDb: 7.9
+   Director: Mira Nair
+
+61. Samurai, The Legend of Musashi (1955.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+81. Sandakan No. 8 (1975.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+430. Saturn Return (2024.0)
+   Predicted: 8.4/10 | Score: 0.637
+   IMDb: 6.8
+   Director: Isaki Lacuesta, Pol Rodríguez
+
+163. Saudagar (1973.0)
+   Predicted: 8.2/10 | Score: 0.638
+   IMDb: 7.4
+   Director: Sudhendu Roy
+
+349. Schtonk (1992.0)
+   Predicted: 7.4/10 | Score: 0.566
+   IMDb: 7.2
+   Director: Helmut Dietl
+
+503. Sea Fog (2014.0)
+   Predicted: 8.1/10 | Score: 0.622
+   IMDb: 6.8
+   Director: Sung-bo Shim
+
+497. Secret Sunshine (2007.0)
+   Predicted: 8.2/10 | Score: 0.638
+   IMDb: 7.5
+   Director: Lee Chang-dong
+
+411. Secrets of the Heart (1997.0)
+   Predicted: 7.8/10 | Score: 0.611
+   IMDb: 7.0
+   Director: Montxo Armendáriz
+
+279. Seven Beauties (1976.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+524. Sew the Winter to My Skin (2018.0)
+   Predicted: 7.1/10 | Score: 0.515
+   IMDb: 5.4
+   Director: Jahmil X.T. Qubeka
+
+263. Shoeshine (1947.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+431. Sirât (2025.0)
+   Predicted: 8.2/10 | Score: 0.636
+   IMDb: 7.3
+   Director: Oliver Laxe
+
+135. So Close, So Far (2005.0)
+   Predicted: 8.2/10 | Score: 0.639
+   IMDb: 7.5
+   Director: Reza Mirkarimi
+
+233. So Long, Stooge (1984.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+534. Sobibor (2018.0)
+   Predicted: 8.1/10 | Score: 0.636
+   IMDb: 6.4
+   Director: Konstantin Khabensky
+
+416. Soldiers of Salamis (2003.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+394. Somnambulists (1978.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+360. Sophie Scholl: The Final Days (2005.0)
+   Predicted: 8.2/10 | Score: 0.642
+   IMDb: 7.6
+   Director: Marc Rothemund
+
+373. Sound of Falling (2025.0)
+   Predicted: 7.0/10 | Score: 0.431
+   IMDb: 0.0
+   Director: Mascha Schilinski
+
+384. Spain Again (1968.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+347. Spider's Web As Germany (1989.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+53. Stalingrad (2013.0)
+   Predicted: 7.4/10 | Score: 0.562
+   IMDb: 5.7
+   Director: Fedor Bondarchuk
+
+220. Stolen Kisses (1968.0)
+   Predicted: 8.1/10 | Score: 0.634
+   IMDb: 7.5
+   Director: François Truffaut
+
+452. Subway to the Stars (1987.0)
+   Predicted: 7.7/10 | Score: 0.593
+   IMDb: 6.5
+   Director: Carlos Diegues, Tereza Gonzalez
+
+427. Summer 1993 (2017.0)
+   Predicted: 8.1/10 | Score: 0.626
+   IMDb: 7.1
+   Director: Carla Simón
+
+288. Summer Night with Greek Profile, Almond Eyes and Scent of Basil (1986.0)
+   Predicted: 6.5/10 | Score: 0.491
+   IMDb: 5.8
+   Director: Lina Wertmüller
+
+147. Sun Children (2020.0)
+   Predicted: 8.1/10 | Score: 0.626
+   IMDb: 7.1
+   Director: Majid Majidi
+
+215. Sundays and Cybèle (1962.0)
+   Predicted: 8.2/10 | Score: 0.647
+   IMDb: 7.8
+   Director: Serge Bourguignon
+
+532. Sunstroke (2015.0)
+   Predicted: 6.8/10 | Score: 0.417
+   IMDb: 0.0
+   Director: Jarno Lindemark
+
+170. Swathi Muthyam (1986.0)
+   Predicted: 8.0/10 | Score: 0.651
+   IMDb: 8.5
+   Director: K. Viswanath
+
+435. São Paulo, Incorporated (1965.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+494. Taegukgi (2004.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+446. Tent of Miracles (1977.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+309. Terraferma (2011.0)
+   Predicted: 7.8/10 | Score: 0.603
+   IMDb: 6.7
+   Director: Emanuele Crialese
+
+393. That Obscure Object of Desire (1977.0)
+   Predicted: 8.2/10 | Score: 0.644
+   IMDb: 7.8
+   Director: Luis Buñuel
+
+505. The Age of Shadows (2016.0)
+   Predicted: 7.9/10 | Score: 0.609
+   IMDb: 7.1
+   Director: Kim Jee-woon
+
+336. The American Friend (1977.0)
+   Predicted: 8.2/10 | Score: 0.638
+   IMDb: 7.4
+   Director: Wim Wenders
+
+437. The Amorous Ones (1968.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+444. The Amulet of Ogum (1975.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+362. The Baader Meinhof Complex (2008.0)
+   Predicted: 7.3/10 | Score: 0.561
+   IMDb: 7.3
+   Director: Uli Edel
+
+64. The Ballad of Narayama (1958.0)
+   Predicted: 8.1/10 | Score: 0.642
+   IMDb: 7.8
+   Director: Keisuke Kinoshita
+
+40. The Barber of Siberia (1998.0)
+   Predicted: 8.0/10 | Score: 0.657
+   IMDb: 7.7
+   Director: Nikita Mikhalkov
+
+272. The Battle of Algiers (1966.0)
+   Predicted: 8.2/10 | Score: 0.651
+   IMDb: 8.1
+   Director: Gillo Pontecorvo
+
+297. The Best Man (1997.0)
+   Predicted: 7.3/10 | Score: 0.565
+   IMDb: 6.1
+   Director: Pupi Avati
+
+264. The Bicycle Thief (1949.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+7. The Birth of New China (1989.0)
+   Predicted: 6.9/10 | Score: 0.556
+   IMDb: 5.3
+   Director: Qiankuan Li, Guiyun Xiao
+
+419. The Blind Sunflowers (2008.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+187. The Breath (2004.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+324. The Bridge (1959.0)
+   Predicted: 8.2/10 | Score: 0.673
+   IMDb: 8.0
+   Director: Bernhard Wicki
+
+322. The Captain of Köpenick (1956.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+166. The Chess Players (1978.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+248. The Chorus (2004.0)
+   Predicted: 8.2/10 | Score: 0.647
+   IMDb: 7.8
+   Director: Christophe Barratier
+
+251. The Class (2008.0)
+   Predicted: 8.1/10 | Score: 0.637
+   IMDb: 7.5
+   Director: Laurent Cantet
+
+335. The Clown (1976.0)
+   Predicted: 7.7/10 | Score: 0.601
+   IMDb: 6.7
+   Director: Vojtech Jasný
+
+470. The Clown Statue (2012.0)
+   Predicted: 6.0/10 | Score: 0.349
+   IMDb: 0.0
+   Director: Aaron Mirtes
+
+129. The Color of Paradise (1999.0)
+   Predicted: 8.1/10 | Score: 0.649
+   IMDb: 8.1
+   Director: Majid Majidi
+
+124. The Cycle (1977.0)
+   Predicted: 8.2/10 | Score: 0.638
+   IMDb: 7.4
+   Director: Dariush Mehrjui
+
+420. The Dancer and the Thief (2009.0)
+   Predicted: 7.6/10 | Score: 0.584
+   IMDb: 6.1
+   Director: Fernando Trueba
+
+243. The Dreamlife of Angels (1998.0)
+   Predicted: 8.2/10 | Score: 0.637
+   IMDb: 7.4
+   Director: Erick Zonca
+
+481. The Dumb Samyong (1964.0)
+   Predicted: 7.5/10 | Score: 0.591
+   IMDb: 6.8
+   Director: Shin Sang-ok
+
+50. The Edge (2010.0)
+   Predicted: 8.0/10 | Score: 0.636
+   IMDb: 6.5
+   Director: Aleksey Uchitel
+
+361. The Edge of Heaven (2007.0)
+   Predicted: 8.2/10 | Score: 0.644
+   IMDb: 7.7
+   Director: Fatih Akin
+
+428. The Endless Trench (2020.0)
+   Predicted: 6.3/10 | Score: 0.363
+   IMDb: 0.0
+   Director: Unknown
+
+334. The Enigma of Kaspar Hauser (1975.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+358. The Experiment (2001.0)
+   Predicted: 8.1/10 | Score: 0.641
+   IMDb: 7.7
+   Director: Oliver Hirschbiegel
+
+289. The Family (1987.0)
+   Predicted: 8.2/10 | Score: 0.638
+   IMDb: 7.4
+   Director: Ettore Scola
+
+406. The Fencing Master (1992.0)
+   Predicted: 7.6/10 | Score: 0.616
+   IMDb: 6.7
+   Director: Pedro Olea
+
+216. The Fire Within (1963.0)
+   Predicted: 8.2/10 | Score: 0.647
+   IMDb: 7.8
+   Director: Louis Malle
+
+308. The First Beautiful Thing (2010.0)
+   Predicted: 7.9/10 | Score: 0.614
+   IMDb: 7.0
+   Director: Paolo Virzì
+
+409. The Flower of My Secret (1995.0)
+   Predicted: 7.8/10 | Score: 0.608
+   IMDb: 7.0
+   Director: Pedro Almodóvar
+
+23. The Flowers of War (2011.0)
+   Predicted: 8.0/10 | Score: 0.656
+   IMDb: 7.5
+   Director: Yimou Zhang
+
+80. The Fossil (1974.0)
+   Predicted: 8.2/10 | Score: 0.638
+   IMDb: 7.5
+   Director: Masaki Kobayashi
+
+269. The Four Days of Naples (1962.0)
+   Predicted: 8.2/10 | Score: 0.640
+   IMDb: 7.6
+   Director: Nanni Loy
+
+500. The Front Line (2011.0)
+   Predicted: 8.0/10 | Score: 0.651
+   IMDb: 7.3
+   Director: Hun Jang
+
+277. The Garden of the Finzi-Continis (1971.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+210. The Gates of Paris (1957.0)
+   Predicted: 7.8/10 | Score: 0.614
+   IMDb: 7.1
+   Director: René Clair
+
+381. The Girl in Mourning (1964.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+274. The Girl with the Pistol (1968.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+337. The Glass Cell (1978.0)
+   Predicted: 7.6/10 | Score: 0.591
+   IMDb: 6.6
+   Director: Hans W. Geissendörfer
+
+196. The Good Road (2013.0)
+   Predicted: 8.0/10 | Score: 0.599
+   IMDb: 6.0
+   Director: Gyan Correa
+
+412. The Grandfather (1998.0)
+   Predicted: 7.9/10 | Score: 0.620
+   IMDb: 7.3
+   Director: José Luis Garci
+
+474. The Great Mystical Circus (2018.0)
+   Predicted: 7.7/10 | Score: 0.568
+   IMDb: 5.2
+   Director: Carlos Diegues
+
+115. The Great Passage (2013.0)
+   Predicted: 8.1/10 | Score: 0.633
+   IMDb: 7.3
+   Director: Yûya Ishii
+
+293. The Great Pumpkin (1993.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+266. The Great War (1959.0)
+   Predicted: 8.0/10 | Score: 0.643
+   IMDb: 8.1
+   Director: Mario Monicelli
+
+156. The Guide (1965.0)
+   Predicted: 6.0/10 | Score: 0.382
+   IMDb: 0.0
+   Director: Tad Danielewski
+
+318. The Hand of God (2021.0)
+   Predicted: 8.3/10 | Score: 0.640
+   IMDb: 7.3
+   Director: Paolo Sorrentino
+
+531. The Heart Is a Muscle (2025.0)
+   Predicted: 6.9/10 | Score: 0.426
+   IMDb: 0.0
+   Director: Imran Hamdulay
+
+299. The Hundred Steps (2000.0)
+   Predicted: 5.4/10 | Score: 0.319
+   IMDb: 0.0
+   Director: Unknown
+
+475. The Invisible Life of Eurídice Gusmão (2019.0)
+   Predicted: 6.2/10 | Score: 0.361
+   IMDb: 0.0
+   Director: Unknown
+
+46. The Italian (2005.0)
+   Predicted: 8.1/10 | Score: 0.637
+   IMDb: 7.5
+   Director: Andrey Kravchuk
+
+302. The Keys to the House (2004.0)
+   Predicted: 7.9/10 | Score: 0.618
+   IMDb: 7.1
+   Director: Gianni Amelio
+
+327. The Knack... and How to Get It (1965.0)
+   Predicted: 7.0/10 | Score: 0.526
+   IMDb: 6.3
+   Director: Richard Lester
+
+158. The Last Letter (1967.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+229. The Last Metro (1980.0)
+   Predicted: 7.9/10 | Score: 0.622
+   IMDb: 7.3
+   Director: François Truffaut
+
+290. The Legend of the Holy Drinker (1988.0)
+   Predicted: 7.9/10 | Score: 0.618
+   IMDb: 7.1
+   Director: Ermanno Olmi
+
+116. The Light Shines Only There (2014.0)
+   Predicted: 8.1/10 | Score: 0.616
+   IMDb: 6.6
+   Director: Mipo Oh
+
+48. The Little Mermaid: Ariel's Beginning (2008.0)
+   Predicted: 7.5/10 | Score: 0.578
+   IMDb: 6.2
+   Director: Peggy Holmes
+
+447. The Lyre of Delight (1978.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+326. The Miracle of Father Malachia (1961.0)
+   Predicted: 7.5/10 | Score: 0.569
+   IMDb: 7.3
+   Director: Bernhard Wicki
+
+348. The Nasty Girl (1990.0)
+   Predicted: 7.8/10 | Score: 0.638
+   IMDb: 7.3
+   Director: Michael Verhoeven
+
+149. The Night Guardian (2023.0)
+   Predicted: 6.3/10 | Score: 0.365
+   IMDb: 0.0
+   Director: Unknown
+
+284. The Night of the Shooting Stars (1982.0)
+   Predicted: 8.0/10 | Score: 0.622
+   IMDb: 7.2
+   Director: Paolo Taviani, Vittorio Taviani
+
+26. The Nightingale (2014.0)
+   Predicted: 6.0/10 | Score: 0.351
+   IMDb: 0.0
+   Director: Unknown
+
+97. The Oil-Hell Murder (1992.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+484. The Old Craftsman of Jar (1969.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+418. The Orphanage (2007.0)
+   Predicted: 8.2/10 | Score: 0.637
+   IMDb: 7.4
+   Director: J.A. Bayona
+
+141. The Past (2013.0)
+   Predicted: 8.2/10 | Score: 0.646
+   IMDb: 7.7
+   Director: Asghar Farhadi
+
+332. The Pedestrian (1973.0)
+   Predicted: 7.7/10 | Score: 0.597
+   IMDb: 6.7
+   Director: Maximilian Schell
+
+351. The Promise (1994.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+43. The Romanovs: An Imperial Family (2001.0)
+   Predicted: 5.4/10 | Score: 0.319
+   IMDb: 0.0
+   Director: Unknown
+
+74. The Sands of Kurobe (1968.0)
+   Predicted: 7.8/10 | Score: 0.610
+   IMDb: 7.0
+   Director: Kei Kumai
+
+76. The Scandalous Adventures of Buraikan (1970.0)
+   Predicted: 7.7/10 | Score: 0.603
+   IMDb: 6.8
+   Director: Masahiro Shinoda
+
+443. The Scarecrow's Night (1974.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+479. The Secret Agent (2025.0)
+   Predicted: 6.3/10 | Score: 0.364
+   IMDb: 0.0
+   Director: Unknown
+
+278. The Secret Diary of Amarcord (1974.0)
+   Predicted: 7.5/10 | Score: 0.569
+   IMDb: 7.1
+   Director: Maurizio Mein
+
+35. The Sinking of the Lisbon Maru (2024.0)
+   Predicted: 6.3/10 | Score: 0.364
+   IMDb: 0.0
+   Director: Unknown
+
+300. The Son's Room (2001.0)
+   Predicted: 7.8/10 | Score: 0.617
+   IMDb: 7.3
+   Director: Nanni Moretti
+
+138. The Song of Sparrows (2008.0)
+   Predicted: 8.3/10 | Score: 0.651
+   IMDb: 7.8
+   Director: Majid Majidi
+
+9. The Spring Festival (1991.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+295. The Star Maker (1995.0)
+   Predicted: 8.2/10 | Score: 0.637
+   IMDb: 7.4
+   Director: Giuseppe Tornatore
+
+95. The Sting of Death (1990.0)
+   Predicted: 7.9/10 | Score: 0.609
+   IMDb: 6.8
+   Director: Kôhei Oguri
+
+292. The Stolen Children (1992.0)
+   Predicted: 8.2/10 | Score: 0.642
+   IMDb: 7.6
+   Director: Gianni Amelio
+
+453. The Story of Fausta (1988.0)
+   Predicted: 7.5/10 | Score: 0.577
+   IMDb: 6.2
+   Director: Bruno Barreto
+
+245. The Taste of Others (2000.0)
+   Predicted: 7.8/10 | Score: 0.614
+   IMDb: 7.2
+   Director: Agnès Jaoui
+
+261. The Taste of Things (2023.0)
+   Predicted: 8.2/10 | Score: 0.662
+   IMDb: 7.4
+   Director: Anh Hung Tran
+
+504. The Throne (2015.0)
+   Predicted: 8.1/10 | Score: 0.651
+   IMDb: 7.1
+   Director: Lee Joon-ik
+
+338. The Tin Drum (1979.0)
+   Predicted: 8.2/10 | Score: 0.638
+   IMDb: 7.4
+   Director: Volker Schlöndorff
+
+316. The Traitor (2019.0)
+   Predicted: 8.2/10 | Score: 0.630
+   IMDb: 7.1
+   Director: Marco Bellocchio
+
+107. The Twilight Samurai (2003.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+217. The Umbrellas of Cherbourg (1964.0)
+   Predicted: 8.2/10 | Score: 0.644
+   IMDb: 7.8
+   Director: Jacques Demy
+
+305. The Unknown Woman (2007.0)
+   Predicted: 5.3/10 | Score: 0.314
+   IMDb: 0.0
+   Director: Unknown
+
+208. The Walls of Malapaga (1950.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+34. The Wandering Earth 2 (2023.0)
+   Predicted: 6.3/10 | Score: 0.365
+   IMDb: 0.0
+   Director: Unknown
+
+126. The White Balloon (1995.0)
+   Predicted: 8.0/10 | Score: 0.632
+   IMDb: 7.6
+   Director: Jafar Panahi
+
+400. The Witching Hour (1985.0)
+   Predicted: 7.6/10 | Score: 0.586
+   IMDb: 6.4
+   Director: Jaime de Armiñán
+
+153. The World of Apu (1959.0)
+   Predicted: 8.2/10 | Score: 0.657
+   IMDb: 8.4
+   Director: Satyajit Ray
+
+523. The Wound (2017.0)
+   Predicted: 7.8/10 | Score: 0.606
+   IMDb: 6.8
+   Director: John Trengove
+
+465. The Year My Parents Went on Vacation (2007.0)
+   Predicted: 5.3/10 | Score: 0.314
+   IMDb: 0.0
+   Director: Unknown
+
+176. Thevar Magan (1992.0)
+   Predicted: 8.2/10 | Score: 0.662
+   IMDb: 8.7
+   Director: Bharathan
+
+283. Three Brothers (1981.0)
+   Predicted: 7.9/10 | Score: 0.617
+   IMDb: 7.1
+   Director: Francesco Rosi
+
+234. Three Men and a Cradle (1985.0)
+   Predicted: 7.4/10 | Score: 0.554
+   IMDb: 6.6
+   Director: Coline Serreau
+
+125. Through the Olive Trees (1994.0)
+   Predicted: 8.1/10 | Score: 0.641
+   IMDb: 7.7
+   Director: Abbas Kiarostami
+
+457. Tieta of Agreste (1996.0)
+   Predicted: 7.7/10 | Score: 0.596
+   IMDb: 6.6
+   Director: Carlos Diegues
+
+467. Time of Fear (2009.0)
+   Predicted: 5.4/10 | Score: 0.321
+   IMDb: 0.0
+   Director: Unknown
+
+281. To Forget Venice (1979.0)
+   Predicted: 7.8/10 | Score: 0.602
+   IMDb: 6.6
+   Director: Franco Brusati
+
+142. Today (2014.0)
+   Predicted: 8.0/10 | Score: 0.604
+   IMDb: 6.1
+   Director: Reza Mirkarimi
+
+526. Toorbos (2020.0)
+   Predicted: 6.3/10 | Score: 0.363
+   IMDb: 0.0
+   Director: Unknown
+
+386. Tristana (1970.0)
+   Predicted: 8.1/10 | Score: 0.635
+   IMDb: 7.4
+   Director: Luis Buñuel
+
+331. Trotta (1972.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+134. Turtles Can Fly (2004.0)
+   Predicted: 8.2/10 | Score: 0.650
+   IMDb: 8.0
+   Director: Bahman Ghobadi
+
+69. Twin Sisters of Kyoto (1963.0)
+   Predicted: 7.9/10 | Score: 0.618
+   IMDb: 7.1
+   Director: Noboru Nakamura
+
+366. Two Lives (2013.0)
+   Predicted: 6.0/10 | Score: 0.351
+   IMDb: 0.0
+   Director: Unknown
+
+463. Two Sons of Francisco (2005.0)
+   Predicted: 7.9/10 | Score: 0.613
+   IMDb: 6.9
+   Director: Breno Silveira
+
+259. Two of Us (2020.0)
+   Predicted: 6.3/10 | Score: 0.363
+   IMDb: 0.0
+   Director: Unknown
+
+537. Unclenching the Fists (2021.0)
+   Predicted: 8.2/10 | Score: 0.623
+   IMDb: 6.6
+   Director: Kira Kovalenko
+
+59. Unclenching the Fists 2021 (0.0)
+   Predicted: 5.3/10 | Score: 0.315
+   IMDb: 0.0
+   Director: Unknown
+
+78. Under the Flag of the Rising Sun (1972.0)
+   Predicted: 8.2/10 | Score: 0.646
+   IMDb: 7.9
+   Director: Kinji Fukasaku
+
+19. Untying the Knot (2007.0)
+   Predicted: 7.6/10 | Score: 0.568
+   IMDb: 7.0
+   Director: Jafar Panahi
+
+162. Uphaar (1972.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+237. Van Gogh (1991.0)
+   Predicted: 7.9/10 | Score: 0.618
+   IMDb: 7.1
+   Director: Maurice Pialat
+
+320. Vermiglio (2024.0)
+   Predicted: 8.3/10 | Score: 0.658
+   IMDb: 6.9
+   Director: Maura Delpero
+
+200. Village Rockstars (2018.0)
+   Predicted: 6.2/10 | Score: 0.359
+   IMDb: 0.0
+   Director: Unknown
+
+198. Visaranai (2016.0)
+   Predicted: 6.0/10 | Score: 0.349
+   IMDb: 0.0
+   Director: Unknown
+
+280. Viva Italia! (1978.0)
+   Predicted: 5.3/10 | Score: 0.316
+   IMDb: 0.0
+   Director: Unknown
+
+49. Ward No. 6 (2009.0)
+   Predicted: 7.7/10 | Score: 0.592
+   IMDb: 6.3
+   Director: Aleksandr Gornovskiy, Karen Shakhnazarov
+
+15. Warriors of Heaven and Earth (2003.0)
+   Predicted: 7.5/10 | Score: 0.580
+   IMDb: 6.3
+   Director: Ping He
+
+120. Weathering with You (2019.0)
+   Predicted: 8.3/10 | Score: 0.644
+   IMDb: 7.5
+   Director: Makoto Shinkai
+
+495. Welcome to Dongmakgol (2005.0)
+   Predicted: 8.2/10 | Score: 0.640
+   IMDb: 7.6
+   Director: Kwang-Hyun Park
+
+242. Western (1997.0)
+   Predicted: 7.4/10 | Score: 0.555
+   IMDb: 6.7
+   Director: Manuel Poirier
+
+363. When We Leave (2010.0)
+   Predicted: 8.2/10 | Score: 0.640
+   IMDb: 7.5
+   Director: Feo Aladag
+
+286. Where's Picone? (1984.0)
+   Predicted: 7.4/10 | Score: 0.561
+   IMDb: 7.0
+   Director: Nanni Loy
+
+52. White Tiger (2012.0)
+   Predicted: 7.3/10 | Score: 0.539
+   IMDb: 6.1
+   Director: Karen Shakhnazarov
+
+515. White Wedding (2009.0)
+   Predicted: 7.3/10 | Score: 0.536
+   IMDb: 6.1
+   Director: Jann Turner
+
+239. Wild Reeds (1994.0)
+   Predicted: 7.9/10 | Score: 0.620
+   IMDb: 7.3
+   Director: André Téchiné
+
+29. Wolf Warrior 2 (2017.0)
+   Predicted: 7.9/10 | Score: 0.595
+   IMDb: 5.9
+   Director: Jing Wu
+
+70. Woman in the Dunes (1964.0)
+   Predicted: 8.1/10 | Score: 0.655
+   IMDb: 8.4
+   Director: Hiroshi Teshigahara
+
+148. World War III (2022.0)
+   Predicted: 8.3/10 | Score: 0.637
+   IMDb: 7.1
+   Director: Houman Seyyedi
+
+445. Xica (1976.0)
+   Predicted: 7.9/10 | Score: 0.615
+   IMDb: 7.0
+   Director: Carlos Diegues
+
+28. Xuanzang (2016.0)
+   Predicted: 6.0/10 | Score: 0.349
+   IMDb: 0.0
+   Director: Unknown
+
+346. Yasemin (1988.0)
+   Predicted: 7.5/10 | Score: 0.591
+   IMDb: 6.7
+   Director: Hark Bohm
+
+513. Yesterday (2004.0)
+   Predicted: 8.1/10 | Score: 0.636
+   IMDb: 7.5
+   Director: Darrell Roodt
+
+270. Yesterday, Today and Tomorrow (1964.0)
+   Predicted: 5.3/10 | Score: 0.317
+   IMDb: 0.0
+   Director: Unknown
+
+413. You're the one (una historia de entonces) (2000.0)
+   Predicted: 7.9/10 | Score: 0.614
+   IMDb: 7.0
+   Director: José Luis Garci
+
+92. Zegen (1987.0)
+   Predicted: 7.5/10 | Score: 0.561
+   IMDb: 6.9
+   Director: Shôhei Imamura

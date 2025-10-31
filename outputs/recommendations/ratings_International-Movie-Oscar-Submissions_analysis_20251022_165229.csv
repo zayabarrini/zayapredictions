@@ -1,0 +1,530 @@
+Rank,Title,Year,Predicted_Rating,Recommendation_Score,IMDb_Rating,Runtime_mins,Director,Runtime_Vs_Your_Avg,IMDb_Vs_Your_Avg,Predicted_Vs_Your_Avg,Good_Runtime_Match,Good_IMDb_Match,High_Confidence,Has_LGBT,Has_Cinematography,Has_Screenplay,Has_Plot_Twist
+1,100 Yen Love,2015.0,6.01,0.35,0.0,0,Unknown,-106.201,-7.369,-1.921,False,False,False,0,0,0,0
+2,12.12: The Day,2024.0,6.29,0.364,0.0,0,Unknown,-106.201,-7.369,-1.641,False,False,False,0,0,0,0
+3,15 Years and One Day,2013.0,7.413,0.565,5.7,96,Gracia Querejeta,-10.201,-1.669,-0.519,True,False,False,0,0,0,0
+4,2005: Blood and Bones,0.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+5,"301, 302",1995.0,7.161,0.536,6.4,100,Park Chul-Soo,-6.201,-0.969,-0.771,True,True,False,0,0,0,0
+6,8 Women,2002.0,7.364,0.558,7.0,111,François Ozon,4.799,-0.369,-0.567,True,True,False,0,0,0,0
+7,9th Company,2006.0,5.26,0.313,0.0,0,Unknown,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+8,A Barefoot Dream,2010.0,8.082,0.626,7.1,121,Tae-gyun Kim,14.799,-0.269,0.15,True,True,True,0,0,0,0
+9,A Ciambra,2017.0,8.069,0.621,6.9,118,Jonas Carpignano,11.799,-0.469,0.138,True,True,True,0,0,0,0
+10,A Leap in the Dark,1980.0,7.854,0.609,6.8,120,Marco Bellocchio,13.799,-0.569,-0.078,True,True,True,0,0,0,0
+11,A Man and a Woman,1966.0,8.137,0.637,7.5,102,Claude Lelouch,-4.201,0.131,0.205,True,True,True,0,0,0,0
+12,A Moslem,1995.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+13,A Prophet,2009.0,8.272,0.65,7.8,155,Jacques Audiard,48.799,0.431,0.341,False,True,True,0,0,0,0
+14,A Simple Story,1979.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+15,A Time for Drunken Horses,2000.0,7.959,0.632,7.7,80,Bahman Ghobadi,-26.201,0.331,0.027,True,True,True,0,0,0,0
+16,A Woman in Flames,1983.0,7.08,0.552,5.9,106,Robert van Ackeren,-0.201,-1.469,-0.852,True,False,False,0,0,0,0
+17,About Elly,2009.0,8.25,0.651,7.9,119,Asghar Farhadi,12.799,0.531,0.319,True,True,True,0,0,0,0
+18,"Abu, Son of Adam",2011.0,8.302,0.651,7.8,101,Salim Ahmed,-5.201,0.431,0.371,True,True,True,0,0,0,0
+19,After the Rain,2000.0,6.981,0.529,5.0,87,Mark Lamprell,-19.201,-2.369,-0.951,True,False,False,0,0,0,0
+20,Afternoon of the Bulls,1956.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+21,Aftershock,2010.0,8.073,0.658,7.5,135,Xiaogang Feng,28.799,0.131,0.141,True,True,True,0,0,0,0
+22,Aimee & Jaguar,1999.0,7.854,0.617,7.2,125,Max Färberböck,18.799,-0.169,-0.078,True,True,True,0,0,0,0
+23,Alcarràs,2022.0,8.338,0.637,7.0,120,Carla Simón,13.799,-0.369,0.407,True,True,True,0,0,0,0
+24,Amrapali,1966.0,7.361,0.576,6.7,119,Lekh Tandon,12.799,-0.669,-0.571,True,True,False,0,0,0,0
+25,And Tomorrow the Entire World,2020.0,8.094,0.605,6.0,111,Julia von Heinz,4.799,-1.369,0.162,True,False,True,0,0,0,0
+26,And the Ship Sails On,1983.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+27,Angry Harvest,1985.0,7.935,0.619,7.1,105,Agnieszka Holland,-1.201,-0.269,0.003,True,True,True,0,0,0,0
+28,Anjali,1990.0,8.106,0.649,8.2,150,Mani Ratnam,43.799,0.831,0.175,False,True,True,0,0,0,0
+29,Antarctica,1983.0,8.231,0.644,7.6,143,Koreyoshi Kurahara,36.799,0.231,0.299,False,True,True,0,0,0,0
+30,Antonio das Mortes,1969.0,7.543,0.597,7.0,99,Glauber Rocha,-7.201,-0.369,-0.388,True,True,False,0,0,0,0
+31,Arms and the Man,1958.0,7.054,0.527,6.2,96,Franz Peter Wirth,-10.201,-1.169,-0.877,True,False,False,0,0,0,0
+32,Artists Under the Big Top: Perplexed,1968.0,7.636,0.592,6.5,103,Alexander Kluge,-3.201,-0.869,-0.296,True,True,False,0,0,0,0
+33,Aruse,1957.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+34,At Five O'Clock in the Afternoon,1960.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+35,At the Ends of the Earth,1999.0,7.6,0.58,7.5,8,Konstantin Bronzit,-98.201,0.131,-0.332,False,True,False,0,0,0,0
+36,Avenue Montaigne,2006.0,5.26,0.313,0.0,0,Unknown,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+37,"Ay, Carmela!",1990.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+38,Baaria,2009.0,7.775,0.607,6.9,163,Giuseppe Tornatore,56.799,-0.469,-0.156,False,True,True,0,0,0,0
+39,Babenco: Tell Me When I Die,2020.0,6.26,0.363,0.0,0,Unknown,-106.201,-7.369,-1.671,False,False,False,0,0,0,0
+40,Back to 1942,2013.0,6.03,0.352,0.0,0,Unknown,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+41,Bandit Queen,1994.0,7.501,0.575,7.5,119,Shekhar Kapur,12.799,0.131,-0.43,True,True,False,0,0,0,0
+42,Barakat,2021.0,6.26,0.363,0.0,0,Unknown,-106.201,-7.369,-1.671,False,False,False,0,0,0,0
+43,Baran,2001.0,8.138,0.643,7.8,94,Majid Majidi,-12.201,0.431,0.206,True,True,True,0,0,0,0
+44,Barbara,2012.0,8.095,0.629,7.2,105,Christian Petzold,-1.201,-0.169,0.164,True,True,True,0,0,0,0
+45,Barfi!,2012.0,8.059,0.645,8.1,151,Anurag Basu,44.799,0.731,0.128,False,True,True,0,0,0,0
+46,Beanpole,2019.0,8.226,0.635,7.2,130,Kantemir Balagov,23.799,-0.169,0.294,True,True,True,0,0,0,0
+47,Beauty,2011.0,8.015,0.607,6.3,99,Oliver Hermanus,-7.201,-1.069,0.083,True,False,True,0,0,0,0
+48,Begging for Love,1998.0,8.167,0.638,7.5,135,Hideyuki Hirayama,28.799,0.131,0.236,True,True,True,0,0,0,0
+49,Begin the Beguine,1982.0,7.574,0.597,6.9,87,José Luis Garci,-19.201,-0.469,-0.358,True,True,False,0,0,0,0
+50,Behind the Sun,2001.0,8.163,0.64,7.6,105,"Walter Salles, Emrah Semih Kosar",-1.201,0.231,0.232,True,True,True,0,0,0,0
+51,Being Two Isn't Easy,1962.0,7.466,0.589,6.8,88,Kon Ichikawa,-18.201,-0.569,-0.466,True,True,False,0,0,0,0
+52,Beloved Sisters,2014.0,7.861,0.619,6.1,138,Dominik Graf,31.799,-1.269,-0.07,False,False,True,0,0,0,0
+53,Better Days Ahead,1989.0,7.636,0.598,6.8,92,Carlos Diegues,-14.201,-0.569,-0.295,True,True,False,0,0,0,0
+54,Betty Blue,1986.0,7.873,0.62,7.3,119,Jean-Jacques Beineix,12.799,-0.069,-0.059,True,True,True,0,0,0,0
+55,Beyond Silence,1997.0,5.38,0.319,0.0,0,Unknown,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+56,Bingo: The King of the Mornings,2017.0,8.19,0.647,7.9,113,Daniel Rezende,6.799,0.531,0.258,True,True,True,0,0,0,0
+57,Black Bread,2011.0,5.85,0.342,0.0,0,Unknown,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+58,"Black God, White Devil",1964.0,7.827,0.615,7.2,120,Glauber Rocha,13.799,-0.169,-0.104,True,True,True,0,0,0,0
+59,Black Orpheus,1959.0,8.127,0.634,7.4,100,Marcel Camus,-6.201,0.031,0.196,True,True,True,0,0,0,0
+60,Blancanieves,2012.0,8.192,0.64,7.5,104,Pablo Berger,-2.201,0.131,0.26,True,True,True,0,0,0,0
+61,Bon Voyage,2003.0,7.78,0.603,6.7,114,Jean-Paul Rappeneau,7.799,-0.669,-0.151,True,True,True,0,0,0,0
+62,Bpm,2017.0,6.09,0.354,0.0,0,Andre Blak,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+63,Breaking the Silence,2000.0,5.38,0.319,0.0,0,Unknown,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+64,Breath,2017.0,8.302,0.629,6.7,115,Simon Baker,8.799,-0.669,0.371,True,True,True,0,0,0,0
+65,Brother of Sleep,1995.0,7.878,0.614,7.0,127,Joseph Vilsmaier,20.799,-0.369,-0.053,True,True,True,0,0,0,0
+66,Burnt by the Sun 3: The Citadel,2011.0,5.85,0.342,0.0,0,Unknown,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+67,Bwana,1996.0,6.861,0.539,5.8,81,Imanol Uribe,-25.201,-1.569,-1.071,True,False,False,0,0,0,0
+68,Bye Bye Brazil,1980.0,8.216,0.639,7.4,110,Carlos Diegues,3.799,0.031,0.284,True,True,True,0,0,0,0
+69,Caesar Must Die,2012.0,8.002,0.626,7.3,77,"Paolo Taviani, Vittorio Taviani",-29.201,-0.069,0.07,True,True,True,0,0,0,0
+70,Café Transit,2006.0,5.26,0.313,0.0,0,Unknown,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+71,Carmen,1983.0,8.203,0.638,7.4,102,Carlos Saura,-4.201,0.031,0.272,True,True,True,0,0,0,0
+72,Case of the Naves Brothers,1967.0,8.2,0.654,8.2,92,Luiz Sérgio Person,-14.201,0.831,0.268,True,True,True,0,0,0,0
+73,Caught in the Web,2012.0,7.97,0.609,6.5,117,Kaige Chen,10.799,-0.869,0.039,True,True,True,0,0,0,0
+74,Cause of Death: Unknown,2025.0,6.29,0.364,0.0,0,Unknown,-106.201,-7.369,-1.641,False,False,False,0,0,0,0
+75,Children of Heaven,1998.0,5.38,0.319,0.0,0,Unknown,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+76,China Is Near,1967.0,7.842,0.608,6.8,107,Marco Bellocchio,0.799,-0.569,-0.09,True,True,True,0,0,0,0
+77,Chunhyang,2000.0,7.907,0.617,7.1,137,Im Kwon-taek,30.799,-0.269,-0.024,False,True,True,0,0,0,0
+78,"Cinema, Aspirins and Vultures",2006.0,5.26,0.313,0.0,0,Unknown,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+79,Cliff Walkers,2021.0,8.022,0.611,6.5,120,"Zhuang Jieqiong, Yimou Zhang",13.799,-0.869,0.09,True,True,True,0,0,0,0
+80,Close to Eden,1992.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+81,Cloud,2024.0,8.257,0.619,6.3,124,Kiyoshi Kurosawa,17.799,-1.069,0.325,True,False,True,0,0,0,0
+82,Concrete Utopia,2023.0,8.403,0.632,6.6,130,Tae-hwa Eom,23.799,-0.769,0.472,True,True,True,0,0,0,0
+83,Confessions,2010.0,8.204,0.644,7.7,106,Tetsuya Nakashima,-0.201,0.331,0.273,True,True,True,0,0,0,0
+84,Country Teachers,1993.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+85,Coup d'Etat,1973.0,7.818,0.631,6.8,110,Yoshishige Yoshida,3.799,-0.569,-0.114,True,True,True,0,0,0,0
+86,Coup de Torchon,1982.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+87,Course Completed,1987.0,7.486,0.578,6.2,94,José Luis Garci,-12.201,-1.169,-0.445,True,False,False,0,0,0,0
+88,"Cousin, cousine",1976.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+89,Cradle Song,1994.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+90,Curse of the Golden Flower,2006.0,7.916,0.616,7.0,114,Yimou Zhang,7.799,-0.369,-0.015,True,True,True,0,0,0,0
+91,Cyrano de Bergerac,1990.0,8.006,0.654,7.5,137,Jean-Paul Rappeneau,30.799,0.131,0.074,False,True,True,0,0,0,0
+92,Dead to Rights,2025.0,6.29,0.364,0.0,0,Unknown,-106.201,-7.369,-1.641,False,False,False,0,0,0,0
+93,Dear Comrades!,2020.0,8.202,0.662,7.4,121,Andrey Konchalovskiy,14.799,0.031,0.271,True,True,True,0,0,0,0
+94,Death Commands Brigandage,1960.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+95,Deathmaker,1996.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+96,Declaration of War,2011.0,7.998,0.62,7.0,100,Valérie Donzelli,-6.201,-0.369,0.067,True,True,True,0,0,0,0
+97,Deep Breath,2003.0,8.008,0.628,7.4,86,Parviz Shahbazi,-20.201,0.031,0.077,True,True,True,0,0,0,0
+98,Deep River,1995.0,8.157,0.642,7.7,130,Kei Kumai,23.799,0.331,0.226,True,True,True,0,0,0,0
+99,Deiva Magan,1969.0,8.12,0.646,8.0,166,A.C. Trilogchander,59.799,0.631,0.188,False,True,True,0,0,0,0
+100,Descendants of Cain,1968.0,5.96,0.402,0.0,107,Yu Hyun-mok,0.799,-7.369,-1.971,True,False,False,0,0,0,0
+101,Devdas,2002.0,8.137,0.637,7.5,185,Sanjay Leela Bhansali,78.799,0.131,0.206,False,True,True,0,0,0,0
+102,Diva,1981.0,7.579,0.571,7.1,117,Jean-Jacques Beineix,10.799,-0.269,-0.353,True,True,False,0,0,0,0
+103,Dodes'ka-den,1971.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+104,Dogman,2018.0,8.116,0.63,7.2,103,Matteo Garrone,-3.201,-0.169,0.185,True,True,True,0,0,0,0
+105,Don't Be Bad,2015.0,8.115,0.628,7.1,103,Claudio Caligari,-3.201,-0.269,0.183,True,True,True,0,0,0,0
+106,Don't Tell,2005.0,7.583,0.587,6.4,120,Cristina Comencini,13.799,-0.969,-0.349,True,True,False,0,0,0,0
+107,Double Feature,1984.0,7.176,0.557,5.9,115,José Luis Garci,8.799,-1.469,-0.756,True,False,False,0,0,0,0
+108,Downfall,2004.0,8.194,0.678,8.2,156,Oliver Hirschbiegel,49.799,0.831,0.262,False,True,True,0,0,0,0
+109,Dr. Sun Yat-sen,1986.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+110,Dream Weavers: Beijing 2008,2008.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+111,Dulcinea,1962.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+112,East/West,1999.0,8.062,0.655,7.4,121,Régis Wargnier,14.799,0.031,0.13,True,True,True,0,0,0,0
+113,Ecos de familia,2025.0,6.29,0.364,0.0,0,Heber Chávez,-106.201,-7.369,-1.641,False,False,False,0,0,0,0
+114,Effendi,1979.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+115,Eklavya: The Royal Guard,2007.0,7.235,0.562,6.0,105,Vidhu Vinod Chopra,-1.201,-1.369,-0.697,True,False,False,0,0,0,0
+116,El amor brujo,1967.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+117,Elder Sister,1968.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+118,Elelwani,2014.0,6.03,0.352,0.0,0,Unknown,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+119,Elite Squad: The Enemy Within,2011.0,5.85,0.342,0.0,0,Unknown,-106.201,-7.369,-2.081,False,False,False,0,0,0,0
+120,Empire of Passion,1978.0,7.88,0.614,7.0,105,Nagisa Ôshima,-1.201,-0.369,-0.052,True,True,True,0,0,0,0
+121,Entre Nous,1983.0,7.878,0.614,7.0,110,Diane Kurys,3.799,-0.369,-0.053,True,True,True,0,0,0,0
+122,Eoudong,1985.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+123,Er nu men,1986.0,6.015,0.381,0.0,0,N/A,-106.201,-7.369,-1.916,False,False,False,0,0,0,0
+124,Escape from Mogadishu,2021.0,8.309,0.635,7.0,121,Ryoo Seung-wan,14.799,-0.369,0.378,True,True,True,0,0,0,0
+125,Eunuch,1986.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+126,Even the Rain,2010.0,8.009,0.652,7.4,103,Icíar Bollaín,-3.201,0.031,0.077,True,True,True,0,0,0,0
+127,Fabian,1980.0,6.833,0.534,5.6,110,Wolf Gremm,3.799,-1.769,-1.099,True,False,False,0,0,0,0
+128,Farewell Baghdad,2010.0,7.323,0.562,5.8,97,Mehdi Naderi,-9.201,-1.569,-0.608,True,False,False,0,0,0,0
+129,Fatal Exposure,1991.0,6.565,0.48,5.1,89,Alan Metzger,-17.201,-2.269,-1.366,True,False,False,0,0,0,0
+130,Faust,1960.0,8.14,0.635,7.4,128,"Peter Gorski, Gustaf Gründgens",21.799,0.031,0.209,True,True,True,0,0,0,0
+131,Fellini Satyricon,1969.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+132,Final Take: The Golden Age of Movies,1986.0,7.799,0.61,7.0,135,Yôji Yamada,28.799,-0.369,-0.132,True,True,True,0,0,0,0
+133,Finding Farideh,2019.0,6.22,0.361,0.0,0,Unknown,-106.201,-7.369,-1.711,False,False,False,0,0,0,0
+134,Fire at Sea,2016.0,7.666,0.567,6.7,114,Gianfranco Rosi,7.799,-0.669,-0.266,True,True,False,0,0,0,0
+135,Fires on the Plain,1959.0,8.08,0.642,7.9,108,Kon Ichikawa,1.799,0.531,0.149,True,True,True,0,0,0,0
+136,Fitzcarraldo,1982.0,8.197,0.65,8.0,158,Werner Herzog,51.799,0.631,0.266,False,True,True,0,0,0,0
+137,Flowers,2015.0,7.26,0.521,5.4,79,Phil Stevens,-27.201,-1.969,-0.671,True,False,False,0,0,0,0
+138,Forever Enthralled,2009.0,5.43,0.321,0.0,0,Unknown,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+139,Four Corners,2013.0,7.498,0.553,6.4,119,Ian Gabriel,12.799,-0.969,-0.433,True,True,False,0,0,0,0
+140,Four Days in September,1997.0,8.045,0.654,7.4,110,Bruno Barreto,3.799,0.031,0.114,True,True,True,0,0,0,0
+141,French Twist,1995.0,7.554,0.586,6.4,104,Josiane Balasko,-2.201,-0.969,-0.377,True,True,False,0,0,0,0
+142,Gabbeh,1997.0,5.38,0.319,0.0,0,Unknown,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+143,Gakkô II,1996.0,7.882,0.608,6.7,122,Yôji Yamada,15.799,-0.669,-0.049,True,True,True,0,0,0,0
+144,Gangster's Paradise: Jerusalema,2008.0,7.922,0.622,7.3,119,Ralph Ziman,12.799,-0.069,-0.009,True,True,True,0,0,0,0
+145,Gassan,1979.0,5.9,0.375,0.0,103,Tetsutaro Murano,-3.201,-7.369,-2.031,True,False,False,0,0,0,0
+146,Gate of Hell,1954.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+147,Genghis Khan,1998.0,7.963,0.61,6.6,113,"Mailisi, Saifu",6.799,-0.769,0.031,True,True,True,0,0,0,0
+148,Germinal,1993.0,7.909,0.617,7.1,160,Claude Berri,53.799,-0.269,-0.023,False,True,True,0,0,0,0
+149,Gervaise,1956.0,8.124,0.634,7.4,116,René Clément,9.799,0.031,0.192,True,True,True,0,0,0,0
+150,Get Out Your Handkerchiefs,1978.0,7.888,0.612,6.9,108,Bertrand Blier,1.799,-0.469,-0.044,True,True,True,0,0,0,0
+151,Go,2001.0,8.166,0.636,7.4,122,Isao Yukisada,15.799,0.031,0.235,True,True,True,0,0,0,0
+152,Go Away Mr. Tumor,2015.0,7.554,0.558,6.5,85,Yan Han,-21.201,-0.869,-0.378,True,True,False,0,0,0,0
+153,Golden Door,2006.0,7.922,0.636,6.8,118,Emanuele Crialese,11.799,-0.569,-0.009,True,True,True,0,0,0,0
+154,Gomorrah,2008.0,7.847,0.612,7.0,137,Matteo Garrone,30.799,-0.369,-0.084,False,True,True,0,0,0,0
+155,Gray Sunset,1985.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+156,Gully Boy,2019.0,8.055,0.641,7.9,154,Zoya Akhtar,47.799,0.531,0.124,False,True,True,0,0,0,0
+157,Guru,1997.0,8.191,0.66,8.5,136,Rajiv Anchal,29.799,1.131,0.26,True,False,True,0,0,0,0
+158,"Habla, mudita",1973.0,7.386,0.571,6.1,88,Manuel Gutiérrez Aragón,-18.201,-1.269,-0.546,True,False,False,0,0,0,0
+159,Half of Heaven,1986.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+160,Harishchandra's Factory,2009.0,5.43,0.321,0.0,0,Unknown,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+161,Harp of Burma,1956.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+162,Henna,1991.0,7.25,0.567,6.2,184,Randhir Kapoor,77.799,-1.169,-0.681,False,False,False,0,0,0,0
+163,Her Love Boils Bathwater,2017.0,6.09,0.354,0.0,0,Unknown,-106.201,-7.369,-1.841,False,False,False,0,0,0,0
+164,Hey Ram,2000.0,8.253,0.677,8.0,186,Kamal Haasan,79.799,0.631,0.322,False,True,True,0,0,0,0
+165,Hibiscus Town,1987.0,8.196,0.678,8.2,164,Jin Xie,57.799,0.831,0.264,False,True,True,0,0,0,0
+166,Hidden Man,2018.0,7.759,0.596,6.4,137,Wen Jiang,30.799,-0.969,-0.172,False,True,False,0,0,0,0
+167,High Heels,1991.0,7.864,0.613,7.0,112,Pedro Almodóvar,5.799,-0.369,-0.068,True,True,True,0,0,0,0
+168,High Street,1957.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+169,His Wife's Diary,2000.0,5.38,0.319,0.0,0,Unknown,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+170,Hoa Binh,1970.0,7.843,0.618,7.3,93,Raoul Coutard,-13.201,-0.069,-0.088,True,True,True,0,0,0,0
+171,Homebound,2025.0,7.0,0.43,0.0,0,Neeraj Ghaywan,-106.201,-7.369,-0.931,False,False,False,0,0,0,0
+172,Hope and Pain,1988.0,7.886,0.612,6.9,120,Yôji Yamada,13.799,-0.469,-0.046,True,True,True,0,0,0,0
+173,Hot Winds,1974.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+174,Hour of the Star,1986.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+175,House of Flying Daggers,2004.0,8.154,0.638,7.5,119,Yimou Zhang,12.799,0.131,0.223,True,True,True,0,0,0,0
+176,House of Fools,2002.0,7.891,0.615,7.0,104,Andrey Konchalovskiy,-2.201,-0.369,-0.041,True,True,True,0,0,0,0
+177,How Tasty Was My Little Frenchman,1972.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+178,Hula Girls,2006.0,7.898,0.615,7.0,108,Sang-il Lee,1.799,-0.369,-0.034,True,True,True,0,0,0,0
+179,Human Capital,2014.0,6.03,0.352,0.0,0,Unknown,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+180,Hunting Scenes from Bavaria,1969.0,7.817,0.617,7.3,88,Peter Fleischmann,-18.201,-0.069,-0.115,True,True,True,0,0,0,0
+181,I Just Didn't Do It,2007.0,5.28,0.314,0.0,0,Unknown,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+182,I'm Not Scared,2003.0,8.181,0.637,7.4,108,Gabriele Salvatores,1.799,0.031,0.249,True,True,True,0,0,0,0
+183,"I'm Taraneh, 15",2002.0,7.906,0.617,7.1,110,Rasoul Sadrameli,3.799,-0.269,-0.026,True,True,True,0,0,0,0
+184,I'm Your Man,2021.0,8.209,0.632,7.1,108,Maria Schrader,1.799,-0.269,0.278,True,True,True,0,0,0,0
+185,Immortal Love,1961.0,7.865,0.619,7.3,103,Keisuke Kinoshita,-3.201,-0.069,-0.066,True,True,True,0,0,0,0
+186,In the Arms of the Tree,2024.0,6.29,0.364,0.0,0,Unknown,-106.201,-7.369,-1.641,False,False,False,0,0,0,0
+187,In the Fade,2017.0,8.177,0.631,7.1,106,Fatih Akin,-0.201,-0.269,0.245,True,True,True,0,0,0,0
+188,India Song,1975.0,7.429,0.573,6.1,120,Marguerite Duras,13.799,-1.269,-0.503,True,False,False,0,0,0,0
+189,Indian,1996.0,8.202,0.652,8.1,185,S. Shankar,78.799,0.731,0.27,False,True,True,0,0,0,0
+190,Investigation of a Citizen Above Suspicion,1970.0,8.152,0.648,8.0,115,Elio Petri,8.799,0.631,0.221,True,True,True,0,0,0,0
+191,It Was Just an Accident,2025.0,6.29,0.364,0.0,0,Jafar Panahi,-106.201,-7.369,-1.641,False,False,False,0,0,0,0
+192,Jallikattu,2020.0,6.26,0.363,0.0,0,Unknown,-106.201,-7.369,-1.671,False,False,False,0,0,0,0
+193,Jean Renoir: Part One - From La Belle Époque to World War II,1993.0,7.424,0.561,7.0,60,David M. Thompson,-46.201,-0.369,-0.508,False,True,False,0,0,0,0
+194,Jeans,1998.0,7.571,0.589,6.5,175,S. Shankar,68.799,-0.869,-0.361,False,True,False,0,0,0,0
+195,Joyeux Noël: La musique du film,2005.0,7.891,0.603,7.9,40,David Dessites,-66.201,0.531,-0.04,False,True,True,0,0,0,0
+196,João and the Knife,1973.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+197,Ju Dou,1990.0,8.159,0.64,7.6,95,"Yimou Zhang, Fengliang Yang",-11.201,0.231,0.227,True,True,True,0,0,0,0
+198,Julieta,2016.0,8.098,0.627,7.1,99,Pedro Almodóvar,-7.201,-0.269,0.167,True,True,True,0,0,0,0
+199,Just the Two of Us,2015.0,6.05,0.352,0.0,45,Jared Earland,-61.201,-7.369,-1.881,False,False,False,0,0,0,0
+200,Juvenile Offender,2013.0,6.03,0.352,0.0,0,Unknown,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+201,Kagemusha: The Shadow Warrior,1980.0,8.254,0.675,7.9,162,Akira Kurosawa,55.799,0.531,0.322,False,True,True,0,0,0,0
+202,Kapo,1960.0,8.147,0.639,7.6,116,Gillo Pontecorvo,9.799,0.231,0.216,True,True,True,0,0,0,0
+203,Keeper of Promises,1962.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+204,King and the Clown,2006.0,5.26,0.313,0.0,0,Unknown,-106.201,-7.369,-2.671,False,False,False,0,0,0,0
+205,Knuckle City,2019.0,7.592,0.56,6.5,124,Jahmil X.T. Qubeka,17.799,-0.869,-0.34,True,True,False,0,0,0,0
+206,Kokuho,2025.0,7.0,0.43,0.0,0,Sang-il Lee,-106.201,-7.369,-0.931,False,False,False,0,0,0,0
+207,"Kuragejima, Legends From a Southern Island",1969.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+208,Kuruthipunal,1995.0,8.166,0.658,8.5,143,P.C. Sreeram,36.799,1.131,0.234,False,False,True,0,0,0,0
+209,Kwaidan,1965.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+210,La Celestina,1969.0,8.199,0.658,8.4,123,César Fernández Ardavín,16.799,1.031,0.268,True,False,True,0,0,0,0
+211,La Notte,1961.0,8.139,0.645,7.9,122,Michelangelo Antonioni,15.799,0.531,0.208,True,True,True,0,0,0,0
+212,La Tía Tula,1965.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+213,La prima Angélica,1974.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+214,La venganza,1958.0,7.816,0.609,6.9,122,Juan Antonio Bardem,15.799,-0.469,-0.116,True,True,True,0,0,0,0
+215,Laapataa Ladies,2024.0,6.29,0.364,0.0,0,Unknown,-106.201,-7.369,-1.641,False,False,False,0,0,0,0
+216,Labyrinth of Lies,2015.0,6.01,0.35,0.0,0,Unknown,-106.201,-7.369,-1.921,False,False,False,0,0,0,0
+217,Lagaan: Once Upon a Time in India,2001.0,8.039,0.644,8.1,224,Ashutosh Gowariker,117.799,0.731,0.107,False,True,True,0,0,0,0
+218,Lake of Tears,1966.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+219,Lamerica,1994.0,8.179,0.637,7.4,116,Gianni Amelio,9.799,0.031,0.247,True,True,True,0,0,0,0
+220,Last Film Show,2022.0,6.31,0.366,0.0,0,Unknown,-106.201,-7.369,-1.621,False,False,False,0,0,0,0
+221,Last Stop 174,2008.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+222,Last Year at Marienbad,1961.0,8.076,0.636,7.6,94,Alain Resnais,-12.201,0.231,0.144,True,True,True,0,0,0,0
+223,Late Autumn,1960.0,8.042,0.64,7.9,128,Yasujirô Ozu,21.799,0.531,0.11,True,True,True,0,0,0,0
+224,Leap,2020.0,8.122,0.618,6.6,135,Peter Ho-Sun Chan,28.799,-0.769,0.19,True,True,True,0,0,0,0
+225,Liar's Dice,2014.0,6.03,0.352,0.0,0,Unknown,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+226,Life,1984.0,8.077,0.644,8.0,152,Tian-Ming Wu,45.799,0.631,0.145,False,True,True,0,0,0,0
+227,Life and Death of the Hollywood Kid,1994.0,7.83,0.616,7.2,114,Jeong Ji-yeong,7.799,-0.169,-0.101,True,True,True,0,0,0,0
+228,"Life, Above All",2010.0,8.065,0.625,7.1,100,Oliver Schmitz,-6.201,-0.269,0.133,True,True,True,0,0,0,0
+229,Like Stars on Earth,2008.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+230,Lili Marleen,1981.0,7.891,0.617,7.1,120,Rainer Werner Fassbinder,13.799,-0.269,-0.041,True,True,True,0,0,0,0
+231,Little One,2012.0,6.675,0.414,0.0,10,Leo West,-96.201,-7.369,-1.256,False,False,False,0,0,0,0
+232,Little Secret,2016.0,8.224,0.639,7.4,107,David Schurmann,0.799,0.031,0.292,True,True,True,0,0,0,0
+233,Live for Life,1967.0,7.554,0.586,6.4,130,Claude Lelouch,23.799,-0.969,-0.377,True,True,False,0,0,0,0
+234,Los Tarantos,1963.0,7.658,0.603,7.0,83,Francisco Rovira Beleta,-23.201,-0.369,-0.273,True,True,True,0,0,0,0
+235,"Love, Hate and Death",1989.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+236,Lover's Grief Over the Yellow River,1999.0,7.52,0.582,6.3,105,Xiaoning Feng,-1.201,-1.069,-0.411,True,False,False,0,0,0,0
+237,"Lula, Son of Brazil",2010.0,5.61,0.33,0.0,0,Unknown,-106.201,-7.369,-2.321,False,False,False,0,0,0,0
+238,M for Mother,2007.0,5.28,0.314,0.0,0,Unknown,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+239,MacArthur's Children,1984.0,7.843,0.61,6.9,125,Masahiro Shinoda,18.799,-0.469,-0.088,True,True,True,0,0,0,0
+240,Macaroni,1985.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+241,Mad Love,2001.0,7.733,0.621,6.5,115,Vicente Aranda,8.799,-0.869,-0.198,True,True,True,0,0,0,0
+242,Madadayo,1993.0,7.913,0.622,7.3,134,"Akira Kurosawa, Ishirô Honda",27.799,-0.069,-0.018,True,True,True,0,0,0,0
+243,Madame Rosa,1977.0,7.834,0.616,7.2,105,Moshé Mizrahi,-1.201,-0.169,-0.098,True,True,True,0,0,0,0
+244,Madhumati,1958.0,7.899,0.601,7.8,110,Bimal Roy,3.799,0.431,-0.033,True,True,True,0,0,0,0
+245,Making of 'Nobody to Watch Over Me',2009.0,5.43,0.321,0.0,25,N/A,-81.201,-7.369,-2.501,False,False,False,0,0,0,0
+246,Mama Turns a Hundred,1979.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+247,Man Under Suspicion,1984.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+248,Manthan,1977.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+249,Mapantsula,1989.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+250,Marriage Italian Style,1965.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+251,Marta,1971.0,7.348,0.569,6.1,96,José Antonio Nieves Conde,-10.201,-1.269,-0.584,True,False,False,0,0,0,0
+252,Mayumi,1990.0,6.486,0.498,4.7,110,Shin Sang-ok,3.799,-2.669,-1.445,True,False,False,0,0,0,0
+253,Me You Them,2000.0,7.799,0.61,7.0,104,Andrucha Waddington,-2.201,-0.369,-0.132,True,True,True,0,0,0,0
+254,Memoir of War,2018.0,6.18,0.359,0.0,0,Unknown,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+255,Memoirs of Prison,1984.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+256,Metropolis,1963.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+257,Moloch,1999.0,7.872,0.608,6.7,108,Aleksandr Sokurov,1.799,-0.669,-0.059,True,True,True,0,0,0,0
+258,Mondays in the Sun,2002.0,8.114,0.636,7.5,113,Fernando León de Aranoa,6.799,0.131,0.182,True,True,True,0,0,0,0
+259,Monsieur Vincent,1948.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+260,Mortal Sin,1970.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+261,Mother,2009.0,8.225,0.645,7.7,129,Bong Joon Ho,22.799,0.331,0.294,True,True,True,0,0,0,0
+262,Mt. Hakkoda,1977.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+263,Muddy River,1981.0,8.192,0.648,7.9,105,Kôhei Oguri,-1.201,0.531,0.26,True,True,True,0,0,0,0
+264,Muhammad: The Messenger of God,2015.0,7.971,0.649,7.3,162,Majid Majidi,55.799,-0.069,0.039,False,True,True,0,0,0,0
+265,Mulleya Mulleya,1984.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+266,Music Is My Life - Joseph Shabalala and Ladysmith Black Mambazo,2023.0,6.22,0.361,0.0,90,"Carolyn Carew, Phumelelo Supa Mbele",-16.201,-7.369,-1.711,True,False,False,0,0,0,0
+267,Music Is My Life – Dr. Joseph Shabalala,2023.0,6.3,0.365,0.0,0,Unknown,-106.201,-7.369,-1.631,False,False,False,0,0,0,0
+268,Mute Samyong,1973.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+269,My Dearest Senorita,1972.0,7.806,0.612,7.1,80,Jaime de Armiñán,-26.201,-0.269,-0.125,True,True,True,0,0,0,0
+270,My Generation,1996.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+271,My Memories of Old Beijing,1983.0,8.142,0.641,7.7,96,Yigong Wu,-10.201,0.331,0.21,True,True,True,0,0,0,0
+272,My Mother and the Roomer,1962.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+273,My Night with Maud,1969.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+274,My Uncle,1958.0,7.59,0.584,7.7,116,Jacques Tati,9.799,0.331,-0.341,True,True,False,0,0,0,0
+275,Nagasaki: Memories of My Son,2016.0,5.99,0.35,0.0,0,Unknown,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+276,Nayakan,1987.0,8.093,0.659,8.7,145,Mani Ratnam,38.799,1.331,0.162,False,False,True,0,0,0,0
+277,Neighbouring Sounds,2013.0,6.03,0.352,0.0,0,Unknown,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+278,Never Look Away,2018.0,8.152,0.642,7.7,189,Florian Henckel von Donnersmarck,82.799,0.331,0.22,False,True,True,0,0,0,0
+279,Newton,2017.0,8.215,0.643,7.6,106,Amit Masurkar,-0.201,0.231,0.284,True,True,True,0,0,0,0
+280,Nice View,2022.0,8.331,0.631,6.7,106,Muye Wen,-0.201,-0.669,0.399,True,True,True,0,0,0,0
+281,Night Watch,2004.0,7.038,0.53,6.4,114,Timur Bekmambetov,7.799,-0.969,-0.893,True,True,False,0,0,0,0
+282,"No Date, No Signature",2018.0,6.18,0.359,0.0,0,Unknown,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+283,No Other Choice,2025.0,7.11,0.436,0.0,139,Park Chan-wook,32.799,-7.369,-0.821,False,False,False,0,0,0,0
+284,No Place to Go,2000.0,5.38,0.319,0.0,0,Unknown,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+285,Noem My Skollie: Call Me Thief,2016.0,8.199,0.64,7.5,140,Daryne Joshua,33.799,0.131,0.268,False,True,True,0,0,0,0
+286,Nostalgia,2022.0,8.479,0.638,6.7,117,Mario Martone,10.799,-0.669,0.547,True,True,True,0,0,0,0
+287,Not of This World,1999.0,7.809,0.614,7.2,100,Giuseppe Piccioni,-6.201,-0.169,-0.122,True,True,True,0,0,0,0
+288,Notturno,2020.0,7.914,0.578,6.6,100,Gianfranco Rosi,-6.201,-0.769,-0.017,True,True,False,0,0,0,0
+289,O Quatrilho,1995.0,7.757,0.604,6.8,92,Fábio Barreto,-14.201,-0.569,-0.174,True,True,True,0,0,0,0
+290,O.K.,1970.0,7.757,0.61,7.1,80,Michael Verhoeven,-26.201,-0.269,-0.175,True,True,True,0,0,0,0
+291,Oasis,2002.0,8.194,0.646,7.8,133,Lee Chang-dong,26.799,0.431,0.262,True,True,True,0,0,0,0
+292,Obaba,2005.0,7.55,0.586,6.4,100,Montxo Armendáriz,-6.201,-0.969,-0.381,True,True,False,0,0,0,0
+293,Of Gods and Men,2010.0,7.98,0.647,7.2,122,Xavier Beauvois,15.799,-0.169,0.049,True,True,True,0,0,0,0
+294,Old Righteous Blues,2024.0,7.0,0.43,0.0,0,Muneera Sallies,-106.201,-7.369,-0.931,False,False,False,0,0,0,0
+295,Olga,2004.0,7.558,0.612,6.5,141,Jayme Monjardim,34.799,-0.869,-0.374,False,True,True,0,0,0,0
+296,One or the Other of Us,1974.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+297,Onimasa,1982.0,7.826,0.609,6.9,146,Hideo Gosha,39.799,-0.469,-0.106,False,True,True,0,0,0,0
+298,Open Doors,1990.0,7.983,0.621,7.1,108,Gianni Amelio,1.799,-0.269,0.051,True,True,True,0,0,0,0
+299,Orfeu,1999.0,6.741,0.527,5.5,110,Carlos Diegues,3.799,-1.869,-1.191,True,False,False,0,0,0,0
+300,Our Homeland,2012.0,8.081,0.628,7.2,100,Yong-hi Yang,-6.201,-0.169,0.15,True,True,True,0,0,0,0
+301,Out,2002.0,6.785,0.511,6.1,119,Hideyuki Hirayama,12.799,-1.269,-1.146,True,False,False,0,0,0,0
+302,Paljas,1997.0,8.173,0.637,7.4,119,Katinka Heyns,12.799,0.031,0.241,True,True,True,0,0,0,0
+303,Paradise,2016.0,8.096,0.625,7.0,130,Andrey Konchalovskiy,23.799,-0.369,0.165,True,True,True,0,0,0,0
+304,Parinda,1989.0,8.295,0.651,7.8,154,Vidhu Vinod Chopra,47.799,0.431,0.364,False,True,True,0,0,0,0
+305,Patrimonio nacional,1981.0,7.422,0.561,7.0,112,Luis García Berlanga,5.799,-0.369,-0.51,True,True,False,0,0,0,0
+306,Payal Ki Jhankaar,1980.0,6.802,0.508,5.9,114,Satyen Bose,7.799,-1.469,-1.13,True,False,False,0,0,0,0
+307,Pebbles,2021.0,7.983,0.617,6.9,75,P.S. Vinothraj,-31.201,-0.469,0.051,False,True,True,0,0,0,0
+308,Peepli [Live],2010.0,8.14,0.635,7.4,95,"Anusha Rizvi, Mahmood Farooqui",-11.201,0.031,0.208,True,True,True,0,0,0,0
+309,Pictures of Ghosts,2023.0,7.827,0.595,7.7,93,Kleber Mendonça Filho,-13.201,0.331,-0.105,True,True,False,0,0,0,0
+310,Pieta,2012.0,8.115,0.628,7.1,103,Kim Ki-duk,-3.201,-0.269,0.183,True,True,True,0,0,0,0
+311,Pina,2011.0,7.539,0.579,7.6,103,Wim Wenders,-3.201,0.231,-0.392,True,True,False,0,0,0,0
+312,Pixote,1981.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+313,Placido,1961.0,8.037,0.638,7.8,85,Luis García Berlanga,-21.201,0.431,0.105,True,True,True,0,0,0,0
+314,Plan 75,2022.0,8.454,0.635,6.6,113,Chie Hayakawa,6.799,-0.769,0.522,True,True,True,0,0,0,0
+315,Poachers,1975.0,8.045,0.63,7.4,82,José Luis Borau,-24.201,0.031,0.114,True,True,True,0,0,0,0
+316,Poetic Justice,1993.0,7.322,0.568,6.1,109,John Singleton,2.799,-1.269,-0.609,True,False,False,0,0,0,0
+317,Pom Poko,1994.0,7.724,0.61,7.2,119,Isao Takahata,12.799,-0.169,-0.207,True,True,True,0,0,0,0
+318,Poppoya,1999.0,5.38,0.319,0.0,0,Unknown,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+319,Portrait of Chieko,1967.0,7.88,0.62,7.3,125,Noboru Nakamura,18.799,-0.069,-0.052,True,True,True,0,0,0,0
+320,Postcard of Paris,2011.0,5.85,0.342,0.0,3,Ashley Neuhof,-103.201,-7.369,-2.081,False,False,False,0,0,0,0
+321,"Pra Quem Fica, Tchau",1971.0,6.633,0.488,5.3,90,Reginaldo Faria,-16.201,-2.069,-1.299,True,False,False,0,0,0,0
+322,Prisoner of the Mountains,1996.0,8.125,0.636,7.5,99,Sergei Bodrov,-7.201,0.131,0.193,True,True,True,0,0,0,0
+323,Private Desert,2021.0,8.298,0.635,7.0,121,Aly Muritiba,14.799,-0.369,0.367,True,True,True,0,0,0,0
+324,Raise Ravens,1976.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+325,Ramparts of Clay,1971.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+326,Rang De Basanti,2006.0,8.18,0.651,8.1,167,Rakeysh Omprakash Mehra,60.799,0.731,0.249,False,True,True,0,0,0,0
+327,Red Cherry,1995.0,7.842,0.612,7.0,120,Daying Ye,13.799,-0.369,-0.089,True,True,True,0,0,0,0
+328,Red Sorghum,1988.0,7.871,0.644,7.3,91,Yimou Zhang,-15.201,-0.069,-0.06,True,True,True,0,0,0,0
+329,Renoir,2013.0,6.03,0.352,0.0,0,Unknown,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+330,Reshma Aur Shera,1971.0,7.566,0.588,6.5,158,Sunil Dutt,51.799,-0.869,-0.365,False,True,False,0,0,0,0
+331,Rhapsody in August,1991.0,7.803,0.614,7.2,98,Akira Kurosawa,-8.201,-0.169,-0.128,True,True,True,0,0,0,0
+332,Rice,1966.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+333,Riddle of the Polar Sky,2005.0,7.628,0.573,7.1,0,Mark Johnston,-106.201,-0.269,-0.304,False,True,False,0,0,0,0
+334,Ridicule,1996.0,7.681,0.634,7.3,102,Patrice Leconte,-4.201,-0.069,-0.25,True,True,True,0,0,0,0
+335,Rien que la vérité,1960.0,5.23,0.312,0.0,97,Albert Riéra,-9.201,-7.369,-2.701,True,False,False,0,0,0,0
+336,Rikyu,1989.0,7.885,0.64,7.1,135,Hiroshi Teshigahara,28.799,-0.269,-0.046,True,True,True,0,0,0,0
+337,Rudaali,1993.0,8.19,0.637,7.4,128,Kalpana Lajmi,21.799,0.031,0.258,True,True,True,0,0,0,0
+338,Run Lola Run,1998.0,7.287,0.566,7.6,80,Tom Tykwer,-26.201,0.231,-0.645,True,True,False,0,0,0,0
+339,Saagar,1985.0,7.856,0.611,6.9,186,Ramesh Sippy,79.799,-0.469,-0.076,False,True,True,0,0,0,0
+340,Saaransh,1984.0,8.164,0.65,8.1,137,Mahesh Bhatt,30.799,0.731,0.233,False,True,True,0,0,0,0
+341,Sahib Bibi Aur Ghulam,1962.0,8.106,0.647,8.1,152,Abrar Alvi,45.799,0.731,0.175,False,True,True,0,0,0,0
+342,Saint Laurent,2014.0,7.694,0.587,6.1,150,Bertrand Bonello,43.799,-1.269,-0.238,False,False,False,0,0,0,0
+343,Saint Omer,2022.0,8.436,0.638,6.8,122,Alice Diop,15.799,-0.569,0.504,True,True,True,0,0,0,0
+344,Salaam Bombay!,1988.0,8.154,0.646,7.9,113,Mira Nair,6.799,0.531,0.222,True,True,True,0,0,0,0
+345,"Samurai, The Legend of Musashi",1955.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+346,Sandakan No. 8,1975.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+347,Saturn Return,2024.0,8.419,0.637,6.8,109,"Isaki Lacuesta, Pol Rodríguez",2.799,-0.569,0.488,True,True,True,0,0,0,0
+348,Saudagar,1973.0,8.192,0.638,7.4,131,Sudhendu Roy,24.799,0.031,0.261,True,True,True,0,0,0,0
+349,Schtonk,1992.0,7.432,0.566,7.2,115,Helmut Dietl,8.799,-0.169,-0.499,True,True,False,0,0,0,0
+350,Sea Fog,2014.0,8.121,0.622,6.8,111,Sung-bo Shim,4.799,-0.569,0.19,True,True,True,0,0,0,0
+351,Secret Sunshine,2007.0,8.153,0.638,7.5,142,Lee Chang-dong,35.799,0.131,0.222,False,True,True,0,0,0,0
+352,Secrets of the Heart,1997.0,7.811,0.611,7.0,105,Montxo Armendáriz,-1.201,-0.369,-0.121,True,True,True,0,0,0,0
+353,Seven Beauties,1976.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+354,Sew the Winter to My Skin,2018.0,7.139,0.515,5.4,132,Jahmil X.T. Qubeka,25.799,-1.969,-0.793,True,False,False,0,0,0,0
+355,Shoeshine,1947.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+356,Sirât,2025.0,8.201,0.636,7.3,115,Oliver Laxe,8.799,-0.069,0.27,True,True,True,0,0,0,0
+357,"So Close, So Far",2005.0,8.185,0.639,7.5,121,Reza Mirkarimi,14.799,0.131,0.253,True,True,True,0,0,0,0
+358,"So Long, Stooge",1984.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+359,Sobibor,2018.0,8.071,0.636,6.4,118,Konstantin Khabensky,11.799,-0.969,0.139,True,True,True,0,0,0,0
+360,Soldiers of Salamis,2003.0,5.3,0.315,0.0,0,Unknown,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+361,Somnambulists,1978.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+362,Sophie Scholl: The Final Days,2005.0,8.201,0.642,7.6,120,Marc Rothemund,13.799,0.231,0.27,True,True,True,0,0,0,0
+363,Sound of Falling,2025.0,7.02,0.431,0.0,149,Mascha Schilinski,42.799,-7.369,-0.911,False,False,False,0,0,0,0
+364,Spain Again,1968.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+365,Spider's Web As Germany,1989.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+366,Stalingrad,2013.0,7.357,0.562,5.7,131,Fedor Bondarchuk,24.799,-1.669,-0.574,True,False,False,0,0,0,0
+367,Stolen Kisses,1968.0,8.086,0.634,7.5,91,François Truffaut,-15.201,0.131,0.155,True,True,True,0,0,0,0
+368,Subway to the Stars,1987.0,7.666,0.593,6.5,103,"Carlos Diegues, Tereza Gonzalez",-3.201,-0.869,-0.266,True,True,False,0,0,0,0
+369,Summer 1993,2017.0,8.08,0.626,7.1,97,Carla Simón,-9.201,-0.269,0.148,True,True,True,0,0,0,0
+370,"Summer Night with Greek Profile, Almond Eyes and Scent of Basil",1986.0,6.495,0.491,5.8,94,Lina Wertmüller,-12.201,-1.569,-1.436,True,False,False,0,0,0,0
+371,Sun Children,2020.0,8.088,0.626,7.1,99,Majid Majidi,-7.201,-0.269,0.156,True,True,True,0,0,0,0
+372,Sundays and Cybèle,1962.0,8.221,0.647,7.8,111,Serge Bourguignon,4.799,0.431,0.289,True,True,True,0,0,0,0
+373,Sunstroke,2015.0,6.75,0.418,0.0,15,Jarno Lindemark,-91.201,-7.369,-1.181,False,False,False,0,0,0,0
+374,Swathi Muthyam,1986.0,8.029,0.651,8.5,160,K. Viswanath,53.799,1.131,0.097,False,False,True,0,0,0,0
+375,"São Paulo, Incorporated",1965.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+376,Taegukgi,2004.0,5.29,0.314,0.0,0,Unknown,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+377,Tent of Miracles,1977.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+378,Terraferma,2011.0,7.788,0.603,6.7,88,Emanuele Crialese,-18.201,-0.669,-0.143,True,True,True,0,0,0,0
+379,That Obscure Object of Desire,1977.0,8.157,0.644,7.8,103,Luis Buñuel,-3.201,0.431,0.225,True,True,True,0,0,0,0
+380,The Age of Shadows,2016.0,7.854,0.609,7.1,140,Kim Jee-woon,33.799,-0.269,-0.078,False,True,True,0,0,0,0
+381,The American Friend,1977.0,8.191,0.638,7.4,128,Wim Wenders,21.799,0.031,0.26,True,True,True,0,0,0,0
+382,The Amorous Ones,1968.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+383,The Amulet of Ogum,1975.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+384,The Baader Meinhof Complex,2008.0,7.3,0.561,7.3,150,Uli Edel,43.799,-0.069,-0.632,False,True,False,0,0,0,0
+385,The Ballad of Narayama,1958.0,8.115,0.642,7.8,98,Keisuke Kinoshita,-8.201,0.431,0.183,True,True,True,0,0,0,0
+386,The Barber of Siberia,1998.0,7.972,0.657,7.7,180,Nikita Mikhalkov,73.799,0.331,0.041,False,True,True,0,0,0,0
+387,The Battle of Algiers,1966.0,8.172,0.651,8.1,121,Gillo Pontecorvo,14.799,0.731,0.241,True,True,True,0,0,0,0
+388,The Best Man,1997.0,7.253,0.565,6.1,101,Pupi Avati,-5.201,-1.269,-0.678,True,False,False,0,0,0,0
+389,The Bicycle Thief,1949.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+390,The Birth of New China,1989.0,6.915,0.556,5.3,171,"Qiankuan Li, Guiyun Xiao",64.799,-2.069,-1.017,False,False,False,0,0,0,0
+391,The Blind Sunflowers,2008.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+392,The Breath,2004.0,5.29,0.314,0.0,0,Unknown,-106.201,-7.369,-2.641,False,False,False,0,0,0,0
+393,The Bridge,1959.0,8.181,0.673,8.0,103,Bernhard Wicki,-3.201,0.631,0.249,True,True,True,0,0,0,0
+394,The Captain of Köpenick,1956.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+395,The Chess Players,1978.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+396,The Chorus,2004.0,8.211,0.647,7.8,97,Christophe Barratier,-9.201,0.431,0.279,True,True,True,0,0,0,0
+397,The Class,2008.0,8.15,0.637,7.5,128,Laurent Cantet,21.799,0.131,0.218,True,True,True,0,0,0,0
+398,The Clown,1976.0,7.748,0.601,6.7,111,Vojtech Jasný,4.799,-0.669,-0.184,True,True,True,0,0,0,0
+399,The Clown Statue,2012.0,5.99,0.35,0.0,5,Aaron Mirtes,-101.201,-7.369,-1.941,False,False,False,0,0,0,0
+400,The Color of Paradise,1999.0,8.14,0.649,8.1,90,Majid Majidi,-16.201,0.731,0.209,True,True,True,0,0,0,0
+401,The Cycle,1977.0,8.194,0.638,7.4,101,Dariush Mehrjui,-5.201,0.031,0.263,True,True,True,0,0,0,0
+402,The Dancer and the Thief,2009.0,7.639,0.584,6.1,127,Fernando Trueba,20.799,-1.269,-0.292,True,False,False,0,0,0,0
+403,The Dreamlife of Angels,1998.0,8.181,0.637,7.4,113,Erick Zonca,6.799,0.031,0.249,True,True,True,0,0,0,0
+404,The Dumb Samyong,1964.0,7.499,0.591,6.8,85,Shin Sang-ok,-21.201,-0.569,-0.432,True,True,False,0,0,0,0
+405,The Edge,2010.0,8.044,0.636,6.5,124,Aleksey Uchitel,17.799,-0.869,0.113,True,True,True,0,0,0,0
+406,The Edge of Heaven,2007.0,8.203,0.644,7.7,116,Fatih Akin,9.799,0.331,0.272,True,True,True,0,0,0,0
+407,The Endless Trench,2020.0,6.26,0.363,0.0,0,Unknown,-106.201,-7.369,-1.671,False,False,False,0,0,0,0
+408,The Enigma of Kaspar Hauser,1975.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+409,The Experiment,2001.0,8.147,0.641,7.7,120,Oliver Hirschbiegel,13.799,0.331,0.216,True,True,True,0,0,0,0
+410,The Family,1987.0,8.207,0.638,7.4,127,Ettore Scola,20.799,0.031,0.276,True,True,True,0,0,0,0
+411,The Fencing Master,1992.0,7.566,0.616,6.7,88,Pedro Olea,-18.201,-0.669,-0.366,True,True,True,0,0,0,0
+412,The Fire Within,1963.0,8.221,0.647,7.8,108,Louis Malle,1.799,0.431,0.289,True,True,True,0,0,0,0
+413,The First Beautiful Thing,2010.0,7.884,0.614,7.0,122,Paolo Virzì,15.799,-0.369,-0.047,True,True,True,0,0,0,0
+414,The Flower of My Secret,1995.0,7.757,0.608,7.0,103,Pedro Almodóvar,-3.201,-0.369,-0.175,True,True,True,0,0,0,0
+415,The Flowers of War,2011.0,8.048,0.656,7.5,146,Yimou Zhang,39.799,0.131,0.116,False,True,True,0,0,0,0
+416,The Fossil,1974.0,8.154,0.638,7.5,200,Masaki Kobayashi,93.799,0.131,0.223,False,True,True,0,0,0,0
+417,The Four Days of Naples,1962.0,8.151,0.64,7.6,120,Nanni Loy,13.799,0.231,0.22,True,True,True,0,0,0,0
+418,The Front Line,2011.0,8.025,0.651,7.3,133,Hun Jang,26.799,-0.069,0.094,True,True,True,0,0,0,0
+419,The Garden of the Finzi-Continis,1971.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+420,The Gates of Paris,1957.0,7.839,0.614,7.1,106,René Clair,-0.201,-0.269,-0.092,True,True,True,0,0,0,0
+421,The Girl in Mourning,1964.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+422,The Girl with the Pistol,1968.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+423,The Glass Cell,1978.0,7.577,0.591,6.6,93,Hans W. Geissendörfer,-13.201,-0.769,-0.354,True,True,False,0,0,0,0
+424,The Good Road,2013.0,7.98,0.599,6.0,92,Gyan Correa,-14.201,-1.369,0.048,True,False,False,0,0,0,0
+425,The Grandfather,1998.0,7.871,0.62,7.3,151,José Luis Garci,44.799,-0.069,-0.061,False,True,True,0,0,0,0
+426,The Great Mystical Circus,2018.0,7.683,0.568,5.2,105,Carlos Diegues,-1.201,-2.169,-0.249,True,False,False,0,0,0,0
+427,The Great Passage,2013.0,8.148,0.633,7.3,134,Yûya Ishii,27.799,-0.069,0.217,True,True,True,0,0,0,0
+428,The Great Pumpkin,1993.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+429,The Great War,1959.0,8.02,0.643,8.1,137,Mario Monicelli,30.799,0.731,0.088,False,True,True,0,0,0,0
+430,The Guide,1965.0,6.04,0.382,0.0,120,Tad Danielewski,13.799,-7.369,-1.891,True,False,False,0,0,0,0
+431,The Hand of God,2021.0,8.271,0.64,7.3,130,Paolo Sorrentino,23.799,-0.069,0.339,True,True,True,0,0,0,0
+432,The Heart Is a Muscle,2025.0,6.929,0.426,0.0,86,Imran Hamdulay,-20.201,-7.369,-1.003,True,False,False,0,0,0,0
+433,The Hundred Steps,2000.0,5.38,0.319,0.0,0,Unknown,-106.201,-7.369,-2.551,False,False,False,0,0,0,0
+434,The Invisible Life of Eurídice Gusmão,2019.0,6.22,0.361,0.0,0,Unknown,-106.201,-7.369,-1.711,False,False,False,0,0,0,0
+435,The Italian,2005.0,8.143,0.637,7.5,90,Andrey Kravchuk,-16.201,0.131,0.212,True,True,True,0,0,0,0
+436,The Keys to the House,2004.0,7.924,0.618,7.1,111,Gianni Amelio,4.799,-0.269,-0.008,True,True,True,0,0,0,0
+437,The Knack... and How to Get It,1965.0,7.006,0.526,6.3,84,Richard Lester,-22.201,-1.069,-0.925,True,False,False,0,0,0,0
+438,The Last Letter,1967.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+439,The Last Metro,1980.0,7.916,0.622,7.3,132,François Truffaut,25.799,-0.069,-0.015,True,True,True,0,0,0,0
+440,The Legend of the Holy Drinker,1988.0,7.915,0.618,7.1,128,Ermanno Olmi,21.799,-0.269,-0.017,True,True,True,0,0,0,0
+441,The Light Shines Only There,2014.0,8.071,0.616,6.6,120,Mipo Oh,13.799,-0.769,0.14,True,True,True,0,0,0,0
+442,The Little Mermaid: Ariel's Beginning,2008.0,7.474,0.578,6.2,77,Peggy Holmes,-29.201,-1.169,-0.457,True,False,False,0,0,0,0
+443,The Lyre of Delight,1978.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+444,The Miracle of Father Malachia,1961.0,7.467,0.569,7.3,122,Bernhard Wicki,15.799,-0.069,-0.465,True,True,False,0,0,0,0
+445,The Nasty Girl,1990.0,7.756,0.638,7.3,92,Michael Verhoeven,-14.201,-0.069,-0.175,True,True,True,0,0,0,0
+446,The Night Guardian,2023.0,6.3,0.365,0.0,0,Unknown,-106.201,-7.369,-1.631,False,False,False,0,0,0,0
+447,The Night of the Shooting Stars,1982.0,7.962,0.622,7.2,107,"Paolo Taviani, Vittorio Taviani",0.799,-0.169,0.03,True,True,True,0,0,0,0
+448,The Nightingale,2014.0,6.03,0.352,0.0,0,Unknown,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+449,The Oil-Hell Murder,1992.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+450,The Old Craftsman of Jar,1969.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+451,The Orphanage,2007.0,8.183,0.637,7.4,105,J.A. Bayona,-1.201,0.031,0.252,True,True,True,0,0,0,0
+452,The Past,2013.0,8.244,0.646,7.7,130,Asghar Farhadi,23.799,0.331,0.313,True,True,True,0,0,0,0
+453,The Pedestrian,1973.0,7.663,0.597,6.7,98,Maximilian Schell,-8.201,-0.669,-0.268,True,True,False,0,0,0,0
+454,The Promise,1994.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+455,The Romanovs: An Imperial Family,2001.0,5.39,0.319,0.0,0,Unknown,-106.201,-7.369,-2.541,False,False,False,0,0,0,0
+456,The Sands of Kurobe,1968.0,7.79,0.61,7.0,196,Kei Kumai,89.799,-0.369,-0.141,False,True,True,0,0,0,0
+457,The Scandalous Adventures of Buraikan,1970.0,7.749,0.603,6.8,104,Masahiro Shinoda,-2.201,-0.569,-0.183,True,True,True,0,0,0,0
+458,The Scarecrow's Night,1974.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+459,The Secret Agent,2025.0,6.29,0.364,0.0,0,Unknown,-106.201,-7.369,-1.641,False,False,False,0,0,0,0
+460,The Secret Diary of Amarcord,1974.0,7.539,0.569,7.1,43,Maurizio Mein,-63.201,-0.269,-0.392,False,True,False,0,0,0,0
+461,The Sinking of the Lisbon Maru,2024.0,6.29,0.364,0.0,0,Unknown,-106.201,-7.369,-1.641,False,False,False,0,0,0,0
+462,The Son's Room,2001.0,7.826,0.617,7.3,99,Nanni Moretti,-7.201,-0.069,-0.105,True,True,True,0,0,0,0
+463,The Song of Sparrows,2008.0,8.298,0.651,7.8,96,Majid Majidi,-10.201,0.431,0.366,True,True,True,0,0,0,0
+464,The Spring Festival,1991.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+465,The Star Maker,1995.0,8.172,0.637,7.4,113,Giuseppe Tornatore,6.799,0.031,0.241,True,True,True,0,0,0,0
+466,The Sting of Death,1990.0,7.868,0.609,6.8,115,Kôhei Oguri,8.799,-0.569,-0.063,True,True,True,0,0,0,0
+467,The Stolen Children,1992.0,8.19,0.642,7.6,114,Gianni Amelio,7.799,0.231,0.259,True,True,True,0,0,0,0
+468,The Story of Fausta,1988.0,7.466,0.577,6.2,90,Bruno Barreto,-16.201,-1.169,-0.465,True,False,False,0,0,0,0
+469,The Taste of Others,2000.0,7.798,0.614,7.2,112,Agnès Jaoui,5.799,-0.169,-0.134,True,True,True,0,0,0,0
+470,The Taste of Things,2023.0,8.205,0.662,7.4,135,Anh Hung Tran,28.799,0.031,0.274,True,True,True,0,0,0,0
+471,The Throne,2015.0,8.1,0.651,7.1,125,Lee Joon-ik,18.799,-0.269,0.169,True,True,True,0,0,0,0
+472,The Tin Drum,1979.0,8.195,0.638,7.4,142,Volker Schlöndorff,35.799,0.031,0.264,False,True,True,0,0,0,0
+473,The Traitor,2019.0,8.167,0.63,7.1,153,Marco Bellocchio,46.799,-0.269,0.235,False,True,True,0,0,0,0
+474,The Twilight Samurai,2003.0,5.3,0.315,0.0,0,Unknown,-106.201,-7.369,-2.631,False,False,False,0,0,0,0
+475,The Umbrellas of Cherbourg,1964.0,8.162,0.644,7.8,91,Jacques Demy,-15.201,0.431,0.231,True,True,True,0,0,0,0
+476,The Unknown Woman,2007.0,5.28,0.314,0.0,0,Unknown,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+477,The Walls of Malapaga,1950.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+478,The Wandering Earth 2,2023.0,6.3,0.365,0.0,0,Unknown,-106.201,-7.369,-1.631,False,False,False,0,0,0,0
+479,The White Balloon,1995.0,8.003,0.632,7.6,85,Jafar Panahi,-21.201,0.231,0.072,True,True,True,0,0,0,0
+480,The Witching Hour,1985.0,7.559,0.586,6.4,105,Jaime de Armiñán,-1.201,-0.969,-0.373,True,True,False,0,0,0,0
+481,The World of Apu,1959.0,8.181,0.657,8.4,105,Satyajit Ray,-1.201,1.031,0.249,True,False,True,0,0,0,0
+482,The Wound,2017.0,7.806,0.606,6.8,88,John Trengove,-18.201,-0.569,-0.126,True,True,True,0,0,0,0
+483,The Year My Parents Went on Vacation,2007.0,5.28,0.314,0.0,0,Unknown,-106.201,-7.369,-2.651,False,False,False,0,0,0,0
+484,Thevar Magan,1992.0,8.152,0.662,8.7,145,Bharathan,38.799,1.331,0.22,False,False,True,0,0,0,0
+485,Three Brothers,1981.0,7.906,0.617,7.1,113,Francesco Rosi,6.799,-0.269,-0.026,True,True,True,0,0,0,0
+486,Three Men and a Cradle,1985.0,7.43,0.554,6.6,106,Coline Serreau,-0.201,-0.769,-0.501,True,True,False,0,0,0,0
+487,Through the Olive Trees,1994.0,8.134,0.641,7.7,103,Abbas Kiarostami,-3.201,0.331,0.203,True,True,True,0,0,0,0
+488,Tieta of Agreste,1996.0,7.676,0.596,6.6,140,Carlos Diegues,33.799,-0.769,-0.255,False,True,False,0,0,0,0
+489,Time of Fear,2009.0,5.43,0.321,0.0,0,Unknown,-106.201,-7.369,-2.501,False,False,False,0,0,0,0
+490,To Forget Venice,1979.0,7.797,0.602,6.6,110,Franco Brusati,3.799,-0.769,-0.135,True,True,True,0,0,0,0
+491,Today,2014.0,8.035,0.604,6.1,88,Reza Mirkarimi,-18.201,-1.269,0.104,True,False,True,0,0,0,0
+492,Toorbos,2020.0,6.26,0.363,0.0,0,Unknown,-106.201,-7.369,-1.671,False,False,False,0,0,0,0
+493,Tristana,1970.0,8.136,0.635,7.4,99,Luis Buñuel,-7.201,0.031,0.205,True,True,True,0,0,0,0
+494,Trotta,1972.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+495,Turtles Can Fly,2004.0,8.205,0.65,8.0,98,Bahman Ghobadi,-8.201,0.631,0.273,True,True,True,0,0,0,0
+496,Twin Sisters of Kyoto,1963.0,7.924,0.618,7.1,107,Noboru Nakamura,0.799,-0.269,-0.007,True,True,True,0,0,0,0
+497,Two Lives,2013.0,6.03,0.352,0.0,0,Unknown,-106.201,-7.369,-1.901,False,False,False,0,0,0,0
+498,Two Sons of Francisco,2005.0,7.906,0.613,6.9,132,Breno Silveira,25.799,-0.469,-0.026,True,True,True,0,0,0,0
+499,Two of Us,2020.0,6.26,0.363,0.0,0,Unknown,-106.201,-7.369,-1.671,False,False,False,0,0,0,0
+500,Unclenching the Fists,2021.0,8.212,0.623,6.6,97,Kira Kovalenko,-9.201,-0.769,0.281,True,True,True,0,0,0,0
+501,Unclenching the Fists 2021,0.0,5.31,0.315,0.0,0,Unknown,-106.201,-7.369,-2.621,False,False,False,0,0,0,0
+502,Under the Flag of the Rising Sun,1972.0,8.153,0.646,7.9,96,Kinji Fukasaku,-10.201,0.531,0.221,True,True,True,0,0,0,0
+503,Untying the Knot,2007.0,7.567,0.568,7.0,7,Jafar Panahi,-99.201,-0.369,-0.364,False,True,False,0,0,0,0
+504,Uphaar,1972.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+505,Van Gogh,1991.0,7.93,0.618,7.1,158,Maurice Pialat,51.799,-0.269,-0.001,False,True,True,0,0,0,0
+506,Vermiglio,2024.0,8.312,0.658,6.9,119,Maura Delpero,12.799,-0.469,0.381,True,True,True,0,0,0,0
+507,Village Rockstars,2018.0,6.18,0.359,0.0,0,Unknown,-106.201,-7.369,-1.751,False,False,False,0,0,0,0
+508,Visaranai,2016.0,5.99,0.35,0.0,0,Unknown,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+509,Viva Italia!,1978.0,5.32,0.316,0.0,0,Unknown,-106.201,-7.369,-2.611,False,False,False,0,0,0,0
+510,Ward No. 6,2009.0,7.724,0.592,6.3,83,"Aleksandr Gornovskiy, Karen Shakhnazarov",-23.201,-1.069,-0.208,True,False,False,0,0,0,0
+511,Warriors of Heaven and Earth,2003.0,7.482,0.58,6.3,120,Ping He,13.799,-1.069,-0.45,True,False,False,0,0,0,0
+512,Weathering with You,2019.0,8.274,0.644,7.5,112,Makoto Shinkai,5.799,0.131,0.343,True,True,True,0,0,0,0
+513,Welcome to Dongmakgol,2005.0,8.15,0.64,7.6,133,Kwang-Hyun Park,26.799,0.231,0.219,True,True,True,0,0,0,0
+514,Western,1997.0,7.429,0.555,6.7,124,Manuel Poirier,17.799,-0.669,-0.503,True,True,False,0,0,0,0
+515,When We Leave,2010.0,8.196,0.64,7.5,119,Feo Aladag,12.799,0.131,0.264,True,True,True,0,0,0,0
+516,Where's Picone?,1984.0,7.425,0.561,7.0,122,Nanni Loy,15.799,-0.369,-0.507,True,True,False,0,0,0,0
+517,White Tiger,2012.0,7.343,0.539,6.1,104,Karen Shakhnazarov,-2.201,-1.269,-0.588,True,False,False,0,0,0,0
+518,White Wedding,2009.0,7.289,0.536,6.1,93,Jann Turner,-13.201,-1.269,-0.643,True,False,False,0,0,0,0
+519,Wild Reeds,1994.0,7.878,0.62,7.3,110,André Téchiné,3.799,-0.069,-0.053,True,True,True,0,0,0,0
+520,Wolf Warrior 2,2017.0,7.939,0.595,5.9,123,Jing Wu,16.799,-1.469,0.008,True,False,False,0,0,0,0
+521,Woman in the Dunes,1964.0,8.133,0.655,8.4,147,Hiroshi Teshigahara,40.799,1.031,0.202,False,False,True,0,0,0,0
+522,World War III,2022.0,8.297,0.637,7.1,117,Houman Seyyedi,10.799,-0.269,0.365,True,True,True,0,0,0,0
+523,Xica,1976.0,7.901,0.615,7.0,107,Carlos Diegues,0.799,-0.369,-0.031,True,True,True,0,0,0,0
+524,Xuanzang,2016.0,5.99,0.35,0.0,0,Unknown,-106.201,-7.369,-1.941,False,False,False,0,0,0,0
+525,Yasemin,1988.0,7.542,0.591,6.7,85,Hark Bohm,-21.201,-0.669,-0.39,True,True,False,0,0,0,0
+526,Yesterday,2004.0,8.121,0.636,7.5,90,Darrell Roodt,-16.201,0.131,0.189,True,True,True,0,0,0,0
+527,"Yesterday, Today and Tomorrow",1964.0,5.33,0.316,0.0,0,Unknown,-106.201,-7.369,-2.601,False,False,False,0,0,0,0
+528,You're the one (una historia de entonces),2000.0,7.88,0.614,7.0,111,José Luis Garci,4.799,-0.369,-0.052,True,True,True,0,0,0,0
+529,Zegen,1987.0,7.456,0.561,6.9,124,Shôhei Imamura,17.799,-0.469,-0.475,True,True,False,0,0,0,0
