@@ -15,6 +15,70 @@ movie_recommender/
 └── main.py
 ```
 
+```
+international-payments/
+├── src/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── config/
+│   │   ├── __init__.py
+│   │   ├── settings.py
+│   │   └── constants.py
+│   ├── core/
+│   │   ├── __init__.py
+│   │   ├── payment_processor.py
+│   │   ├── security_manager.py
+│   │   ├── models.py
+│   │   └── exceptions.py
+│   ├── agents/
+│   │   ├── __init__.py
+│   │   ├── payment_agent.py
+│   │   ├── fraud_detector.py
+│   │   └── route_optimizer.py
+│   ├── services/
+│   │   ├── __init__.py
+│   │   ├── exchange_service.py
+│   │   ├── compliance_service.py
+│   │   ├── analytics_service.py
+│   │   └── notification_service.py
+│   ├── regional/
+│   │   ├── __init__.py
+│   │   ├── compliance_rules.py
+│   │   ├── currency_rules.py
+│   │   └── localization.py
+│   ├── api/
+│   │   ├── __init__.py
+│   │   ├── routes.py
+│   │   ├── schemas.py
+│   │   └── middleware.py
+│   └── utils/
+│       ├── __init__.py
+│       ├── logger.py
+│       ├── validators.py
+│       └── helpers.py
+├── tests/
+│   ├── __init__.py
+│   ├── unit/
+│   ├── integration/
+│   └── fixtures/
+├── docs/
+│   ├── api.md
+│   ├── security.md
+│   └── deployment.md
+├── requirements/
+│   ├── base.txt
+│   ├── dev.txt
+│   └── prod.txt
+├── scripts/
+│   ├── deploy.sh
+│   ├── migrate.py
+│   └── health_check.py
+└── configs/
+    ├── dev.yaml
+    ├── staging.yaml
+    └── prod.yaml
+```
+
 # Basic usage (default files)
 python main.py
 
