@@ -1,4 +1,5 @@
-```movie_recommender/
+```
+movie_recommender/
 ├── Pipfile
 ├── config/
 │   └── config.py
